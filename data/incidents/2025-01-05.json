@@ -1,0 +1,51 @@
+{
+  "count": 3,
+  "date": "2025-01-05",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Past detention incident that came through hotline, posting for tracking purposes. \n\nCommunity arrest 7 am on Monday, 1/5/26 in Salisbury, NC, at the corner of N. Jackson st.  & 11th st.",
+      "id": "inc-77f9d5113dba4ad80cb2f17b29cb6ed2f9a7535b",
+      "location": {
+        "city": "Jackson Street Salisbury",
+        "lat": 35.6845307,
+        "lng": -80.4292591,
+        "state": "NC"
+      },
+      "reported_at": "2025-01-05T12:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "User posted that two of her children were taken by ICE on Long Street in Salisbury. Accompanying video clip by a different user shows four masked uniformed \"agents\" wearing tactical vests stopping a blue sedan. Unclear if these are the same two events, but seems likely.",
+      "id": "inc-b3273819045b3e899c0c2b33c9f6ecb68f39b21e",
+      "location": {
+        "city": "Long Street Salisbury",
+        "lat": 35.6484858,
+        "lng": -80.5590708,
+        "state": "NC"
+      },
+      "reported_at": "2025-01-05T13:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Video shows one individual in fatigues and tactical vest pacing then waiting in parking lot.",
+      "id": "inc-a3ab7652c978f0707287bc7b0421d84e50757f6f",
+      "location": {
+        "city": "360 Apartments Charlotte",
+        "lat": 35.2421963,
+        "lng": -80.9154322,
+        "state": "NC"
+      },
+      "reported_at": "2025-01-05T13:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "large convoy of ice vehicles spotted in redmondkirkland",
+      "id": "inc-c1daa59159bb93080cf3303946dfa209de86ec5a",
+      "location": {
+        "city": "REDMOND",
+        "lat": 47.68148,
+        "lng": -122.1203,
+        "state": "WA"
+      },
+      "reported_at": "2026-01-16T20:21:55+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "ICE seen 4th ave and center heading to 128th street in south",
+      "id": "inc-d490832db673d406cc5614500424955b1fb49469",
+      "location": {
+        "city": "4th ave and center EVERETT",
+        "lat": 47.90072,
+        "lng": -122.18852,
+        "state": "WA"
+      },
+      "reported_at": "2026-01-17T04:57:30+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    }
+  ],
+  "state": "WA"
+}

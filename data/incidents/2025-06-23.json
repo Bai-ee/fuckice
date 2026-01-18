@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-06-23",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "At least 5 unmarked vehicles, 4 visible agents, some in green vests, some in black vests, one with face covering and all in otherwise plain clothes. Five visible vehicles surrounding a black ram truck, agent about to break driver's side window with a pick axe. Detentions unknown but likely.",
+      "id": "inc-f0cc81059158348b8d0a0cd5d8602a70be58eb8f",
+      "location": {
+        "city": "Summer Creek Ln",
+        "lat": 35.3716552,
+        "lng": -80.7919725,
+        "state": "NC"
+      },
+      "reported_at": "2025-06-23T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-11-03",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Was detained while on a construction job in Charlotte from Selma",
+      "id": "inc-ecb8072be7a12112c5a6a017097a545585ce43b7",
+      "location": {
+        "city": "Charlotte",
+        "lat": 35.2270768,
+        "lng": -80.8408933,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-03T11:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

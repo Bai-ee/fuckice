@@ -1,0 +1,111 @@
+{
+  "count": 7,
+  "date": "2025-12-22",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.65,
+      "description": "Numerous posts this morning regarding a heavy presence of ICE in Charlotte. Video shows four unmarked vehicles - two black SUVs, one black sedan, one gray sedan stopping a white work truck with a ladder on top in the middle of Independence.",
+      "id": "inc-8207c18ea1dd089414375b9a9d4155e4ee25333b",
+      "location": {
+        "city": "Independence Road Charlotte",
+        "lat": 35.3652201,
+        "lng": -80.8178243,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-22T12:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Photos show three unmarked service vehicles - two gray SUVs, and one gray Dodge sedan - pulling over a civilian vehicle",
+      "id": "inc-c60e0d48c65c296778950df3a2097119e4f7e52a",
+      "location": {
+        "city": "",
+        "lat": 35.2397942,
+        "lng": -80.7484325,
+        "state": ""
+      },
+      "reported_at": "2025-12-22T12:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Fue a la cita de probation que va todos los meses, y se lo llevaron por detras de la puerta. Esposa estaba esperando afu\u00e9ra, tenia corte a marzo \n\nHe went to his probation appointment, which he attends every month, and they took him away through the back door. His wife was waiting outside. He had a court date in March.",
+      "id": "inc-284574f8aa0be74fe19f825ec7793e040cb3345b",
+      "location": {
+        "city": "Louisburg",
+        "lat": 36.0990393,
+        "lng": -78.301106,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-22T15:05:04.075411+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.4,
+      "description": "Detained at Alamance County jail",
+      "id": "inc-7ee7d6d7270406b610318653dca20d1a43c6c3e5",
+      "location": {
+        "city": "Graham",
+        "lat": 36.0679541,
+        "lng": -79.4003921,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-22T15:14:10.170457+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "The detainee is on an asylum case. ICE was at stake out, parked at soccer field in front of his house, where a lot of moms go to drop of their kids for the school bus, a minute away from a school. ICE did a traffic stop of a work van, one of the people in the truck ran away to the woods. Two people detained.",
+      "id": "inc-03929c8b0da32e08064ac9cb43c7fd2c235a990b",
+      "location": {
+        "city": "Harrisburg Road",
+        "lat": 35.2318154,
+        "lng": -80.6754381,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-22T15:16:07.944223+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Got stopped by police and then taken to jail, ICE took him from jail. Speed/arguing with police officer. Live in Durham",
+      "id": "inc-c56a58974cad7549ebcd82e1c2aac314d5c67f4e",
+      "location": {
+        "city": "Capital Blvd Raleigh",
+        "lat": 35.8328618,
+        "lng": -78.5840091,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-22T15:17:16.906943+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "cita con ice el lunes y no lo agarraon ahi. tiene 1 anio de estar aqui. they live in yadkinville.was in the process of asylum - was his 4th appointment.Every thursday was chekcing in with immigration. 2027 is their court date for asylum. Never hired an attorney or filed for asylum just at the border declared it. no criminal records. He called his dad to tell him he was detained. 3 kids that live here, 9 yrs, 6 yrs, 4 yrs",
+      "id": "inc-6613044324f486a0dd1879cfb37051491366f2ad",
+      "location": {
+        "city": "Charlotte Immigration Court 5701 Executive Center Drive",
+        "lat": 35.20041,
+        "lng": -80.74324,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-22T15:56:13.295204+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

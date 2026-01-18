@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-05-28",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "Two visible agents handcuffing a man against a van. One agent was in green tactical gear and carrying a large gun. The other agent was dressed in plain clothes wearing a black vest labeled HSI.",
+      "id": "inc-c20c4d6d5fcc0a59086d8d1f0fb285a28d7c7bfb",
+      "location": {
+        "city": "Central Ave",
+        "lat": 35.2161331,
+        "lng": -80.7867923,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-28T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

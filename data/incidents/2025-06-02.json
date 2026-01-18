@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "date": "2025-06-02",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "A man was outside of laundromat putting clothes in his car when officers detained him and his partner.",
+      "id": "inc-230a176c6d6540159190510648e3268058bac80f",
+      "location": {
+        "city": "1465 East Cone Blvd",
+        "lat": 36.1161550147228,
+        "lng": -79.7695819434095,
+        "state": "NC"
+      },
+      "reported_at": "2025-06-02T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.6000000000000001,
+      "description": "At least 4 agents in tactical gear and 4 unmarked vehicles that were parked to create a perimeter and block a part of apartment parking lot. Detentions unknown.",
+      "id": "inc-e415634b1971f34a3bab8183882aecd60175ad4f",
+      "location": {
+        "city": "2512 Roseview Lane Charlotte",
+        "lat": 35.2246286,
+        "lng": -80.7803265,
+        "state": "NC"
+      },
+      "reported_at": "2025-06-02T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

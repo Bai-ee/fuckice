@@ -1,0 +1,66 @@
+{
+  "count": 4,
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "ice checking businesses parking lot checkin car truncks of p",
+      "id": "inc-298f3a6f1ea70c5fc34abba903281e3cdcf885c1",
+      "location": {
+        "city": "COLLINS AVE SUNNY ISLES",
+        "lat": 25.93234,
+        "lng": -80.13583,
+        "state": "FL"
+      },
+      "reported_at": "2026-01-16T17:50:57+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "4 men dressed as civilians checking peoples trunks in the ba",
+      "id": "inc-252d2dfc436691ced1d083b95f7df06b5a0bad06",
+      "location": {
+        "city": "COLLINS AVE SUNNY ISLES BEACH",
+        "lat": 25.93234,
+        "lng": -80.13583,
+        "state": "FL"
+      },
+      "reported_at": "2026-01-16T19:13:52+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "4 officers walking around in dark with flash lights knocking",
+      "id": "inc-a45e2a718bae2d6ab61331f54f7689b0e9fb4b00",
+      "location": {
+        "city": "1224 SE 10TH ST GAINESVILLE",
+        "lat": 29.64886,
+        "lng": -82.32506,
+        "state": "FL"
+      },
+      "reported_at": "2026-01-17T05:36:37+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.5,
+      "description": "ICE seen at Lake Monroe in Sanford",
+      "id": "inc-78ca35b3abb42d6addb7558dadb1d7ba1d93cdc9",
+      "location": {
+        "city": "Lake Monroe SANFORD",
+        "lat": 28.81496,
+        "lng": -81.31751,
+        "state": "FL"
+      },
+      "reported_at": "2026-01-17T13:57:36+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    }
+  ],
+  "state": "FL"
+}

@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "ice in vests have a pickup truck boxed in just before 71 off",
+      "id": "inc-5619e9e9fd98e50443a208f24dcc8affd9cb4f47",
+      "location": {
+        "city": "8599 lyra drive columbus",
+        "lat": 40.14501,
+        "lng": -82.98209,
+        "state": "OH"
+      },
+      "reported_at": "2026-01-16T15:19:38+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    }
+  ],
+  "state": "OH"
+}

@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-05-25",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Person had an immigration court appointment and showed up earlier than needed. He was told to return later, but when the person's name was called five officers detained him.",
+      "id": "inc-a523f052836f18c28c87ca44f23bf0b7b6fcc662",
+      "location": {
+        "city": "5701 Executive Drive Charlotte",
+        "lat": 35.2004022,
+        "lng": -80.7432423,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-25T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

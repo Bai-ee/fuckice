@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-11-09",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Jailed in Cabarrus County, and was put on an ICE hold, where ICE picked him up.",
+      "id": "inc-ef8151714546da7352f04dcb834c54e2e6bf8f32",
+      "location": {
+        "city": "",
+        "lat": 35.4088,
+        "lng": -80.5795,
+        "state": ""
+      },
+      "reported_at": "2025-11-09T19:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

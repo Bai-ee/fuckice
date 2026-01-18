@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-05-23",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "Three agents in green and black tactical gear surrounded a work van. Two unmarked vehicles with blue lights were present. Detentions unknown.",
+      "id": "inc-645e8f227cb07802a66c086859a5e12bee7a1071",
+      "location": {
+        "city": "Reese Blvd and Rose Commons Drive Huntersville",
+        "lat": 35.4096880273032,
+        "lng": -80.8666610537844,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-23T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

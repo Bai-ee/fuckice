@@ -1,0 +1,66 @@
+{
+  "count": 4,
+  "date": "2025-06-12",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.55,
+      "description": "A person was leaving home when they got pulled over and taken into ICE custody.",
+      "id": "inc-e06c8c78732a9417ae9d96e35e91864e16f891f9",
+      "location": {
+        "city": "",
+        "lat": 35.9653607,
+        "lng": -78.91943,
+        "state": ""
+      },
+      "reported_at": "2025-06-12T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.6000000000000001,
+      "description": "Agents visiting home in civilian clothes with black bulletproof vests. One agent with face covering. Detentions unknown.",
+      "id": "inc-4b89b330e02ddb870c7c91bfce958188e64f0584",
+      "location": {
+        "city": "Grace St",
+        "lat": 35.9470011,
+        "lng": -79.9931596,
+        "state": "NC"
+      },
+      "reported_at": "2025-06-12T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.6000000000000001,
+      "description": "HSI home visit as seen through door. Detentions unknown.",
+      "id": "inc-b3f2672a430d2c5c76c85ed09d79c3254f7af6a2",
+      "location": {
+        "city": "Sellars Mill Rd",
+        "lat": 36.097248,
+        "lng": -79.397499,
+        "state": "NC"
+      },
+      "reported_at": "2025-06-12T15:37:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "At least 2 agents, one in black bulletproof vest and another in green bulletproof vest, seen pulling someone over in this photo. Detentions unknown.",
+      "id": "inc-9d568f30b9c1961984f9269603a49987e123cb7e",
+      "location": {
+        "city": "Kings Ridge Dr & E Arrowood Rd",
+        "lat": 35.1372861,
+        "lng": -80.8843258,
+        "state": "NC"
+      },
+      "reported_at": "2025-06-12T23:16:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

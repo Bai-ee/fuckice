@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "multiple police cars surrounding one civilian vehicle  sever",
+      "id": "inc-828d829ca02f8f82a785dc542473c34896fdbf1d",
+      "location": {
+        "city": "I95 BALTIMORE",
+        "lat": 39.29487,
+        "lng": -76.62237,
+        "state": "MD"
+      },
+      "reported_at": "2026-01-16T12:51:55+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    }
+  ],
+  "state": "MD"
+}

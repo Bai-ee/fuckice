@@ -1,0 +1,51 @@
+{
+  "count": 3,
+  "date": "2025-05-17",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.45000000000000007,
+      "description": "One agent is visible in a separate photo in green tactical gear labed Border Patrol and a mask, although unclear if that agent also participated in the arrest. In the video, 3 agents in plain clothes and a black vest are shown, 2 of them also wearing masks. One arrest shown in video.",
+      "id": "inc-78210f145e263cae45ab4a0d145c50dddace89a3",
+      "location": {
+        "city": "7000 Barrington Dr #1",
+        "lat": 35.2392134,
+        "lng": -80.7435925,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-17T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.6000000000000001,
+      "description": "Verified by Comunidad Colectiva. Several agents conducting surveillance, unknown if they made arrests.",
+      "id": "inc-c43ebc15ea40fca2a4108b5effac3f523a1f3624",
+      "location": {
+        "city": "2926 Milton Rd",
+        "lat": 35.2369041,
+        "lng": -80.7404419,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-17T16:35:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "Verified by Comunidad Colectiva. At least one person arrested by ICE.",
+      "id": "inc-fe00ea8be8523841faceb5701a0db510745dae54",
+      "location": {
+        "city": "N Tryon St & Orchard Trace Ln",
+        "lat": 35.2807296,
+        "lng": -80.7653835,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-17T22:50:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

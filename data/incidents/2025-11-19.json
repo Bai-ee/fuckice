@@ -1,0 +1,486 @@
+{
+  "count": 32,
+  "date": "2025-11-19",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "The border patrol is at the gas station in front of Wells Fargo.",
+      "id": "inc-c78db0e6c7099825f08824e63443ab7ef244df15",
+      "location": {
+        "city": "3801 N Duke St",
+        "lat": 36.0516670277171,
+        "lng": -78.9053513179518,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T02:04:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Group of 8-9 CBP agents approaching someone in a medic truck in a gas station parking lot. Agents were followed by two men, one with large camera, then got back in their vehicles to leave.",
+      "id": "inc-22f5d05388f62cca65a0c2ffcb93453b144639dd",
+      "location": {
+        "city": "",
+        "lat": 35.1368795,
+        "lng": -80.8755695,
+        "state": ""
+      },
+      "reported_at": "2025-11-19T08:49:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "Two masked agents standing beside black SUV behind a shopping center, another person's face hidden.",
+      "id": "inc-9ac7ad3d99430995b691599f33b3f3e8cd8ee4a4",
+      "location": {
+        "city": "278 Shoppes on the Parkway Rd",
+        "lat": 36.1414921,
+        "lng": -81.67028,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T08:55:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 1.0,
+      "description": "Verified by Comunidad Colectiva. At Home Depot.",
+      "id": "inc-af93ecc7486ebd0bb66696e88e5f1fd4cc1e5d45",
+      "location": {
+        "city": "4750 South Blvd",
+        "lat": 35.1740314,
+        "lng": -80.877501,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T08:59:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.5,
+      "description": "Verified by Comunidad Colectiva.",
+      "id": "inc-d46d2e7c87b5416409bef4a20271d269ebe36c3e",
+      "location": {
+        "city": "Farm Pond Lane & Albemarle Rd",
+        "lat": 35.2029445,
+        "lng": -80.7388278,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T09:02:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "Verified by Comunidad Colectiva. ICE/CBP is in Archdale Marketplace area",
+      "id": "inc-449fa87a6fa04183194c659995a3be6056fdcced",
+      "location": {
+        "city": "South Blvd",
+        "lat": 35.1663754,
+        "lng": -80.8760135,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T09:05:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "At the QT gas station on S. Blvd. One masked CBP agent is walking from a black SUV. Another masked CBP agent is sitting in the passenger seat of a white SUV.",
+      "id": "inc-30cefa1c96e880440994e743d9392cd1d06e4400",
+      "location": {
+        "city": "7115 South Blvd",
+        "lat": 35.1368795,
+        "lng": -80.8755695,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T09:14:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.5,
+      "description": "Verified by Comunidad Colectiva.",
+      "id": "inc-9083af4d145e7348cba143459805e6460716165e",
+      "location": {
+        "city": "3324 South Blvd",
+        "lat": 35.1952087,
+        "lng": -80.873135,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T09:15:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "3 SUVs with masked CBP agents driving around the parking lot of Pollo Campero on S. Blvd. near Planet Fitness",
+      "id": "inc-934bee345028420837cc7a572705a6084e69de78",
+      "location": {
+        "city": "6124 South Blvd",
+        "lat": 35.1519247,
+        "lng": -80.8768624,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T09:17:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "Verified by Comunidad Colectiva. At Ashley Place Apartments",
+      "id": "inc-bb1ccc60b8d5f9c8b37f2ac326eb3615fdc55b02",
+      "location": {
+        "city": "5709 Electra Ln",
+        "lat": 35.1827664,
+        "lng": -80.7512561,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T09:19:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.5,
+      "description": "Verified by Comunidad Colectiva.",
+      "id": "inc-f9a29937b6c615796b85c07ec1ccce6b7ee73343",
+      "location": {
+        "city": "The Plaza and Barrington Dr",
+        "lat": 35.2512807,
+        "lng": -80.7473176,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T09:20:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "Five masked CBP agents at the QT gas station on S. Blvd. They get into 2 white SUVs and drive off",
+      "id": "inc-8e1ab2b49f6d390bf71ab5d7b91c3163157e1f38",
+      "location": {
+        "city": "7115 South Blvd",
+        "lat": 35.1368795,
+        "lng": -80.8755695,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T09:20:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "Verified by. Comunidad Colectiva. At the Lowe's parking lot.",
+      "id": "inc-9534e9b8efd96c9771aa324033c488fbbe937c71",
+      "location": {
+        "city": "8826 Albemarle Rd",
+        "lat": 35.2086554,
+        "lng": -80.6968371,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T09:21:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "At least 5 masked CBP agents detain several individuals at the Panda Express under construction on Albemarle Rd.",
+      "id": "inc-3ccfae2e82306dffa9aa740ac4f514276ab79823",
+      "location": {
+        "city": "13108 Albemarle Rd",
+        "lat": 35.2230905,
+        "lng": -80.6337605,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T09:25:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "Verified by Comunidad Colectiva. At East Town Market.",
+      "id": "inc-127ac5dd78ed3e8e0ae1325d806296e17400e559",
+      "location": {
+        "city": "5800 E W.T. Harris Blvd",
+        "lat": 35.2362202,
+        "lng": -80.735825,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T09:31:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "Four masked CBP agents on the middle median of Albemarle Rd. Bystander asks who they have in the car. Agents drive away in two SUVs shortly after bystander approaches.",
+      "id": "inc-afd154672937cd623c42bac813f220f98b2a9124",
+      "location": {
+        "city": "7135 Albemarle Rd",
+        "lat": 35.2044233,
+        "lng": -80.7220048,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T09:51:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Group of masked uniformed CBP agents handcuff a man on the ground and walk him to a waiting silver van where another person is shown handcuffed and put in a separate black SUV",
+      "id": "inc-dbce5f3cba95c2e478e6f9e74ac78906f2e6df05",
+      "location": {
+        "city": "9510 Albemarle Road Charlotte",
+        "lat": 35.2104828,
+        "lng": -80.6821595,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T09:55:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "Verified by Comunidad Colectiva. At Circle K.",
+      "id": "inc-29a3599da5e18483615bb85109f56c8137dd283f",
+      "location": {
+        "city": "7255 Albermarle Rd",
+        "lat": 35.2045786,
+        "lng": -80.7204113,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T09:57:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.5,
+      "description": "Verified by Comunidad Colectiva.",
+      "id": "inc-a55adb97dafc28249ed9a94477a7f36db79e6758",
+      "location": {
+        "city": "600 Block Allister Dr",
+        "lat": 35.1922325,
+        "lng": -80.7264927,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T10:04:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "Agents pulled in to area and took a woman who was walking. At least 8 CBP vehicles on site. 2 patrol units on site, blowing whistles. Woman collapsed on floor and agents put her in vehicle. She did not identify herself",
+      "id": "inc-c97bd2d77ddf404c57e412208e62e3b2574c9d61",
+      "location": {
+        "city": "3205 N Sharon Amity RdCharlotte",
+        "lat": 35.2042849,
+        "lng": -80.7603909,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T10:15:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.65,
+      "description": "Four unmasked ICE agents standing in a parking lot in front of 2 black SUVs and 1 white van.",
+      "id": "inc-f7abc0506f9c514d45f2e3911c647f177b183d4c",
+      "location": {
+        "city": "125 Tingle Dr",
+        "lat": 35.6311448,
+        "lng": -80.4889156,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T10:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "Six masked CBP agents drive four SUVs are followed by a bystander blowing a whistle near Simmons YMCA. Agents stop their car and one approaches the bystander telling her not to follow them anymore or she will be arrested for impeding an investigation.",
+      "id": "inc-b62863072a7685a130f814da36428634db4dec6f",
+      "location": {
+        "city": "6824 Democracy Dr",
+        "lat": 35.199407,
+        "lng": -80.7317707,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T10:40:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "At least 3 masked CBP agents walk outside DR Stylo Barber\u00eda. One agent is pictured inside the barbershop at the front desk. A white van and 2 black SUVs are parked outside. Agents enter the cars and drive off",
+      "id": "inc-7ffd03bb6cdc9b407488fc26380a6a22ce72acec",
+      "location": {
+        "city": "7016 Albemarle Rd",
+        "lat": 35.201806,
+        "lng": -80.722878,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T11:02:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "One masked agent appears to be approaching the front of Nagano Japanese + Beyond restaurant.",
+      "id": "inc-ba6a53d85a53bbb09c9a2150c5b3e7427c21e621",
+      "location": {
+        "city": "1226 Conover Blvd W",
+        "lat": 35.6968546,
+        "lng": -81.2557982,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T11:51:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "One masked CBP agent seen in the driver's seat of a black SUV in the parking lot of Krispy Kreme and Frida's Mexican Cantina",
+      "id": "inc-2c89779061369195858b584b4ca41bcd60399b43",
+      "location": {
+        "city": "8800 Pineville-Matthews Rd",
+        "lat": 35.0892751,
+        "lng": -80.8683028,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T12:28:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "Verified by Comunidad Colectiva in whatsapp group. At Novant Health Midtown.",
+      "id": "inc-4c382161edf66b5b3e7e92dc0b9a779d9c4d7eb6",
+      "location": {
+        "city": "335 N Casewell Rd Charlotte",
+        "lat": 35.2121529,
+        "lng": -80.819904,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T12:50:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "Verified by Comunidad Colectiva. CBP spotted near Showmars",
+      "id": "inc-2e8201011d8d6e540c8eac34520da505b9042912",
+      "location": {
+        "city": "9925 Park Cedar Dr",
+        "lat": 35.093973,
+        "lng": -80.8655344,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T13:26:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.65,
+      "description": "Four masked CBP agents chase man down Albemarle Road, dodging traffic. They pull man to the ground and handcuff him in the median behind parked black SUV that one agent gets into",
+      "id": "inc-467fe4720ef1fa82b0efae23d266cbdd31cf63e0",
+      "location": {
+        "city": "7026 Albemarle Rd",
+        "lat": 35.2030078,
+        "lng": -80.7226128,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T13:53:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "Four masked CBP agents detain two individuals by a black SUV and a white SUV. Both detained individuals are handcuffed and are being escorted towards the SUVs.",
+      "id": "inc-e2256ab8ad94c6fc00387afe4cf745ad9bfccaa5",
+      "location": {
+        "city": "350 Wilkesboro Blvd NE SE",
+        "lat": 35.9156339,
+        "lng": -81.5172648,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T14:26:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "Detained while on job site",
+      "id": "inc-69c762567c081a930b627210ab81c3622fb28de0",
+      "location": {
+        "city": "350 Wilkesboro Blvd NE SE",
+        "lat": 35.9156339,
+        "lng": -81.5172648,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T16:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Detained at her regular check-in. She had priors of petty theft and other charges, for which she spent some time in jail.",
+      "id": "inc-19111ec7bff2f5fa2fec8a34a0ad1e8c86e41229",
+      "location": {
+        "city": "Charlotte Immigration Court 5701 Executive Center Drive",
+        "lat": 35.20041,
+        "lng": -80.74324,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T17:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "Three masked CBP agents getting into 2 SUVs (one black and one white) in a parking lot that's reportedly by Big Al's",
+      "id": "inc-81917d31ad7bc5a6936d539ae0e966c6f7b6d442",
+      "location": {
+        "city": "9306 Albemarle Rd",
+        "lat": 35.2106668,
+        "lng": -80.6861627,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-19T17:42:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

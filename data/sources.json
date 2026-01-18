@@ -1,0 +1,114 @@
+{
+  "generated_at": "2026-01-18T00:31:25.939763+00:00",
+  "sources": [
+    {
+      "id": "people_over_papers",
+      "name": "People Over Papers - ICE Activity Map",
+      "tier": 1,
+      "url": "https://padlet.com/peopleoverpapers/ice-map",
+      "access": {
+        "status": "error",
+        "http_status": 404,
+        "notes": "Padlet returns 404 for the board URL; content not publicly reachable in this snapshot."
+      },
+      "update_frequency": "unknown (board unavailable)",
+      "coverage": "national",
+      "verification": "human-moderated submissions"
+    },
+    {
+      "id": "ice_in_my_area",
+      "name": "ICE In My Area",
+      "tier": 1,
+      "url": "https://www.iceinmyarea.org",
+      "access": {
+        "status": "blocked",
+        "http_status": 200,
+        "notes": "Site loads, but Firebase RTDB requires AppCheck token (REST returns 'Missing appcheck token')."
+      },
+      "update_frequency": "real-time (verifier reviewed)",
+      "coverage": "national",
+      "verification": "moderator-reviewed"
+    },
+    {
+      "id": "stop_ice",
+      "name": "Stop ICE Alerts",
+      "tier": 1,
+      "url": "https://www.stopice.net",
+      "access": {
+        "status": "ok",
+        "http_status": 200,
+        "notes": "Public map feed at /login/?recentmapdata=1&duration=since_yesterday returns XML-like <map_data> blocks."
+      },
+      "update_frequency": "near real-time",
+      "coverage": "national",
+      "verification": "SMS-driven intake; includes unconfirmed and confirmed flags"
+    },
+    {
+      "id": "icetea_watch",
+      "name": "ICE Tea Watch",
+      "tier": 1,
+      "url": "https://icetea.peoplesrebellion.org",
+      "access": {
+        "status": "error",
+        "notes": "SSL certificate expired; Vercel deployment returns DEPLOYMENT_NOT_FOUND."
+      },
+      "update_frequency": "unknown (deployment unavailable)",
+      "coverage": "unknown",
+      "verification": "dispatcher verification (per source description)"
+    },
+    {
+      "id": "deportationtracker",
+      "name": "DeportationTracker.live",
+      "tier": 2,
+      "url": "https://www.deportationtracker.live",
+      "access": {
+        "status": "ok",
+        "http_status": 200,
+        "notes": "Firestore stats document available at /stats/deportation_data. No incident-level feed exposed in this snapshot."
+      },
+      "update_frequency": "hourly (per site claim)",
+      "coverage": "national",
+      "verification": "aggregated community + public sources"
+    },
+    {
+      "id": "local_networks",
+      "name": "Local Rapid Response Networks",
+      "tier": 2,
+      "url": "https://ojonc.org",
+      "access": {
+        "status": "partial",
+        "notes": "Ojo Obrero (Siembra NC) provides public Supabase 'markers' data; ICIRR and WAISN have no public alert feed in this snapshot."
+      },
+      "update_frequency": "frequent",
+      "coverage": "regional (primarily North Carolina)",
+      "verification": "local moderation"
+    },
+    {
+      "id": "icewatch_archive",
+      "name": "Immigrant Defense Project - ICEwatch Archive",
+      "tier": 3,
+      "url": "https://www.immigrantdefenseproject.org/icewatch/",
+      "access": {
+        "status": "archived",
+        "notes": "Page notes ICEwatch last updated April 2022 and no longer active as of June 2025."
+      },
+      "update_frequency": "archival",
+      "coverage": "historical national",
+      "verification": "organizational archive"
+    },
+    {
+      "id": "trac_context",
+      "name": "TRAC Immigration",
+      "tier": 3,
+      "url": "https://tracreports.org/immigration/quickfacts/detention.html",
+      "access": {
+        "status": "ok",
+        "http_status": 200,
+        "notes": "Quickfacts page contains static tables; used for contextual stats only."
+      },
+      "update_frequency": "periodic (FOIA-based)",
+      "coverage": "national",
+      "verification": "FOIA-based reporting"
+    }
+  ]
+}

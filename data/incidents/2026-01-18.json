@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "date": "2026-01-18",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "around 1pm a fruit vendor was taken near a car wash and a sh",
+      "id": "inc-ee7fadbe779453dc0ab57b42eb6e514192c57695",
+      "location": {
+        "city": "",
+        "lat": 34.04861,
+        "lng": -118.33874,
+        "state": ""
+      },
+      "reported_at": "2026-01-18T00:19:53+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "not confirmed only heard of ice at the heb around 1230pm hea",
+      "id": "inc-d635c66bdbd380d089f415cd440effc5410f5d67",
+      "location": {
+        "city": "",
+        "lat": 30.04141,
+        "lng": -98.15051,
+        "state": ""
+      },
+      "reported_at": "2026-01-18T00:29:42.946808+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    }
+  ]
+}

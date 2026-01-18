@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "date": "2025-12-17",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Lots of people (6+) in dark clothes standing around vehicles, some are trucks",
+      "id": "inc-087ab83c51f52c72dafa6182f8483c5f1fcfbb5b",
+      "location": {
+        "city": "6057 Nations Ford Rd Charlotte",
+        "lat": 35.1651948,
+        "lng": -80.8934821,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-17T11:41:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "Picture of 2 black SUVs and 1 white SUV blocking in a black car.  3 men wearing black jackets and black hats standing by SUVs. Police in white letters is on the back of one man\u2019a jacket.",
+      "id": "inc-7f8b2e3addc15d39131dbfc56ef3bcfc1b5a31cb",
+      "location": {
+        "city": "6800 E Independence Blvd",
+        "lat": 35.1688708,
+        "lng": -80.7441337,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-17T15:04:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

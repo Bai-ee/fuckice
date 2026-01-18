@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "date": "2025-07-15",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "Several agents with police vests, green and black, police lettering, face coverings, and a camera man recording the arrest of a person right outside the shopping center. They broke the car window and blocked the car from leaving.",
+      "id": "inc-b20440fde82ca4a289bfe7b6d071e9f524187745",
+      "location": {
+        "city": "1806 Concord Pkwy N",
+        "lat": 35.4435558,
+        "lng": -80.6087213,
+        "state": "NC"
+      },
+      "reported_at": "2025-07-15T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "Six agents (some in black vests with Police ICE logo, some in green vests, and two with face coverings) attempting to stop traffic off Idlebrook Road in front of Idlewood Farm apartments. One blue minivan with plates TEV-6077 plus some civilian or unmarked cars. Detentions unknown.",
+      "id": "inc-acb9df314ccfd76df23182fa86bf84a5cff335b4",
+      "location": {
+        "city": "Idlewild Farms",
+        "lat": 35.1969747,
+        "lng": -80.7353002,
+        "state": "NC"
+      },
+      "reported_at": "2025-07-15T10:49:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

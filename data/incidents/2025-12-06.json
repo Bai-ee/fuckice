@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-12-06",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Stopped by police for charges below, taken to jail, sent to ICE custody in less than the 2 hours before kids could bail him out (they went to the jail to visit.) Impaired driving y open container prohibited. Failure to maintain lane control.",
+      "id": "inc-16fa78fae51210aaa0ff04595241fd82e251240f",
+      "location": {
+        "city": "Alamance Jail",
+        "lat": 36.0683261,
+        "lng": -79.4035671,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-06T02:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

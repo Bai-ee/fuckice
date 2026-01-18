@@ -1,0 +1,141 @@
+{
+  "count": 9,
+  "date": "2025-12-04",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "On the morning of 12/4, Magdiel was driving to visit someone out east and was pulled over. Brother was unsure of which agency detained brother. It occurred somewhere on Holcombe Rd in Jacksonville NC. He was then put into an ICE hold.",
+      "id": "inc-36bdc51b29b2fafd5ebd5b674300e7133df3f41d",
+      "location": {
+        "city": "Jacksonville",
+        "lat": 34.7540524,
+        "lng": -77.4302414,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-04T14:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "GREENSBORO: Today at 9am a vehicle with a driver and a passenger was rammed by ICE/DHS agents near 4th and Sullivan. 3-5 vehicles with tinted windows and police lights, new model Chevy and Ford SUVs. An ICE vehicle rear-ended the victims while another vehicle drove around them striking them from the front. The male victim got out and was clearly injured. The ICE agents arrested him. They were armed with rifles, did not have their faces covered, one had a vest that says \"HSI Police\". Our volunteers are in touch with the family and helping them search for the injured person.",
+      "id": "inc-b83c1d16493d3fce54ee9f9f5256a3cd6e0e61e9",
+      "location": {
+        "city": "1118 Summit Ave",
+        "lat": 36.0894683,
+        "lng": -79.7725795,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-04T14:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "The person was followed by ICE agents to the school. After she dropped off her child she was pulled over, they were wearing masks and attempted to open her car door, demanding to see ID. They eventually left and she left the area.",
+      "id": "inc-55bf8fa002f19363c604f3f8b422c97fdf319560",
+      "location": {
+        "city": "2135 Ten Ten Road Apex",
+        "lat": 35.7207954,
+        "lng": -78.8183326,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-04T14:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Family lives in Washington, NC. She went in for her interview at 9am. Had an interperter with them. \"I already read over your file, i don't need you - they said to interpeter and daughter\" They said they'd talk to her only. Attorney was on the call the whole time. In the middle of the interview, the ICE agents came in and arrested it. The agent that was doing the interview had said they were going to approve it but then the ICE agents interpetted to arrest us. Permanent Residency -- Work permit that was good until Nov 2030 - had just renewed it. Julie Solonan in Marlyand. She had legal parole. She had a deportation from 1998 but was never notified. 2023 was let in legally. In '98 had an attorney who made them sign things and had things sent to a PO box that she did not have access to. Attorney has already sent an emergency motion to reopen the case. She's not coming up on the ICE locator. Judy Bary (Greg Murphy) - works for her - has poltical connections - has worked for her 30 years - republican donor.",
+      "id": "inc-ac71a7b3ef5d1e0766a8d52c44ebf08742af36de",
+      "location": {
+        "city": "Durham USCIS Office 301 Roycroft Dr",
+        "lat": 35.8864248,
+        "lng": -78.8456596,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-04T14:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.6000000000000001,
+      "description": "Confirmed ICE encounter by bystanders and Verifier. 3-5 vehicles with tinted windows and emergency light (Chevys and Fords) targeted a Hispanic male and female driving in their vehicle. ICE vehicle rear ended the victims vehicle while another vehicle drove around them striking them from the front. The male victim got out and was clearly injured. The ICE agents arrested him. They were heavily armed and wearing cowboy hats, ski masks and ballistics vests. A Verifier was on scene at this time. ICE left with the male victim.",
+      "id": "inc-36c0421e3b4db623be684d99ec77c6f1e969ece7",
+      "location": {
+        "city": "901 Summit Ave",
+        "lat": 36.084283,
+        "lng": -79.7779698,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-04T15:48:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "We can confirm at least two arrests at the CIS (Citizenship & Immigration Services) office today, 12/4, and yesterday, 12/3. In one instance, it was the supposed to be the last appointment before receiving citizenship.",
+      "id": "inc-e7c2907637505a18fc95391f50a1b45b54c63919",
+      "location": {
+        "city": "301 Roycroft Dr",
+        "lat": 35.8863778,
+        "lng": -78.8456364,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-04T17:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "3 autos de agentes federales los pararon, chocaron su auto, se bajaron con rifles automatics, los sacaron del auto, detuvieron a su esposo y se llevaron. A ella la esposaron pero luego la dejaron ir.  Dejaron a sus ni\u00f1os en la escuela, cuando iban de regreso a la casa, varias camionetas negras con vidrios polarizados los pararon, chocaron su auto en el medio de la calle, ten\u00edan armas grand\u00edsimas, los sacaron del auto y se lo llevaron al esposo. A ella la esposaron, la amenazaron con \"balearla\" si se resist\u00eda y luego la soltaron. Hay muchos testigos y videos que ya fueron enviados a siembra.  Nissan beige car. Have videos that already sent to Siembra./ \n\nThree vehicles with federal agents stopped them, rammed their car, got out with automatic rifles, pulled them out of the vehicle, detained her husband, and took him away. They handcuffed her but later let her go. They had left their children at school, and when they were heading back home, several black SUVs with tinted windows stopped them, rammed their car in the middle of the street, and were carrying very large weapons. They pulled them out of the car and took the husband away. She was handcuffed, threatened with being \u201cshot\u201d if she resisted, and then released. There are many witnesses and videos that have already been sent to Siembra. Beige Nissan car. Videos have already been sent to Siembra.",
+      "id": "inc-9d52dc2797bdaba88f1b514a1b94ca4ffc9b210a",
+      "location": {
+        "city": "901 Summit Ave. Greensboro",
+        "lat": 36.084283,
+        "lng": -79.7779698,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-04T17:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "They live in Raleigh. They were the second people detained, \"and many followed\".",
+      "id": "inc-5382ad0fa1f0c2bff08f4e814557a292b888768e",
+      "location": {
+        "city": "CIS 6130 Tyvola Centre Dr",
+        "lat": 35.1642752,
+        "lng": -80.9095822,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-04T18:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.6000000000000001,
+      "description": "One agent in vest, mask, and dark clothes walking in neighborhood. Large white vehicle parked nearby.",
+      "id": "inc-3a8ffbf6bbe923fe12ac9e0e3e1c45f909b48360",
+      "location": {
+        "city": "N. Logan Street",
+        "lat": 36.104842,
+        "lng": -79.4413759,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-04T21:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-02-13",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "U.S. Customs and Border Protection officers conducted a targeted enforcement operation in the Durham area, resulting in the detention of 11 people. All detainees were held at a federal detention facility pending deportation hearings.",
+      "id": "inc-56fc14d49c6d9d366b284e7e050629546162df10",
+      "location": {
+        "city": "W Delafield Ave",
+        "lat": 36.0304944939627,
+        "lng": -78.8952073867881,
+        "state": "NC"
+      },
+      "reported_at": "2025-02-13T19:35:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

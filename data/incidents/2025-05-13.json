@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-05-13",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.6000000000000001,
+      "description": "Verified by Comunidad Colectiva. At least one ICE vehicle was reportedly conducting surveillance. No agents are seen in photo and no detentions known.",
+      "id": "inc-b02b2519eff7bf9969233a6bf19471461cb680c2",
+      "location": {
+        "city": "5603 Farm Pond Ln A",
+        "lat": 35.2043053,
+        "lng": -80.7392589,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-13T13:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

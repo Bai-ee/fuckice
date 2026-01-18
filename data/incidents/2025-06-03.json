@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-06-03",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.6000000000000001,
+      "description": "Verified by Comunidad Colectiva. Photo shows one person in black SUV, but no visual evidence of whether this is a federal agent. Unknown if attempted to make an arrest.",
+      "id": "inc-c6dc0ae4b0447b9400bdc9de81d5133f0209215c",
+      "location": {
+        "city": "5503 Winterhaven Dr",
+        "lat": 35.2049757,
+        "lng": -80.7339378,
+        "state": "NC"
+      },
+      "reported_at": "2025-06-03T12:50:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

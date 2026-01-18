@@ -1,0 +1,51 @@
+{
+  "count": 3,
+  "date": "2025-12-08",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Videos show numerous agents (4+) and SUVs with lights at the intersection outside Lawyers Ridge Apartments. Witness confirmed this was ICE.",
+      "id": "inc-50a7a61bfe0f01cf5fed303c7356092e9a6079c1",
+      "location": {
+        "city": "5310 McAlpine Glen Dr",
+        "lat": 35.1924312,
+        "lng": -80.7072343,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-08T11:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.45000000000000007,
+      "description": "Video shows two dark SUVs and at least one agent possibly wearing a mask staking out the parking lot of Avalon apartments.",
+      "id": "inc-eddd95441e4d540ab4249c3f4d908a48b689f3fb",
+      "location": {
+        "city": "6000 Regal Estate Ln",
+        "lat": 35.207246,
+        "lng": -80.7446405,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-08T13:05:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Detained at probation offices for a standard probation appointment. This morning at 8:30am, detained individual went to their probation appointment and were taken to the third floor of the probation office where there were ICE agents that took him away.",
+      "id": "inc-dc828f6f13a69f1095141c8a16c4e42687c939d7",
+      "location": {
+        "city": "3325 Chapel Hill Blvd",
+        "lat": 35.9706517,
+        "lng": -78.9452645,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-08T13:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

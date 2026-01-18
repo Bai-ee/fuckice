@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-06-13",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.6000000000000001,
+      "description": "Four to five agents dressed in black bulletproof vests were investigating in a Gastonia neghborhood. Detentions unknown.",
+      "id": "inc-7a5180481919bcba9e0248f293592d5f4313dfdc",
+      "location": {
+        "city": "Parkdale Ave",
+        "lat": 35.2563135,
+        "lng": -81.2160448,
+        "state": "NC"
+      },
+      "reported_at": "2025-06-13T13:51:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

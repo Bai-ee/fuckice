@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-07-17",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.6000000000000001,
+      "description": "3 agents pretended to need a roofing estimate and detained one person upon arriving to the address.",
+      "id": "inc-1bf0f8a086f37843c52f69b960cb70e408ce1984",
+      "location": {
+        "city": "2411 Brisbane Woods Way",
+        "lat": 35.7525744,
+        "lng": -78.7491836,
+        "state": "NC"
+      },
+      "reported_at": "2025-07-17T12:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

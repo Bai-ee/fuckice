@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "People being kidnapped from their cars in the parking lot",
+      "id": "inc-2d77b93f9f75d567992f4ed30f8ecda2731b6f2c",
+      "location": {
+        "city": "SOMERSET COLLECTION 2800 W BIG BEAVER RD TROY",
+        "lat": 42.56065,
+        "lng": -83.17559,
+        "state": "MI"
+      },
+      "reported_at": "2026-01-16T21:11:16+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    }
+  ],
+  "state": "MI"
+}

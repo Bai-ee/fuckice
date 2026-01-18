@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-10-21",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "Two black SUV's with dark windows pulled over a car near a motel. Detentions unknown.",
+      "id": "inc-f3cb82ced6e52114265c1cab7c28837455e6984c",
+      "location": {
+        "city": "5920 N. Tryon Street Charlotte",
+        "lat": 35.2638705,
+        "lng": -80.7667005,
+        "state": "NC"
+      },
+      "reported_at": "2025-10-21T23:16:32.89988+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

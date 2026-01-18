@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "date": "2025-11-04",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.55,
+      "description": "A person was pulled over on exit 343 of I-40 because of expired license plate on car (Chevy Malibu). The sheriff initially pulled them over, then called an ICE officer (wearing a long sleeve shirt that had ICE written on it).",
+      "id": "inc-e823aa88a7b94ab04cb7fe97e2297af0e41d21ad",
+      "location": {
+        "city": "I-40 exit 343 Newton Grove",
+        "lat": 35.2519008,
+        "lng": -78.3776985,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-04T16:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.55,
+      "description": "A man was pulled over in Sampson County because local law enforcement thought he wasn't wearing a seat belt. Once they pulled him over and checked his license, they realized his work permit had lapsed. The officer called ICE to pick him up.",
+      "id": "inc-51f49fb9962c003c5283051b457e9329473fc03d",
+      "location": {
+        "city": "US 13 near I-40 in Newton Grove",
+        "lat": 35.2462381,
+        "lng": -78.3531723,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-04T20:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

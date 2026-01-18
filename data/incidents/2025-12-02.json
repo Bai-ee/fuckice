@@ -1,0 +1,51 @@
+{
+  "count": 3,
+  "date": "2025-12-02",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "A worker in Morrisville who was in a car accident w ICE this morning. He's currently in the WakeMed Brier Creek Emergency Department, had a knee injury. I wasn't able to get all the details clearly, but I think he was rammed by the agents (on purpose or by accident), tried to move his car off the road, at which point they rammed him on purpose, totalled his car. He got out of the car, knee injured and \"todo mareado\", they pointed guns at him on the sidewalk, grabbed him and shoved him to the ground, hit his head. At that point they finally asked if he was hurt, and he said yes his knee was hurt, and he said yes, his knee was injured, and so the ambulance was called. He was at Brier Creek Hospital, and then was detained upon discharge around 2pm on 12/2. He was then held for two days at Wake County Sheriff's Office, and is being federally charged with ramming his vehicle into federal agents' vehicles (which he disputes). His next hearing is 12/10, where he will be assigned a public defender.",
+      "id": "inc-2384226eb0b94c72f37eda343a6790e798337697",
+      "location": {
+        "city": "Moorisville",
+        "lat": 35.5820319,
+        "lng": -80.8140473,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-02T16:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.4,
+      "description": "Not Provided",
+      "id": "inc-4f6a32c8b0bb1cf3c6bacb6c87bcf103b40e6fb1",
+      "location": {
+        "city": "301 St Andrews St. Tarboro",
+        "lat": 35.8975058,
+        "lng": -77.5328765,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-02T18:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.6000000000000001,
+      "description": "Three or four individuals masked gathering in front of two or three tinted SUVs in an apartment complex parking lot. Confirmed to be ICE by Comunidad Colectiva.",
+      "id": "inc-b222f572ebb067129be92b058be743b0b23469de",
+      "location": {
+        "city": "2633 Lanecrest Dr Charlotte",
+        "lat": 35.2401893,
+        "lng": -80.7416004,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-02T21:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

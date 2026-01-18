@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-04-17",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "Verified by Comunidad Colectiva. At least two people were arrested by ICE. An agent with a green vest and a face covering was walking on a sidewalk.",
+      "id": "inc-9503d34f3e3843f5586462593eea1b870b5c281b",
+      "location": {
+        "city": "2700 Eastway Dr",
+        "lat": 35.2218808,
+        "lng": -80.7808956,
+        "state": "NC"
+      },
+      "reported_at": "2025-04-17T17:38:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-07-26",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Two agents seen in video, one with yellow civilian shirt and black vest that says POLICE HSI. Several vehicles, including a grey tinted truck and two grey SUV's. Agents detained a person in a black car with Georgia license plate.",
+      "id": "inc-ffd5274926bb5cd912391b9f5302952ef2184c62",
+      "location": {
+        "city": "W 2nd Street",
+        "lat": 35.2346174484849,
+        "lng": -80.8632205701762,
+        "state": "NC"
+      },
+      "reported_at": "2025-07-26T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

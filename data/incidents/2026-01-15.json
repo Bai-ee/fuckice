@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2026-01-15",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "ice vehicle parked outside building on west edge of lot",
+      "id": "inc-11be5f75fdd24c686159b0f7f4d6945f9bc86a33",
+      "location": {
+        "city": "421 VAN BUREN AVENUE NORTH",
+        "lat": 44.95477,
+        "lng": -93.43229,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-15T23:21:20+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    }
+  ]
+}

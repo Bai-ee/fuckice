@@ -1,0 +1,35 @@
+{
+  "document": {
+    "createTime": "2025-03-05T03:28:01.128171Z",
+    "fields": {
+      "daily_arrests": {
+        "integerValue": "409"
+      },
+      "daily_deportations": {
+        "integerValue": "269"
+      },
+      "daily_detentions": {
+        "integerValue": "1170"
+      },
+      "lastUpdated": {
+        "timestampValue": "2026-01-18T00:30:01.640Z"
+      },
+      "total_arrests": {
+        "integerValue": "636278"
+      },
+      "total_deportations": {
+        "integerValue": "183217"
+      },
+      "total_detentions": {
+        "integerValue": "478480"
+      },
+      "total_illegal_immigrants": {
+        "integerValue": "11700000"
+      }
+    },
+    "name": "projects/tracker-114f3/databases/(default)/documents/stats/deportation_data",
+    "updateTime": "2026-01-18T00:30:01.658943Z"
+  },
+  "fetched_at": "2026-01-18T00:29:42.946808+00:00",
+  "source": "deportationtracker"
+}

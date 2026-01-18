@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "date": "2025-12-15",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Behind Sheetz. ICE/ CBP staging. Six Trucks. Unidentifiable weapons. Tactical gear. One agent shown",
+      "id": "inc-e7e324f911ea830853831d65605a18543dca5d20",
+      "location": {
+        "city": "5323 Ramsey St",
+        "lat": 35.132778,
+        "lng": -78.8781157,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-15T17:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "2 men in plain clothes are pictured next to a black SUV.",
+      "id": "inc-753fcb5048bd280b9b6f66e4a59c537420d92d4c",
+      "location": {
+        "city": "1575 US-70 Garner",
+        "lat": 35.7238176,
+        "lng": -78.6506532,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-15T19:17:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

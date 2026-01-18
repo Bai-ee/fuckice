@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "ICE is on the streets and working with local Sheriffs office",
+      "id": "inc-7d49e13594788514f36dccb1e57f55720034f85f",
+      "location": {
+        "city": "NACOGDOCHES",
+        "lat": 31.5576,
+        "lng": -94.51098,
+        "state": "TX"
+      },
+      "reported_at": "2026-01-16T19:56:28+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    }
+  ],
+  "state": "TX"
+}

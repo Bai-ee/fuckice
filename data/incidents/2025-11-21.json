@@ -1,0 +1,411 @@
+{
+  "count": 27,
+  "date": "2025-11-21",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "CBP detained individual outside store",
+      "id": "inc-60dac83fcb512486f70a524600c3d96585e5aa44",
+      "location": {
+        "city": "9112 S Tryon St Charlotte",
+        "lat": 35.1346281,
+        "lng": -80.9407315,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-21T02:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.4,
+      "description": "Puesto control",
+      "id": "inc-c4e28ad251d50b9bf47a138c749901489ad3e1f2",
+      "location": {
+        "city": "",
+        "lat": 35.2133676548792,
+        "lng": -80.8448166137694,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T02:22:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.4,
+      "description": "ICE staging",
+      "id": "inc-27b00869a749e270b0adfa9941204c31f46df795",
+      "location": {
+        "city": "",
+        "lat": 35.6800645376679,
+        "lng": -80.4808462805544,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T02:25:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.4,
+      "description": "Ice has been spotted",
+      "id": "inc-9c744faac9fea4c0bb3fd801aa30fff8b93d1527",
+      "location": {
+        "city": "",
+        "lat": 36.1142051458606,
+        "lng": -81.200044241938,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T02:26:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Ice spotted in this area twice. Once in a Whiteman,  second in a Black truck like vehicle",
+      "id": "inc-5c75320d45af93625cc94d2b5acc5c302faa544f",
+      "location": {
+        "city": "",
+        "lat": 35.7939718080183,
+        "lng": -78.5487691234308,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T02:26:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.5,
+      "description": "ICE gathering",
+      "id": "inc-7f5d7a2ddeb0bd5b2a651e85902e1e8738e7fb63",
+      "location": {
+        "city": "",
+        "lat": 35.6800152778839,
+        "lng": -80.4807616746127,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T02:27:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "3 unmarked SUVs with heavily tinted windows driving up and down Fairview Road (9pm Nov 19th)",
+      "id": "inc-18cd4ddc9f9cec65458da80c4ab3607b2cfc96fc",
+      "location": {
+        "city": "",
+        "lat": 35.1514475240711,
+        "lng": -80.8352205563884,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T02:29:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Raided El patron, arrested a younger gentleman that was a light skin black male who looked hispanic",
+      "id": "inc-2b825f6d53b5c02131216ed26aa19713ecb2b76d",
+      "location": {
+        "city": "",
+        "lat": 35.657684052928,
+        "lng": -80.4634417508111,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T02:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Boarder patrol vehicle driving in mint hill streets",
+      "id": "inc-d098337d259acc2fd36efbb279b071d04a73be0b",
+      "location": {
+        "city": "",
+        "lat": 35.1839499669808,
+        "lng": -80.6667477337999,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T02:33:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.45000000000000007,
+      "description": "Asheville mall",
+      "id": "inc-fa8a89de7894d17f1631736c4550832d78402ede",
+      "location": {
+        "city": "",
+        "lat": 35.8550920553063,
+        "lng": -82.6220207097678,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T02:34:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.4,
+      "description": "Two border patrol vehicles",
+      "id": "inc-4a7d22c4a20269a84e4fa55a523bd55049b5659d",
+      "location": {
+        "city": "",
+        "lat": 34.988735584862,
+        "lng": -80.53110536924,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T02:35:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "Asheville Mall, south Tunnel rd",
+      "id": "inc-fa941324a8fc24969e4feb75bc7cb37c411705de",
+      "location": {
+        "city": "",
+        "lat": 35.5956699328015,
+        "lng": -82.5462932581546,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T02:46:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "Ice officer around the Fairfield hoyel",
+      "id": "inc-4a172ec7ca2767055d7efc77ee73713588a5ad7f",
+      "location": {
+        "city": "",
+        "lat": 35.1415466214366,
+        "lng": -80.7172986102697,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T02:48:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Immigration agents seen on the property in vehicles, recognized two SUVs at 4:30 in the afternoon.",
+      "id": "inc-4090037cbb76fed1f2c990a884b5e3d8cddeba63",
+      "location": {
+        "city": "",
+        "lat": 35.9047001224547,
+        "lng": -78.942055945773,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T02:54:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Two seen in a white van outside the sonic",
+      "id": "inc-937c3ca948254053bc904aad32b17e3fb4ab21fd",
+      "location": {
+        "city": "",
+        "lat": 35.9160699549066,
+        "lng": -81.5348389822909,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T02:56:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "ALPRs Have been placed to send automatic real time notifications on every vehicles tag number.",
+      "id": "inc-b071cdf062e58186206f326a266ab0b661ed1bfa",
+      "location": {
+        "city": "",
+        "lat": 35.3527186545747,
+        "lng": -81.9127818591451,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T03:03:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "ALPRs Have been placed to send automatic real time notifications on every vehicles tag number.",
+      "id": "inc-94b55003cbc2bfb926545d4ebe7c2fc870e112da",
+      "location": {
+        "city": "",
+        "lat": 35.3348305750982,
+        "lng": -81.8404461340801,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T03:04:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "ICE was spotted at Southpoint mall earlier on November 19. But were forbidden to enter by mall security",
+      "id": "inc-516900ef13700d0da99ade557ed93ebeeeb6a3c7",
+      "location": {
+        "city": "",
+        "lat": 35.9057377520837,
+        "lng": -78.9420097698945,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T03:07:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.6000000000000001,
+      "description": "More than 20 uniformed officers in their green vests, on motorcycles and trucks, without any police achievements.",
+      "id": "inc-a36275d6be00f5a2a5aebe5894c2d08e5f217814",
+      "location": {
+        "city": "",
+        "lat": 32.8689289100718,
+        "lng": -79.9204934775095,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T14:18:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.45000000000000007,
+      "description": "Black Tahoe",
+      "id": "inc-c0be217dc22eb8b5dcb5bd8cda8eb65bc243608f",
+      "location": {
+        "city": "",
+        "lat": 35.4518066798028,
+        "lng": -94.441203196245,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T14:47:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.6000000000000001,
+      "description": "5 vans blanca con uniformados como policias.",
+      "id": "inc-50da9c9a41cbe9ddaada8abb9dc2231965ed7fb8",
+      "location": {
+        "city": "",
+        "lat": 35.8169420715685,
+        "lng": -78.8051459472896,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T16:22:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Son has serious charges / felony that his attorney told him to plead guilty to. He had three years of probation and was almost done. Got picked up during probation appointment. Has children",
+      "id": "inc-e6370d006904c58bd57fd91d5de38b9e3062448d",
+      "location": {
+        "city": "Winston Salem",
+        "lat": 36.0948221,
+        "lng": -80.2434028,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-21T17:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "Test",
+      "id": "inc-15a89846cb6217ecf345282e6778ee1bc670c6d2",
+      "location": {
+        "city": "",
+        "lat": 36.0363347084482,
+        "lng": -78.8971183078346,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T18:07:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.4,
+      "description": "Ice had been spotted in Morganton NC",
+      "id": "inc-e1e3d15213b1b097f8e6f704a0953d63961b956b",
+      "location": {
+        "city": "",
+        "lat": 35.7609276319352,
+        "lng": -81.7274658701676,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T18:46:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.4,
+      "description": "Ice seen at plant",
+      "id": "inc-fabf2d839e388dcea6500346388226230895b294",
+      "location": {
+        "city": "",
+        "lat": 35.1868029986492,
+        "lng": -83.8963657953327,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T18:49:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Ice has been spotted in downtown Morganton",
+      "id": "inc-613b35b04bd987188117def0249d149a9503fa19",
+      "location": {
+        "city": "",
+        "lat": 35.746284297707,
+        "lng": -81.6920224743094,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T18:51:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.45000000000000007,
+      "description": "Auburn/opelika ice raids",
+      "id": "inc-84e28e082d49c8f3c20c00129dbd298fb7400306",
+      "location": {
+        "city": "",
+        "lat": 32.6547087311786,
+        "lng": -85.4929795714697,
+        "state": ""
+      },
+      "reported_at": "2025-11-21T19:15:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

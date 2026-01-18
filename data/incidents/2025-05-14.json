@@ -1,0 +1,66 @@
+{
+  "count": 4,
+  "date": "2025-05-14",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "A person was detained during an asylum meeting at the USCIS field office in Charlotte.",
+      "id": "inc-09b633b28531751e2e0e8e7fb2c993bb003bc8a2",
+      "location": {
+        "city": "201 Regency Executive Park Drive Charlotte",
+        "lat": 35.1530645,
+        "lng": -80.8952361,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-14T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "Video shows 5 unmarked vehicles, at least 5 agents in tactical gear, and one person being arrested on the side of the road.",
+      "id": "inc-abc77c7e609d05ed09a57ff60efc74636c1553e4",
+      "location": {
+        "city": "S Tryon St",
+        "lat": 35.158785,
+        "lng": -80.9213495,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-14T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "Verified by Comunidad Colectiva. At least two people arrested by ICE. \nTwo agents seen in a white pick up truck and wearing black vests, but not covering faces. Another agent was recording the arrest. Two other individuals ran away and were chased.",
+      "id": "inc-6a9e1b109b63960b55d720be8c9a7631886a6001",
+      "location": {
+        "city": "Concord Pkwy N & Poplar Tent Rd",
+        "lat": 35.4143336,
+        "lng": -80.6132279,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-14T12:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.45000000000000007,
+      "description": "Verified by Comunidad Colectiva. Image shows a traffic stop of a work van by a gray pick up truck that seems to have blue undercover lights. One possible agent in dark clothes is visible, but no further identification is possible from the image. Detentions unknown.",
+      "id": "inc-0c4870cc54dce916e6bf52711ab128d03f0c6af4",
+      "location": {
+        "city": "S Tryon St & W Arrowood Rd",
+        "lat": 35.1471389,
+        "lng": -80.9262077,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-14T13:20:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

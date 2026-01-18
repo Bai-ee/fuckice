@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-07-23",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Four U.S. Immigrations and Customs Enforcement [ICE] agents went to the Durham County Courthouse on the morning of 7/23/25 to detain a man due to make his first court appearance. The man did not show for court and was not detained.",
+      "id": "inc-684630eac06a35e8e60ee068b020818ed29f9076",
+      "location": {
+        "city": "510 S Dillard St",
+        "lat": 35.9934117457107,
+        "lng": -78.9009194809517,
+        "state": "NC"
+      },
+      "reported_at": "2025-07-23T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

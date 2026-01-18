@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "at the gas station on placentia and 19th theres a suspicious",
+      "id": "inc-f201b04432c1a25a35ab88d5ed1b802092a7c11c",
+      "location": {
+        "city": "PLACENTIA AND 18TH ST",
+        "lat": 33.67896,
+        "lng": -117.90844,
+        "state": "IN"
+      },
+      "reported_at": "2026-01-17T14:51:09+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    }
+  ],
+  "state": "IN"
+}

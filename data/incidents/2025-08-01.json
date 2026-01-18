@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-08-01",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "At least three agents with green and black vests that say \"police\" and face coverings are interrogating one person they pulled over in a pick up truck. Car behind the pick up truck has blue flashing lights. Arrest or detention unknown.",
+      "id": "inc-09082b019b2ade4359ef94b5868978a95d1c68f5",
+      "location": {
+        "city": "Farm Pond Ln & Albemarle Rd",
+        "lat": 35.2029445,
+        "lng": -80.7388278,
+        "state": "NC"
+      },
+      "reported_at": "2025-08-01T12:20:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

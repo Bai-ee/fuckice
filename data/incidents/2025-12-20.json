@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-12-20",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.65,
+      "description": "Traffic stop on Albermarle Rd. Charlotte; Comments report that a red truck was stopped, there are photos of the vehicle and license plate",
+      "id": "inc-654d7dad4ee767930933528a24380fdc1681a3ee",
+      "location": {
+        "city": "8801 Albermarle Road",
+        "lat": 35.2113633,
+        "lng": -80.6974254,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-20T11:25:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

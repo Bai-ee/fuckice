@@ -1,0 +1,1086 @@
+{
+  "count": 72,
+  "date": "2025-11-17",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Several masked BP agents jumped out of a minivan at an intersection, while other vehicles drove off quickly chasing a white work van.",
+      "id": "inc-bea62cea82515d8452b62eb08ac2b9f679e373ae",
+      "location": {
+        "city": "8101 University City Blvd #1A",
+        "lat": 35.2934935,
+        "lng": -80.750585,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Hotline caller reported BP made an arrest at apartments at this location. The agents left in a group of 4-5 SUVs.",
+      "id": "inc-df28a5777d1d8f02277ec7e025a2903da12052c7",
+      "location": {
+        "city": "9415 Lucy Jane Lane Charlotte",
+        "lat": 35.1428424,
+        "lng": -80.7424017,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Video: Security camera footage of two men walking under the awning of a business, green/gray minivan pulls up behind them and two BP agents in green shirts/pants and black vests exit the vehicle and chase the two men off video. A black SUV follows the minivan in the same direction.",
+      "id": "inc-f8be157bb3754699dc3e162e2ad231cb7702837c",
+      "location": {
+        "city": "Plaza Central Shopping Center",
+        "lat": 35.2113389,
+        "lng": -80.7626334,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Video: three BP agents in green clothing and face coverings question a man standing on a ladder and putting up Christmas lights in a family's front yard. The property owner is filming and tells BP agents to leave, they get in a gray/blue minivan and drive away followed by a black SUV. The man being questioned is not detained and leaves in his own vehicle.",
+      "id": "inc-9771f110cff8cbf6e3fc608ce207a32bcd1c09f1",
+      "location": {
+        "city": "3553 Driftwood Dr Charlotte",
+        "lat": 35.2078246,
+        "lng": -80.7638108,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "ICE/CBP presence verified by Comunidad Colectiva",
+      "id": "inc-bfc97e85c5c4d0a35df34d09459a225abfcc3833",
+      "location": {
+        "city": "2947 Gibbon Road Charlotte",
+        "lat": 35.3003442,
+        "lng": -80.8067751,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Report about a Kindercare location, but without images. Later verified by Comunidad Colectiva",
+      "id": "inc-33b257a2ddf6c85488e19d3e773a202a52818688",
+      "location": {
+        "city": "6603 Idlewild Rd",
+        "lat": 35.1841868,
+        "lng": -80.751283,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Report of Border Patrol near Lebos Western wear, but without images. Later verified by Comunidad Colectiva.",
+      "id": "inc-3eeb5f117dcc840b1d3f583cfd37cd500dc5e5d1",
+      "location": {
+        "city": "7300 E Independence Blvd",
+        "lat": 35.1613453,
+        "lng": -80.7404099,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Preliminary report of 2-3 agents in parking lot of Wow Supermarket, Panaderia Odalys",
+      "id": "inc-0c135d01ad00799c1e3ab925e289d76ed50491ae",
+      "location": {
+        "city": "6407 South Blvd Charlotte",
+        "lat": 35.1474137,
+        "lng": -80.8756992,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Person taking the video says the BP cars are hidden, so this is also a preliminary report",
+      "id": "inc-56a514cbd0d596bf391b2cb74e392fac38417004",
+      "location": {
+        "city": "",
+        "lat": 35.2477511,
+        "lng": -80.7524317,
+        "state": ""
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Dubai Night club, right next to La Unica supermarket.  No image, considered preliminary",
+      "id": "inc-4393d55b401ad6abd4858416200ed345006216c7",
+      "location": {
+        "city": "5317 E Independence Blvd",
+        "lat": 35.187718,
+        "lng": -80.7572523,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Dany's supermarket at The Plaza and Milton, no photo, considered preliminary but mentioned by several posts",
+      "id": "inc-fd70bba29592d6cad7543312d51f2762601f9e0e",
+      "location": {
+        "city": "6129 The Plaza",
+        "lat": 35.2491167,
+        "lng": -80.7522766,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "A Charlotte police vehicle is parked, and masked BP agents are standing in the parking lot speaking to the police officer. Video indicates Walmart on N. Tryon. User comments mention Bovino as being present.",
+      "id": "inc-62a7481453e06b847496be0e248dd5baa7bf402c",
+      "location": {
+        "city": "7735 N Tryon St",
+        "lat": 35.2951273,
+        "lng": -80.7580968,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Photo of 4 masked BP agents surrounding person in car in Walmart parking lot",
+      "id": "inc-ffed72e37ea3be171057dcaf0f2b29644d005a7e",
+      "location": {
+        "city": "9101 Albemarle Rd",
+        "lat": 35.2130869,
+        "lng": -80.6885426,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Image of masked BP agents, states that they were at the QuikTrip gas station on N. Tryon.",
+      "id": "inc-d0f0341867f21d158f6c5d8052781a3df71ee946",
+      "location": {
+        "city": "maybe 5700 N Tryon St",
+        "lat": 35.263189,
+        "lng": -80.7708016,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Video of BP agents. Exit 40 on I-85 is Graham Street in North Carolina",
+      "id": "inc-f515eb5bc2ad3b848f5cfe569198dc330ff941ec",
+      "location": {
+        "city": "maybe QT gas station at 4270 Trailer Dr",
+        "lat": 35.2785339,
+        "lng": -80.8090564,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Video of CBP detaining person at Walmart, multiple CBP vehicles",
+      "id": "inc-ad197ebc53837052dc4bfce713ba1faab348ab5c",
+      "location": {
+        "city": "11530 N Tryon St",
+        "lat": 35.3343129,
+        "lng": -80.7127551,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Video showing mutliple vehicles and masked agents in green gathering on street outside Winslow Apartments off South Blvd",
+      "id": "inc-28a4d358e2845e564c6c4859a84f612b45206a31",
+      "location": {
+        "city": "7600 Antlers Ln",
+        "lat": 35.1287377,
+        "lng": -80.8727164,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Verified by Comunidad Colectiva; Whitehall Commons",
+      "id": "inc-dda7c617c0e0bb09159c0fbe99d4506f2bbaf856",
+      "location": {
+        "city": "8031 S Tryon St",
+        "lat": 35.1441432,
+        "lng": -80.9283671,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Verified by Comunidad Colectiva; Home Depot",
+      "id": "inc-f89069d7889aa3b9d98e114ed1e22f2ca44218d4",
+      "location": {
+        "city": "9501 Albemarle Rd",
+        "lat": 35.2124277,
+        "lng": -80.6817588,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Verified by Comunidad Colectiva; arrest made at Compare Foods near Sugar Creek. Protestors were present yelling at the agents.",
+      "id": "inc-58428b12c2b6cb65dafab12b42919325c9777f0c",
+      "location": {
+        "city": "4200 N Tryon St",
+        "lat": 35.2576958,
+        "lng": -80.7954595,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Photo of masked agent talking to another agent in white SUV in parking lot",
+      "id": "inc-7b6432c3e0b38d665b1ab968c66dfe6265dd4206",
+      "location": {
+        "city": "5831 South Blvd Charlotte",
+        "lat": 35.155928,
+        "lng": -80.8750508,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Verified by Comunidad Colectiva; Home Depot",
+      "id": "inc-8439927805656faebe2699f139ef46b8bbd35d9d",
+      "location": {
+        "city": "1220 N Wendover Rd",
+        "lat": 35.193989,
+        "lng": -80.7919219,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Video shows 3 BP agents in green uniforms outside a man's car window. He is recording from inside and refusing to roll down the car window. The agents then shatter his window and drag the man out of his car. No detention was made.",
+      "id": "inc-52b623290338909fe825edeab20b6bf0e0161107",
+      "location": {
+        "city": "6117 South Blvd",
+        "lat": 35.1517529,
+        "lng": -80.8753318,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Verified by Comunidad Colectiva; Aurea Station Apartments",
+      "id": "inc-46ffbc136d56bdaf90f0851cb9b000b80a774f80",
+      "location": {
+        "city": "8625 Winter Oaks Ln",
+        "lat": 35.1189926,
+        "lng": -80.876244,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Three masked BP agents in green uniforms driving a white SUV detain a man in blue jeans, green shirt, and blue baseball hat. Residential neighborhood, reportedly walking home.",
+      "id": "inc-a92804852179132e4169487f46bfc2248e6aed98",
+      "location": {
+        "city": "9146 Sharonbrook Dr Charlotte",
+        "lat": 35.1167786,
+        "lng": -80.8759521,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Verified by Comunidad Colectiva; Weeping Willow AME Zion Church. Man collapsed while ICE was trying to pull him from his car. He was taken to a local Atrium hospital. Reports say the man appeared to be alive and moving, just shocked. His condition at the hospital is unknown at this time",
+      "id": "inc-07cc78b9ee9e09b35e6e997140ebeba3f4a81859",
+      "location": {
+        "city": "2220 Milton Rd",
+        "lat": 35.2412015,
+        "lng": -80.7503685,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Near Little Caesars and a mechanic shop, a masked border patrol agent is talking to a man in a red shirt next to his pick up truck. According to comments in the post, the man was able to provide his identity and was not detained.",
+      "id": "inc-8e258a656c3d94d3a652ab7d662a15a2d5145e62",
+      "location": {
+        "city": "6201 South Blvd. Charlotte",
+        "lat": 35.1515268,
+        "lng": -80.8752993,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Masked BP agents arrest several persons near a food truck. The agents have a white SUV parked near Julie's convenience mart and several black SUVs.",
+      "id": "inc-ed1e4411ca764dd7d4a2556f9ff80bdd4133269d",
+      "location": {
+        "city": "8920 Nations Ford Rd",
+        "lat": 35.1363263,
+        "lng": -80.8923943,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "A masked BP agent was seen getting into a white SUV in the parking lot of a mariachi restaurant. Detentions unknown",
+      "id": "inc-6d8c81b482e3cb2458189a4a4aec51e959ee0add",
+      "location": {
+        "city": "6301 N Tryon St Suite 101-105",
+        "lat": 35.2733164,
+        "lng": -80.7680746,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.4,
+      "description": "Verified by Comunidad Colectiva",
+      "id": "inc-1bc2d8f8e9c36c266fbf935a75f68115ca3749fc",
+      "location": {
+        "city": "7905 South Blvd K",
+        "lat": 35.1275747,
+        "lng": -80.8764087,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Several masked BP agents arrested a person in Compare foods parking lot while onlookers protested and commented. One comment was that the person arrested was a legal resident. Several dark SUVs and one white SUV were nearby at the scene.",
+      "id": "inc-fe065be67c52ed377f7faf52d9e2e778ae2061dc",
+      "location": {
+        "city": "5601 South Blvd",
+        "lat": 35.1602194,
+        "lng": -80.8748644,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Several masked BP agents outside of Compare foods, but no arrests.",
+      "id": "inc-2e6ce7a4e29838ff328344dbc041714e37d6d346",
+      "location": {
+        "city": "3112 Milton Rd",
+        "lat": 35.2353466,
+        "lng": -80.7372921,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Reports of ICE patrolling area, also near Swansboro Ln",
+      "id": "inc-e79c38e58f5d64e73004abcc2d50c336ffa86059",
+      "location": {
+        "city": "9201 Ithaca Ln",
+        "lat": 35.3857193,
+        "lng": -80.8780619,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Unmarked vehicles reported patrolling Vista Villa Apartments",
+      "id": "inc-59a6b9b4ff00074731b0670413c2918b94df676b",
+      "location": {
+        "city": "6309 Montego Dr",
+        "lat": 35.2496042,
+        "lng": -80.7472556,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "spotted patrolling near Charlotte Latin School",
+      "id": "inc-8995c1a74e790effc03b432f4f01a2e9308d2bf0",
+      "location": {
+        "city": "9502 Providence Rd",
+        "lat": 35.0799032,
+        "lng": -80.7735004,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "3 white and black Ford and GMC SUVs in the parking lot of Compare Foods, with at least one agent outside of the cars. Drove off while community members yelled at them. (duplicate from Incident 61)",
+      "id": "inc-f9567a7711e9800571f1fe210d8de945bd415056",
+      "location": {
+        "city": "4300 N Tryon St",
+        "lat": 35.257715,
+        "lng": -80.7935734,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.4,
+      "description": "",
+      "id": "inc-34a62e8e947683875efe771ecfb755be5dd79e6e",
+      "location": {
+        "city": "140 Eastway Dr",
+        "lat": 35.2581595,
+        "lng": -80.7777902,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Church pastor reports one person was detained in the church driveway (reported to phone hotline) Central United Methodist Church.",
+      "id": "inc-681411a26df6450b08c00ec86a08d9c96ebca965",
+      "location": {
+        "city": "6030 Albemarle Road Charlotte",
+        "lat": 35.2026042,
+        "lng": -80.7420978,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Several masked BP agents were standing at the intersection and stopping cars.",
+      "id": "inc-31b4260de03146bce2b5bd82d90a08f56d7b517e",
+      "location": {
+        "city": "Grier Road and East WT Harris Blvd Charlotte",
+        "lat": 35.2661517,
+        "lng": -80.7317087,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Verified by Comunidad Colectiva; Atrium Health Center. White marked Border Patrol vehicle in emergency room parking lot. This is very likely related to an earlier incident where a person was arrested but then passed out.",
+      "id": "inc-af06890b30b59615c66b84f272df2abcf1765ecf",
+      "location": {
+        "city": "8800 N Tryon St",
+        "lat": 35.3069075,
+        "lng": -80.7458572,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Employees identified Border Patrol agents outside of La Unica Supermarket.",
+      "id": "inc-d7c671503385da161d479d6a1b3fe896e4ab3bfc",
+      "location": {
+        "city": "5323 E Independence Blvd SUITE B",
+        "lat": 35.18732,
+        "lng": -80.75685,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T06:45:22.583915+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "Verified by Comunidad Colectiva. Costa del Sol restaurant",
+      "id": "inc-7f00e4c0a44b56b1c91609c305d9610945e9682e",
+      "location": {
+        "city": "8045 South Blvd",
+        "lat": 35.126879,
+        "lng": -80.8771793,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T07:52:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "A man was taken in front of Supermercado y Restaurante El Mariachi. CBP did not appear to ask him for identiification or confirm his status.",
+      "id": "inc-6b5c7233e03998c0b080e40042d27b48d12d8cc7",
+      "location": {
+        "city": "6301 N Tryon St",
+        "lat": 35.2733164,
+        "lng": -80.7680746,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T08:20:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "Verified by Comunidad Colectiva. Near the intersection of South Blvd. and Sharon Lakes",
+      "id": "inc-a2fe1e23dda83d17e2e00f824b786583cc29ce1b",
+      "location": {
+        "city": "7819 South Blvd",
+        "lat": 35.1285763,
+        "lng": -80.875937,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T08:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 1.0,
+      "description": "Verified by Comunidad Colectiva. At intersection of Sol E Ave and Central Ave.",
+      "id": "inc-7e9c115ded5b5f2abbfb8bde7349d19d46f1690c",
+      "location": {
+        "city": "Sol E Ave",
+        "lat": 35.2086452,
+        "lng": -80.7522246,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T10:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "Verified by Comunidad Colectiva. On Sharon Amity Rd going towards Harris Blvd.",
+      "id": "inc-d5d99fac0cbcc28dff4e66b06e875d339e5edbcb",
+      "location": {
+        "city": "E W.T. Harris Blvd & N Sharon Amity Rd",
+        "lat": 35.238864,
+        "lng": -80.7378511,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T10:17:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "Verified by Comunidad Colectiva. In front of ourBRIDGE on Shamrock Dr.",
+      "id": "inc-94ba7703eaf2ab8d61be713ab06283c9742fadce",
+      "location": {
+        "city": "3925 Willard Farrow Dr",
+        "lat": 35.2339929,
+        "lng": -80.7612351,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T10:19:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "Approximately 6-7 agents detain a man at a construction site at Aldersgate on Cole Rd.",
+      "id": "inc-60fbf464182a5feb533b3cea2c871b6b704ac7fb",
+      "location": {
+        "city": "Cole Dr",
+        "lat": 35.2324364,
+        "lng": -80.7677033,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T11:22:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.7,
+      "description": "Circle K Gas Station on Freedom Dr.",
+      "id": "inc-f023a03962bf433f86fe0a07023d2c64535eb502",
+      "location": {
+        "city": "2833 Freedom Dr",
+        "lat": 35.2395156,
+        "lng": -80.8857708,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T11:37:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "CBP vehicles reported and photographed, one dark grey RAM truck and a dark dodge SUV. At least one had AZ plates.",
+      "id": "inc-3a347878338acb3a5e8d0c7cdef3228e3dc7dd46",
+      "location": {
+        "city": "230 E W.T. Harris Blvd",
+        "lat": 35.303599,
+        "lng": -80.749849,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T11:40:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "Verified by Cominidad Colectiva. 8121 University City Blvd.",
+      "id": "inc-760232782c181c0ad056452b497165b61135adcc",
+      "location": {
+        "city": "8121 University City Blvd",
+        "lat": 35.2945726,
+        "lng": -80.748008,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T11:41:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "4-5 uniformed and masked CBP agents with one man in handcuffs outside a residence. The woman taking the video says it's Stonewall Jackson Apartments, and told them in Spanish that they cannot enter the home, and that he has the right to stay silent.",
+      "id": "inc-30edee5cf4098d69e8725790ebc4e77220757b94",
+      "location": {
+        "city": "5751 Airport Dr",
+        "lat": 35.2057848,
+        "lng": -80.9273405,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T11:43:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "Verified by Comunidad Colectiva. G Mart/Home Depot on Centrum parkway in Pineville.",
+      "id": "inc-f3b052b8b1998e5215e42b2b4b68c91c95deded4",
+      "location": {
+        "city": "10500 Centrum Pkwy",
+        "lat": 35.0901763,
+        "lng": -80.8791142,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T11:46:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "Multiple videos via Facebook of Ford Trucks and SUV's driving around Home Depot parking lot. SUV had windows down, with at least 4 uniformed CBP agents inside, some masked.",
+      "id": "inc-0765c056cf036705d5d4730e5b7671b020d7c25f",
+      "location": {
+        "city": "8135 University City Blvd",
+        "lat": 35.2964849,
+        "lng": -80.7491073,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T11:52:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "Verified by Comunidad Colectiva. Charlotte Premium Outlets and the Area of S Tryon Steel Creek.",
+      "id": "inc-cff69d0cb0eb314ee4566f2e8bd4efca2769fe30",
+      "location": {
+        "city": "5404 New Fashion Way",
+        "lat": 35.1683344,
+        "lng": -80.969752,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T11:54:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "Rocky River Rd and Newell Rd Verified by Comunidad Colectiva.",
+      "id": "inc-209a1f368181097dfec3fba6183dfdb2f7482d4d",
+      "location": {
+        "city": "325 Rocky River Rd W",
+        "lat": 35.2865431,
+        "lng": -80.753659,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T11:58:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.7,
+      "description": "Verified by Comunidad Colectiva.",
+      "id": "inc-2487d3703fec91cbaa4446438903e22cfcc85111",
+      "location": {
+        "city": "2341 Jones Crk Ln",
+        "lat": 35.2398036,
+        "lng": -80.6724973,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T12:06:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "Two Border Patrol cars and two agents are detaining one man in a work shirt at a Publix",
+      "id": "inc-dea2010965fa7540d91d3d12049136d8d920d03f",
+      "location": {
+        "city": "8120 S Tryon St",
+        "lat": 35.1460836,
+        "lng": -80.9298519,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T12:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.85,
+      "description": "Verified by Carolina Migrant Network. There were 4 vehicles (2 black Tahoes, 2 white Tahoes) and multiple agents (over 10) who took one worker. They were gone when verifiers got here.",
+      "id": "inc-486ea7a667c7f14d44c43341b292c7833ff1a483",
+      "location": {
+        "city": "1510 Scott Ave",
+        "lat": 35.2035218,
+        "lng": -80.8421901,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T12:44:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.7,
+      "description": "Verified by Comunidad Colectiva.",
+      "id": "inc-55d5e9d2d2641eef8b5a971efb6af79dfa1b3838",
+      "location": {
+        "city": "1336 E Franklin Blvd",
+        "lat": 35.2628114,
+        "lng": -81.1565487,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T12:45:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 1.0,
+      "description": "Verified by Comunidad Colectiva.",
+      "id": "inc-cd2ea45abf14f46381f1ea50377af36d25d593a6",
+      "location": {
+        "city": "802 E Franklin Blvd",
+        "lat": 35.2627909,
+        "lng": -81.1699773,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T12:45:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "Verified by Comunidad Colectiva. Lake Mist Apartments + Maple Run Apartments",
+      "id": "inc-f2da246f4027e7f72565074885cbfdfc56dc0de8",
+      "location": {
+        "city": "1120 Lakemist Dr A",
+        "lat": 35.15046,
+        "lng": -80.88033,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T13:40:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "Agents in green vests and face masks were searching for a person in a neighborhood. One white Chevy and one black Ford were also in the video..",
+      "id": "inc-9c80c49d866d694b974ebd190534b214db3bebb8",
+      "location": {
+        "city": "8800 Nations Ford Rd",
+        "lat": 35.1369777,
+        "lng": -80.8923176,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T13:49:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "At least 3 SUVs are present, and 1 Border Patrol agent visible outside of vehicle in tactical gear.",
+      "id": "inc-0f597aa4242f8b3268270cae8230de9e8417a944",
+      "location": {
+        "city": "102 Pullman Ln",
+        "lat": 35.5480397,
+        "lng": -80.8432713,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T13:56:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.7,
+      "description": "Verified by Comunidad Colectiva",
+      "id": "inc-3fbe9bc5e5d82a50e8f6905adaefc047a3c2f423",
+      "location": {
+        "city": "11108 S Tryon St",
+        "lat": 35.1172572,
+        "lng": -80.9614615,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T15:06:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "5 men surrounding 2 woman in a car, they break the glass and pull them out of the car. 1 Black SUV -she was released After a day in an FBI building and a charge of Assault on a federal officer according to her husband-he also added that she honked the horn and they started follwing her -look for Matthew Brannen comments-",
+      "id": "inc-8742dd2190c8346b055e31bad46a82dee8076be6",
+      "location": {
+        "city": "2713 Kilgo Way",
+        "lat": 35.228085,
+        "lng": -80.812035,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T15:43:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "6 masked CBP agents detained a man outside a residential property and in front of a black SUV and 2 black sedans.",
+      "id": "inc-1a59204520b6d5999257980e2a0b20eb1df6a199",
+      "location": {
+        "city": "1400 N Sharon Amity Rd",
+        "lat": 35.17998,
+        "lng": -80.7772699,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T15:56:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "Verified by Comunidad Colectiva in Coventry Woods Neighborhood",
+      "id": "inc-a3c5594314f49fcd66b1cbaa2854293b145fbba6",
+      "location": {
+        "city": "6800 Farmingdale Dr",
+        "lat": 35.1928577,
+        "lng": -80.7594999,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T16:16:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "Detained at McDonald's parking lot.",
+      "id": "inc-d45283569a0047623eee2f95d30b31326bd8d3af",
+      "location": {
+        "city": "8121 University City Blvd",
+        "lat": 35.2945726,
+        "lng": -80.748008,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T18:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "CLT Reportes IG. Approximately 15 agents searching for a person (\"the flower man\") in a field of logged trees. Observers were intimidated and threatened with tear gas.",
+      "id": "inc-be872558f19b0e992671e76c608a1a4c750f6251",
+      "location": {
+        "city": "E W.T. Harris Blvd & Grier Rd",
+        "lat": 35.2661517,
+        "lng": -80.7317087,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T18:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "Verified by Comunidad Colectiva at Whitehall Commons",
+      "id": "inc-a6f915b92bd57fdb1176acaeb911b8818618d832",
+      "location": {
+        "city": "8032 S Tryon St",
+        "lat": 35.1442216,
+        "lng": -80.9294046,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T18:26:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "Verified by Comunidad Colectiva at Ashley Place Apartments",
+      "id": "inc-aa3910825631272a737ad4b780095c6dee20c9ec",
+      "location": {
+        "city": "5709 Electra Ln",
+        "lat": 35.1827664,
+        "lng": -80.7512561,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-17T21:02:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

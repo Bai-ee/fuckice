@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "date": "2025-04-02",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "Two agents in green army bulletproof vest and face coverings pulling over a truck. Detentions likely.",
+      "id": "inc-d01b66564ba19ba37ce974294e43a3b10327d17a",
+      "location": {
+        "city": "6233 Albemarle Rd",
+        "lat": 35.203358,
+        "lng": -80.7391541,
+        "state": "NC"
+      },
+      "reported_at": "2025-04-02T11:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "About 8 months ago, Vidal was charged with solicitation of a minor through the computer.  Wife says he was tricked into communicating with local police through text and was told there was a construction job through the texting which ended in his arrest and charge.  Lawyer counseled him to plead guilty, which he did about three weeks ago.  He was then detained by ICE through local sheriff collaboration.  ---- Wife says that sheriff set him up -- that he was pretending to be a worker who needed a job but then charged him with solicitation of a minor?",
+      "id": "inc-73e0008fc66559e53b613e77112a71cb21491c56",
+      "location": {
+        "city": "Concord",
+        "lat": 35.4091091,
+        "lng": -80.577985,
+        "state": "NC"
+      },
+      "reported_at": "2025-04-02T16:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

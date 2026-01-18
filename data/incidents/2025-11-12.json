@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "date": "2025-11-12",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Agents in the parking lot of Brookwood Inn with vehicles with blue lights flashing. Detentions unknown.",
+      "id": "inc-6fc63ff20d9935c6db07e90309bf5e8e40a0e4dc",
+      "location": {
+        "city": "1200 W Sugar Creek Rd",
+        "lat": 35.2773066,
+        "lng": -80.7929442,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-12T00:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Detained at his immigration check-in, he's been going for two years without a problem, but got a notice to appear for a hearing. He gave himself up at the border for asylum",
+      "id": "inc-37d81aaf0bf5c478a66a1ce5f9a6f7dd0ec72a84",
+      "location": {
+        "city": "Charlotte Immigration Court 5701 Executive Center Drive",
+        "lat": 35.20041,
+        "lng": -80.74324,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-12T17:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

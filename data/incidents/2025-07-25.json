@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-07-25",
+  "incidents": [
+    {
+      "activity_type": "raid",
+      "confidence": 0.6000000000000001,
+      "description": "Four agents detaining 1-2 people in parking lot.  One agent with green civilian shirt and ball cap, one with black police vest and jeans, one with black vest and face covering. Exact time unknown.",
+      "id": "inc-85bea0818a918d22709f693551692bd0c964969f",
+      "location": {
+        "city": "Kannapolis",
+        "lat": 35.4873613,
+        "lng": -80.6217341,
+        "state": "NC"
+      },
+      "reported_at": "2025-07-25T13:45:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

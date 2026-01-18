@@ -1,0 +1,66 @@
+{
+  "count": 4,
+  "date": "2025-12-03",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "Not Provided",
+      "id": "inc-9b92f6b566ec1910f2f2d5d117f4293be022f9b2",
+      "location": {
+        "city": "CIS 6130 Tyvola Centre Dr",
+        "lat": 35.1642752,
+        "lng": -80.9095822,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-03T13:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "3 vehicles on side of rd, one vehicle with blue lights flashing and other unmarked SUV",
+      "id": "inc-d42392f4f5882e82ad70a7dd3d709a3fd59a6077",
+      "location": {
+        "city": "9100 Walker's Ferry Rd",
+        "lat": 35.2196889,
+        "lng": -80.9714879,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-03T13:22:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Three tinted dark SUVs with flashing lights surrounding a white work van in parking lot of Rose Mini Mart. Three masked men in camo and vests standing with unidentified person beside van.",
+      "id": "inc-41b2d6f0b8e9605d40a6286b87fb16094ec1bfe1",
+      "location": {
+        "city": "515 S. Hoskins Road Charlotte",
+        "lat": 35.2619464,
+        "lng": -80.889628,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-03T16:53:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "We can confirm at least two arrests at the CIS (Citizenship & Immigration Services) office today, 12/4, and yesterday, 12/3. In one instance, it was the supposed to be the last appointment before receiving citizenship.",
+      "id": "inc-c9e081445de1d5c9683a95740c861918a935227b",
+      "location": {
+        "city": "301 Roycroft Dr",
+        "lat": 35.8863778,
+        "lng": -78.8456364,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-03T17:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

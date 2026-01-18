@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.44999999999999996,
+      "description": "4 men in what appeared to be tactical gear  one looked like",
+      "id": "inc-950e565eac9bb9a064e048a92c119ced9dfa6a38",
+      "location": {
+        "city": "73103",
+        "lat": 35.47065,
+        "lng": -97.5191,
+        "state": "OK"
+      },
+      "reported_at": "2026-01-16T16:05:53+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    }
+  ],
+  "state": "OK"
+}

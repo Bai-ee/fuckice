@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-05-22",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "HSI agent driving white pick up truck with SC license plate TUP-633 plus one other unmarked vehicle with blue lights flashing seen in this video. Two visible agents, 1 female in green tactical gear labeled POLICE, 1 male in plain clothes in a black vest that read HSI POLICE. Agents pulled over a silver truck with 4 men inside, and the video showed one man being arrested.",
+      "id": "inc-588d6c3102d55fa75a4326761cca50a09dd330d8",
+      "location": {
+        "city": "Shamrock Dr & Eastway Dr",
+        "lat": 35.2368829,
+        "lng": -80.7757617,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-22T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-11-08",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.55,
+      "description": "An agent in a vest pulled over a vehicle. A black Nissan Sentra with flashing lights was blocking another car.",
+      "id": "inc-717760d7f8f8e00f7ab0a06b634645db08d3a3c4",
+      "location": {
+        "city": "3424 Poole Road Raleigh",
+        "lat": 35.7675193,
+        "lng": -78.578217,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-08T14:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

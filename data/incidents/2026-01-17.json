@@ -1,0 +1,741 @@
+{
+  "count": 49,
+  "date": "2026-01-17",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "saw a blacked out ford suv outside dollar tree in oakville t",
+      "id": "inc-6eef7c3066de95b7aad5523271d3647c8092ef07",
+      "location": {
+        "city": "",
+        "lat": 38.63127,
+        "lng": -90.19275,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T01:45:58+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "multiple vehicles driving around northeast los angeles saw o",
+      "id": "inc-44e537fcbd2bd6a6769b9432f102dccffe7e1478",
+      "location": {
+        "city": "",
+        "lat": 34.11242,
+        "lng": -118.26153,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T02:18:54+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "several ice agents and a police vehicle seen on the side of",
+      "id": "inc-fbc38b6f7d118d7f3efa5e94a9d1099f12352e08",
+      "location": {
+        "city": "",
+        "lat": 31.22907,
+        "lng": -94.51782,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T02:23:45+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "my friend father got taken by ice please be careful there ge",
+      "id": "inc-ab64a84b62127c812addb27e9dec8783b586f394",
+      "location": {
+        "city": "NEW BERN",
+        "lat": 35.13354,
+        "lng": -76.97575,
+        "state": "NC"
+      },
+      "reported_at": "2026-01-17T02:55:11+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.65,
+      "description": "father of two kids taken by ice in santa maria  december 20t",
+      "id": "inc-497516ae7b372c8679f9d72ee6809e4277896b87",
+      "location": {
+        "city": "",
+        "lat": 34.94834,
+        "lng": -120.23425,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T03:29:31+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.44999999999999996,
+      "description": "this has been posted on instagram by someone who lives in da",
+      "id": "inc-50422ac94dc6fa2952f3502cab3d07dca0a8fb9b",
+      "location": {
+        "city": "",
+        "lat": 28.41787,
+        "lng": -82.26476,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T04:51:41+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "ICE seen 4th ave and center heading to 128th street in south",
+      "id": "inc-d490832db673d406cc5614500424955b1fb49469",
+      "location": {
+        "city": "4th ave and center EVERETT",
+        "lat": 47.90072,
+        "lng": -122.18852,
+        "state": "WA"
+      },
+      "reported_at": "2026-01-17T04:57:30+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "4 officers walking around in dark with flash lights knocking",
+      "id": "inc-a45e2a718bae2d6ab61331f54f7689b0e9fb4b00",
+      "location": {
+        "city": "1224 SE 10TH ST GAINESVILLE",
+        "lat": 29.64886,
+        "lng": -82.32506,
+        "state": "FL"
+      },
+      "reported_at": "2026-01-17T05:36:37+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.7000000000000001,
+      "description": "footage captured of ice chasing a man down the street",
+      "id": "inc-33cbb559d9ef57852d088d14529a45151b0605eb",
+      "location": {
+        "city": "",
+        "lat": 40.81821,
+        "lng": -74.0022,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T05:52:09+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.2,
+      "description": "unconfirmed reports that ice will be doing raids in harrison",
+      "id": "inc-7d3822e01496d271dad7872e8df37b3ef20ef457",
+      "location": {
+        "city": "",
+        "lat": 38.40519,
+        "lng": -78.87931,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T11:50:10+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "ice has a car boxed in on concord street masked up in camouf",
+      "id": "inc-35d3abfcfc98c045c8e6df486887cc82aea4507a",
+      "location": {
+        "city": "",
+        "lat": 42.28242,
+        "lng": -71.43428,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T12:01:15+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "there is ice going around neighbors knocking on doors please",
+      "id": "inc-bac22e0a76c51ff358426c8b9bb80f5205c4bbad",
+      "location": {
+        "city": "JACKSONVILLE",
+        "lat": 36.37403,
+        "lng": -77.43331,
+        "state": "NC"
+      },
+      "reported_at": "2026-01-17T13:10:04+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.5,
+      "description": "ICE seen at Lake Monroe in Sanford",
+      "id": "inc-78ca35b3abb42d6addb7558dadb1d7ba1d93cdc9",
+      "location": {
+        "city": "Lake Monroe SANFORD",
+        "lat": 28.81496,
+        "lng": -81.31751,
+        "state": "FL"
+      },
+      "reported_at": "2026-01-17T13:57:36+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "ice sighted on butler street in front of italian peoples bak",
+      "id": "inc-0adc1d128440a1800a4dea9f9050b55011bd4ad6",
+      "location": {
+        "city": "italian peoples bakery TRENTON",
+        "lat": 40.19107,
+        "lng": -74.74299,
+        "state": "NJ"
+      },
+      "reported_at": "2026-01-17T14:47:00+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "at the gas station on placentia and 19th theres a suspicious",
+      "id": "inc-f201b04432c1a25a35ab88d5ed1b802092a7c11c",
+      "location": {
+        "city": "PLACENTIA AND 18TH ST",
+        "lat": 33.67896,
+        "lng": -117.90844,
+        "state": "IN"
+      },
+      "reported_at": "2026-01-17T14:51:09+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.5,
+      "description": "ICE was spotted at 6am in churchill",
+      "id": "inc-b7ea691eaf633022f050f84624e6b9628df7de21",
+      "location": {
+        "city": "1206 NORTH 32ND STREET EAST END RICHMOND",
+        "lat": 37.55595,
+        "lng": -77.37927,
+        "state": "VA"
+      },
+      "reported_at": "2026-01-17T15:46:41+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "multiple ice agents parked outside of valley green trailer p",
+      "id": "inc-74d6a40058649fcd1aee2664b153bdb1344f60f9",
+      "location": {
+        "city": "300 VALLEY GREEN PARK JORDAN",
+        "lat": 44.65505,
+        "lng": -93.5862,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-17T15:50:02+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "ice spotted in weymouth near the dairy queen and honda by th",
+      "id": "inc-35326fcf7e38b39e95b2d5e8014979e9292296e9",
+      "location": {
+        "city": "254 MAIN ST WEYMOUTH",
+        "lat": 42.20724,
+        "lng": -70.95764,
+        "state": "MA"
+      },
+      "reported_at": "2026-01-17T16:01:09+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "im pretty sure i saw ice un in downtown long beach around 75",
+      "id": "inc-079036d2857ecd042196d3a6db7540ee203c04af",
+      "location": {
+        "city": "",
+        "lat": 33.75035,
+        "lng": -118.21143,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T16:13:59+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "alert ice vehicles have started to leave terminal island san",
+      "id": "inc-b34299ece9ade19ca83868dbe9b78794bc542fe7",
+      "location": {
+        "city": "",
+        "lat": 33.75035,
+        "lng": -118.21143,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T16:17:06+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "ice sighted at corner of north 18th and the ramp to the inte",
+      "id": "inc-98cfe1b981ebd69423a6b2593011691df039645a",
+      "location": {
+        "city": "",
+        "lat": 32.53915,
+        "lng": -92.1069,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T16:39:37+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.44999999999999996,
+      "description": "seen on facebook  4 unmarked suvs outside the 711 with confi",
+      "id": "inc-dd0fd6162c30e277b391331287c751122f59d6c7",
+      "location": {
+        "city": "",
+        "lat": 39.88918,
+        "lng": -77.07896,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T16:52:40+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.25,
+      "description": "its snowing  beware the icebrbrpossibleprobable ice activity",
+      "id": "inc-fcc4a7d2d020e6face2af0327fc4aa1dad197ac3",
+      "location": {
+        "city": "",
+        "lat": 39.35878,
+        "lng": -76.63521,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T17:36:24+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "ice vehicles spotted at hardees drive thru on hwy 5",
+      "id": "inc-d6fe38cff48eb38e9530667f154e51eca5069a93",
+      "location": {
+        "city": "",
+        "lat": 35.1122,
+        "lng": -79.44452,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T17:47:12+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "big group of ice agents sitting in this exact location looks",
+      "id": "inc-d47234fcb9b05cdab44ec304628e3696555bbce5",
+      "location": {
+        "city": "",
+        "lat": 32.91672,
+        "lng": -111.74798,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T17:49:05+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "at least one conformed ice vehicle a black suv was seen roam",
+      "id": "inc-3768c53ccb7d6bb08e01a1e285dc098dbee49fb7",
+      "location": {
+        "city": "",
+        "lat": 44.2973,
+        "lng": -93.27414,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T18:13:04+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "ice vehicle northbound in savageburnsville near spice thai c",
+      "id": "inc-4a1bbcbd0777f42b0a229d8a75d0dec645a421ee",
+      "location": {
+        "city": "",
+        "lat": 44.73071,
+        "lng": -93.29195,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T18:22:18+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "CARSON ALERT CONFIRMED ICE ACTIVITY IN THE AREA",
+      "id": "inc-c6f488a1ba2f82b8a4e12648bdc79764c8a264ba",
+      "location": {
+        "city": "CARSON",
+        "lat": 33.82117,
+        "lng": -118.26458,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T18:30:53+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.29999999999999993,
+      "description": "maybe an ice vehicle",
+      "id": "inc-7e237c6ee9ce7722113c93c5be1626ed57885e37",
+      "location": {
+        "city": "",
+        "lat": 45.12834,
+        "lng": -93.44837,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T18:31:39+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "ice staging behind cars one towne center",
+      "id": "inc-2ebc52e37009d639d54b0ac87d6b2fdd5a4e6ced",
+      "location": {
+        "city": "",
+        "lat": 33.82117,
+        "lng": -118.26458,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T18:41:54+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "they were in the plaza on western and carson st in torrance",
+      "id": "inc-5305f7f9421dcb5373dd0fe92c48fbad715aa07d",
+      "location": {
+        "city": "western and carson st TORRANCE",
+        "lat": 33.8336,
+        "lng": -118.31419,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T19:02:18+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "Ice was at Target in Pacoima on Laurel Canyon Blvd",
+      "id": "inc-ee098cb17b05430c4c378fa6d542b640c67f4727",
+      "location": {
+        "city": "PACOIMA",
+        "lat": 34.25602,
+        "lng": -118.41939,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T19:11:46+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "Road is blocked off Several ICE vehicles sighted",
+      "id": "inc-ed4fb43496aa831ddc4300c58779f0612ee7aac8",
+      "location": {
+        "city": "HARVESTER ROAD",
+        "lat": 38.86159,
+        "lng": -90.47207,
+        "state": "MO"
+      },
+      "reported_at": "2026-01-17T19:16:52+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "ice has been seen in the area at 2700 s roan st multiple veh",
+      "id": "inc-181750e6d9b87f6c9f7a8270c7a911151d1bb7f0",
+      "location": {
+        "city": "",
+        "lat": 36.32838,
+        "lng": -82.31974,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T19:23:11+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "Multiple carsagents on Hwy 99 at just before 1000am One vehi",
+      "id": "inc-39c1352cde13a88b9b6a97a6e481a5fb154f7058",
+      "location": {
+        "city": "9011 EVERGREEN",
+        "lat": 47.90105,
+        "lng": -122.2586,
+        "state": "WY"
+      },
+      "reported_at": "2026-01-17T19:37:14+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "ice heavily around this area in north long beach on long bea",
+      "id": "inc-01ccfb0d4647dd600055b792ff08c45269a8ddb2",
+      "location": {
+        "city": "EAST MARKER STREET LONG BEACH",
+        "lat": 33.86494,
+        "lng": -118.18051,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T19:38:07+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "ICE just took multiple vendors on Vermont",
+      "id": "inc-11c3d215cb309e375b500f6bd1468ee358e02019",
+      "location": {
+        "city": "14987 South Vermont Avenue Los Angeles",
+        "lat": 33.89159,
+        "lng": -118.29735,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T19:41:18+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.6,
+      "description": "FLOWER VENDOR TAKEN BY ICE  CONFIRMED",
+      "id": "inc-b3c240cab0bb194a012e8b94e09a4a02f396c5f6",
+      "location": {
+        "city": "HAWTHORNE BOULEVARD TORRANCE",
+        "lat": 33.91383,
+        "lng": -118.34996,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T19:46:39+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "ICE masked men were grabbing  and taking Latinos from street",
+      "id": "inc-e34b313cae17a3190110c7369887226a8d064505",
+      "location": {
+        "city": "WESTERN AND SEPULVEDA TORRANCE",
+        "lat": 33.8336,
+        "lng": -118.31419,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T20:08:10+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "several masked ice pulled up on people and taking them away",
+      "id": "inc-8bfdab458d72dc19b66e33866ff186a2858f191d",
+      "location": {
+        "city": "",
+        "lat": 33.8336,
+        "lng": -118.31419,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T20:12:38+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "several masked ice pulled up on a man and took him away they",
+      "id": "inc-aa3247099bbf02e711f1c7ca6aa89e7bc9e153f9",
+      "location": {
+        "city": "",
+        "lat": 33.3765,
+        "lng": -118.43678,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T20:16:36+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "2 ice agents in black ford expedition in kwik trip lot one a",
+      "id": "inc-b7f254bd9f1c6fc3bf84de18ee602e5132f0d7da",
+      "location": {
+        "city": "",
+        "lat": 44.73071,
+        "lng": -93.29195,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T20:37:17+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "Masked kidnappers pulled up behind Food 4 Less in Gardena an",
+      "id": "inc-ae3148ec060b86519c8b2e6950c39317735bfef3",
+      "location": {
+        "city": "1299 W ARTESIA BLVD GARDENA",
+        "lat": 33.87689,
+        "lng": -118.28362,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T21:01:53+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.29999999999999993,
+      "description": "kidnapping be alert",
+      "id": "inc-718fbffe398d2ab8790ff68e71862688269bfcdd",
+      "location": {
+        "city": "",
+        "lat": 34.17041,
+        "lng": -118.28902,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T21:12:45+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.29999999999999993,
+      "description": "ice reported at el taconazo",
+      "id": "inc-517f81971f7cb3eb3a78de06971710f18d9d49fd",
+      "location": {
+        "city": "",
+        "lat": 33.88802,
+        "lng": -118.12709,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T21:27:14+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "sus dude rolled up blocked me and my friends in at vrbo in o",
+      "id": "inc-cd5422c8f70582f1a6800557f48635df4f549cd4",
+      "location": {
+        "city": "",
+        "lat": 46.75267,
+        "lng": -92.08197,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T22:27:44+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "tag is crj1141 its an arizona tag on a black chevy tahoe the",
+      "id": "inc-ffc861c7d76399bac55b255604b54dcd599f2f11",
+      "location": {
+        "city": "",
+        "lat": 35.13253,
+        "lng": -90.00435,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T22:31:58+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.25,
+      "description": "possible ice truck near robert st between butler and on butl",
+      "id": "inc-e52b5eab503cfdb383401eacb11ca01f9b0e0951",
+      "location": {
+        "city": "",
+        "lat": 44.95111,
+        "lng": -93.08739,
+        "state": ""
+      },
+      "reported_at": "2026-01-17T22:38:14+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "ice in rubidoux reported in different post, word has been ci",
+      "id": "inc-b1a69cdd4f8685b93d1bf359ea9d343f53f8502f",
+      "location": {
+        "city": "RIVERSIDE",
+        "lat": 34.00293,
+        "lng": -117.44547,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T23:15:54+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    }
+  ]
+}

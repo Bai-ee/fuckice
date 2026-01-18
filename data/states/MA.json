@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "ice spotted in weymouth near the dairy queen and honda by th",
+      "id": "inc-35326fcf7e38b39e95b2d5e8014979e9292296e9",
+      "location": {
+        "city": "254 MAIN ST WEYMOUTH",
+        "lat": 42.20724,
+        "lng": -70.95764,
+        "state": "MA"
+      },
+      "reported_at": "2026-01-17T16:01:09+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    }
+  ],
+  "state": "MA"
+}

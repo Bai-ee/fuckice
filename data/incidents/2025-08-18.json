@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "date": "2025-08-18",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.6000000000000001,
+      "description": "Two Ford SUVs with black windows were seen in a parking lot with at least one man in an army green vest. Arrests or detentions are unknown.",
+      "id": "inc-b0c50be2600615d370b31e1cf213137d7dfbe2eb",
+      "location": {
+        "city": "4750 South Blvd",
+        "lat": 35.1740314,
+        "lng": -80.877501,
+        "state": "NC"
+      },
+      "reported_at": "2025-08-18T16:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "At least three agents detained a person. One agent was dressed with face covering and bulletproof army green vest and two were in civilian clothes. Cars used were a silver Mustang and red American-made SUV - both tinted and unmarked.",
+      "id": "inc-d16c0fd050ea026d01cd99c957345047cd568838",
+      "location": {
+        "city": "4129 Central Ave",
+        "lat": 35.2150684,
+        "lng": -80.7745982,
+        "state": "NC"
+      },
+      "reported_at": "2025-08-18T22:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

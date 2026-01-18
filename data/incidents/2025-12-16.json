@@ -1,0 +1,51 @@
+{
+  "count": 3,
+  "date": "2025-12-16",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.4,
+      "description": "ICE stop on the highway -- direct, he had a deportation order. Night time (~7pm) stop by unmarked car w the blue lights on highway in Raleigh/Durham area. 2 agents. (Not a reten.) Hugo had an outstanding deportation order. Seemed like maybe they knew exactly who they were looking for/ how to find him??? They did not allow him a call, but they let him send an audio message to his son, who later communicated with the friend who called us. Hugo has been transferred to Charlotte. Seems his phone is off so unable to get in touch. No family in the U.S. Call the friend on the 1st page who is from the same town as the detained person.",
+      "id": "inc-ebb7f726ca53f0fccbeb28730c6245d3a3dc81df",
+      "location": {
+        "city": "Raleigh",
+        "lat": 35.7795897,
+        "lng": -78.6381787,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-16T00:15:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "One white truck, a black SUV, report is that the drivers of the cars were just picked up by ICE",
+      "id": "inc-2f8109d00f7efa3ba53c234c9cd1427b57a28548",
+      "location": {
+        "city": "6222 Rosecrest Dr. Charlotte",
+        "lat": 35.1504762,
+        "lng": -80.8733301,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-16T21:29:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Four men and one woman. All in dark pants, jackets, 2 with black hats, one with a patch on left sleeve.   Black SUV, White sedan",
+      "id": "inc-a852ca93399152ef104c4424483ddfb68d67cc2a",
+      "location": {
+        "city": "10500 Centrum Pkwy",
+        "lat": 35.0901763,
+        "lng": -80.8791142,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-16T21:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

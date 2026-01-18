@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-10-28",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Two people were picked up from RDU airport, one of them had a deportation order.",
+      "id": "inc-809f8760775b28e1fe224c33c43bfe1e17fdf9c3",
+      "location": {
+        "city": "1600 John Brantley Blvd",
+        "lat": 35.8768779,
+        "lng": -78.7929855,
+        "state": "NC"
+      },
+      "reported_at": "2025-10-28T16:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

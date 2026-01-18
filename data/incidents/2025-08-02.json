@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-08-02",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "At least 2 agents or officers in tactical gear with green bullet proof vests are interrogating a person in a silver pick up truck. Detention/arrest unknown.",
+      "id": "inc-ecb476bd6ec976007fdc0b9d8fbd90132eb6ac20",
+      "location": {
+        "city": "Albemarle Rd & N Sharon Amity Rd",
+        "lat": 35.2017527,
+        "lng": -80.7606479,
+        "state": "NC"
+      },
+      "reported_at": "2025-08-02T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

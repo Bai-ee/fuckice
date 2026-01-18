@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-02-27",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Homeland security appeared outside a home in the morning asking for a particular person. The moment they were dropped off at their second job, they were detained.",
+      "id": "inc-bb1beef2a8f83a62c4fed8647ecedfd096c4ac34",
+      "location": {
+        "city": "2338 Randleman Road Greensboro",
+        "lat": 36.0413801,
+        "lng": -79.8012932,
+        "state": "NC"
+      },
+      "reported_at": "2025-02-27T05:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

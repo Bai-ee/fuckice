@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2026-11-15",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "A person was handcuffed next to a gray SUV. Two agents were wearing face masks and green vests. Arborgate apartments are in the background.",
+      "id": "inc-8aede016367d5e77aa9408e3beb4f21915c67405",
+      "location": {
+        "city": "9056 Arborgate Drive Charlotte",
+        "lat": 35.1366547,
+        "lng": -80.8827451,
+        "state": "NC"
+      },
+      "reported_at": "2026-11-15T16:45:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

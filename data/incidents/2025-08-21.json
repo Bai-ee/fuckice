@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-08-21",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "As a Buncombe County man walked from the county courthouse to his car in the late morning Aug. 21, armed officers working with ICE pulled up in an unmarked SUV and grabbed him in the middle of a crosswalk, multiple officials confirmed to the Citizen Times. At least one officer carried a \"tactical AR-15\" and two wore bulletproof vests, according to the newspaper. One vest displayed \u201cU.S. Marshals\u201d and another said some form of \u201cpolice.\" A photo of the interaction shows two officers in ballcaps and holstered handguns.",
+      "id": "inc-4da75ec92f8161cae8f29185d64a8f9ef5ba663f",
+      "location": {
+        "city": "60 Court Plaza",
+        "lat": 35.5959594,
+        "lng": -82.548638,
+        "state": "NC"
+      },
+      "reported_at": "2025-08-21T15:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

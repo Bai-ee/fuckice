@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2026-01-09",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "At least 2 agents wearing vests detained a painter at the house he was working on. They use a black SUV and wear black.",
+      "id": "inc-596c9fcdd4d411b018ff671f24a0331dfb38b620",
+      "location": {
+        "city": "6040 Oxfordshire Rd",
+        "lat": 35.0056404,
+        "lng": -80.7505865,
+        "state": "NC"
+      },
+      "reported_at": "2026-01-09T19:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

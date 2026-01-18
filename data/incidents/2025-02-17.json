@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-02-17",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Video showing a silver car and 3 black SUVs and 1 white SUV with flashing lights in from of Acura dealership. 2 men wearing vest marked with police.",
+      "id": "inc-c5c8399fe397cb264b4051ea07ce4d027f65bced",
+      "location": {
+        "city": "6824 Independence Blvd",
+        "lat": 35.1670887,
+        "lng": -80.7439153,
+        "state": "NC"
+      },
+      "reported_at": "2025-02-17T17:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-11-25",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.6000000000000001,
+      "description": "4-5 unmarked cars, 1 silver van, 1 black SUV, 2 silver sedans with police lights outside an apartment complex with at least 3 agents. One in brown/camo with a mask covering their face",
+      "id": "inc-9799a3fde25aaf9311afe1f3f5090d361e2c7afd",
+      "location": {
+        "city": "114 Clancy St",
+        "lat": 35.68919,
+        "lng": -80.5129103,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-25T13:20:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

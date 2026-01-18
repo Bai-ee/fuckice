@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-02-10",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.55,
+      "description": "Person was detained by 3 ICE agents in cars. They had followed him from the court house after a meeting.",
+      "id": "inc-35c3dee453b0e9cd05fe4d0879bb4d770d704d90",
+      "location": {
+        "city": "",
+        "lat": 35.2214999,
+        "lng": -80.8394651,
+        "state": ""
+      },
+      "reported_at": "2025-02-10T05:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-06-20",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "Three agents in plain clothes were seen - one with a black \"POLICE ICE\" vest, one with a green vest, and one with a face mask. They surrounded one vehicle pulled over with people inside. Detentions unknown.",
+      "id": "inc-d1c19cc6f283e69d81ab12e9d797b3155defbd0b",
+      "location": {
+        "city": "Freedom Dr",
+        "lat": 35.2524493,
+        "lng": -80.9015081,
+        "state": "NC"
+      },
+      "reported_at": "2025-06-20T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

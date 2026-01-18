@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-06-07",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "Two unmarked white vehicles with blue lights pulled over one truck. Two agents visible in green and black tactical gear, wearing green vests with faces fully visible. Detention unknown.",
+      "id": "inc-4aa1558a5ead4ee7cd4d8a26f1dd18902c27ee1a",
+      "location": {
+        "city": "W Sugar Creek Rd",
+        "lat": 35.3032062,
+        "lng": -80.8034215,
+        "state": "NC"
+      },
+      "reported_at": "2025-06-07T11:45:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

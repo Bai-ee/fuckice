@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-11-22",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Brother was arrested for DV. He was told he'd get out at 2pm but then was put on an ICE hold. Is still on an ICE hold. Has a previous hit-and-run charge.",
+      "id": "inc-35ab516dc89d9f3757a6e4709cc2df295b927662",
+      "location": {
+        "city": "Silver City",
+        "lat": 35.0011619,
+        "lng": -79.2310172,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-22T17:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

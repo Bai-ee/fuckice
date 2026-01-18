@@ -1,0 +1,51 @@
+{
+  "count": 3,
+  "date": "2025-11-30",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Two vehicles with police lights flashing on side of road in front of Circle K, in front of and behind a sedan. Two men standing on one side of the sedan, one agent on the other side of the sedan.",
+      "id": "inc-a2998da083c90176aeb0f91c6ed3211338d2729f",
+      "location": {
+        "city": "10405 Park Rd",
+        "lat": 35.0940073,
+        "lng": -80.8671414,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-30T11:50:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Arrested at home on November  30. Saw his picture on Facebook under a Busted in Wake County post. Talked with him on December 2 and was told that he was being transferred by ICE to Atlanta.",
+      "id": "inc-6ba936ea67df1ca2a51f8549fd4caae38958fd60",
+      "location": {
+        "city": "Wake County Jail",
+        "lat": 35.7340885,
+        "lng": -78.6391645,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-30T13:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "4 agents in vests, masks, and dark and camo colored clothing pulled someone out of a silver truck parked in front of the apartment building. Another agent ran up as they wrestled with the person being detained. A moment later, a white truck drove up and three agents got out of the truck and went over to the sidewalk where they were holding the person.",
+      "id": "inc-66f2a99742eddd9ab062f087e7ebdab0dbda2a50",
+      "location": {
+        "city": "640 Deanna Ln",
+        "lat": 35.1414779,
+        "lng": -80.8879319,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-30T16:58:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

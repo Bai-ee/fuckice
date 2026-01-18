@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-03-12",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "Verified by Comunidad Colectiva. At least one person arrested by ICE. Two officers/agents in the photo, but hard to see the words on their vests to detemine which agency.",
+      "id": "inc-f2160e2735f11cce2789f7904f5d2b4df9782154",
+      "location": {
+        "city": "Charlotte",
+        "lat": 35.1299065,
+        "lng": -80.8739037,
+        "state": "NC"
+      },
+      "reported_at": "2025-03-12T12:15:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

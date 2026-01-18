@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-07-09",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.55,
+      "description": "Four agents, three in green police vests and one in a black vest, making a traffic stop. Detentions unknown.",
+      "id": "inc-758a9298e5aa464ec9bee944a6212e06a0cd8ac4",
+      "location": {
+        "city": "E W.T. Harris Blvd & The Plaza",
+        "lat": 35.258327,
+        "lng": -80.7363406,
+        "state": "NC"
+      },
+      "reported_at": "2025-07-09T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "ice preparing for raids use enterprise box trucks",
+      "id": "inc-8db2ccf1a7269346b7290347e897b4be19712776",
+      "location": {
+        "city": "2620 W DUNLAP AVE PHOENIX",
+        "lat": 33.56046,
+        "lng": -112.09442,
+        "state": "AZ"
+      },
+      "reported_at": "2026-01-16T22:59:14+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    }
+  ],
+  "state": "AZ"
+}

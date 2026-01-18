@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "date": "2026-01-06",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Six automobiles (one van) stopped along the side of I-77 near Exit 4",
+      "id": "inc-fed4a65abf6023552e5806321245e030a0e94d32",
+      "location": {
+        "city": "Exit 4 I-77 Charlotte",
+        "lat": 35.1467077,
+        "lng": -80.8956745,
+        "state": "NC"
+      },
+      "reported_at": "2026-01-06T12:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "1 white sedan, 1 black SUV parked outside Compare Foods. 2 agents stopped someone by the side of the road. agents are wearing hats, brown clothing, and unmarked brown vests",
+      "id": "inc-49ff36fc081cf1d80bf9b7a98ca561738f1551b5",
+      "location": {
+        "city": "Arrowood Rd Charlotte",
+        "lat": 35.1449363,
+        "lng": -80.9224684,
+        "state": "NC"
+      },
+      "reported_at": "2026-01-06T15:50:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

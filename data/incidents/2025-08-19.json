@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-08-19",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "Two unmarked vans pulled over a work van on the side of the road. At least 1 agent pictured with green bulletproof vest and face covering. Photo caption says exit 4 of route 77 on Nations Ford Road, Charlotte. Detentions unknown.",
+      "id": "inc-79398e38d5ea351653bded2a859550652b11832d",
+      "location": {
+        "city": "Nations Ford Rd",
+        "lat": 35.140471,
+        "lng": -80.8942236,
+        "state": "NC"
+      },
+      "reported_at": "2025-08-19T12:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

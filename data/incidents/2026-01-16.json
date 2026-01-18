@@ -1,0 +1,801 @@
+{
+  "count": 53,
+  "date": "2026-01-16",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.25,
+      "description": "ICE vehicles seen in alleyways downtown",
+      "id": "inc-dc94ef207468f0af6b0efc1409895d201afddcd3",
+      "location": {
+        "city": "HARRISBURG",
+        "lat": 40.2595,
+        "lng": -76.88705,
+        "state": "PA"
+      },
+      "reported_at": "2026-01-16T00:21:24+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "there is a lot of ice activity on  daily basis in this area",
+      "id": "inc-c187dfa9a28cac74514f7f53539a8de56857530e",
+      "location": {
+        "city": "",
+        "lat": 40.79376,
+        "lng": -74.02416,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T00:29:35+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.44999999999999996,
+      "description": "ice agent sitting in vehicle outside apartment buildings",
+      "id": "inc-a719d7208134110cc1d8fa9b68822346318e4b3b",
+      "location": {
+        "city": "601 SOUTH GRAMERCY PLACE KOREATOWN LOS ANGELES",
+        "lat": 34.05939,
+        "lng": -118.30909,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T00:56:08+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "they almost ran me off of the road heading north on london r",
+      "id": "inc-5f0b048a48f9cd2b8b2e3065828475ef4ea1f74a",
+      "location": {
+        "city": "",
+        "lat": 46.75267,
+        "lng": -92.08197,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T01:06:43+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.29999999999999993,
+      "description": "dhs vehicle sited",
+      "id": "inc-28f7253854290707d95f5957970c98ff7b300c09",
+      "location": {
+        "city": "S INDIAN HILL BOULEVARD",
+        "lat": 34.04192,
+        "lng": -117.75698,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T01:19:33+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.7000000000000001,
+      "description": "1st street guy pllansing stharrison st 227pm 01152026 woman",
+      "id": "inc-885e04870635b8cff1cc26631b9773fac6599d8b",
+      "location": {
+        "city": "",
+        "lat": 37.77956,
+        "lng": -122.41931,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T02:24:45+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "huge raid with kids in the house  nobody on ground filming r",
+      "id": "inc-619a5085a1c905fc9147785aae1ba25f061f5b92",
+      "location": {
+        "city": "1584 harvest ln shakopee",
+        "lat": 44.75492,
+        "lng": -93.51713,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-16T02:45:41+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "two brand new black ford expeditions one with california pla",
+      "id": "inc-a277fa493b0397d5210ea5b7c338b57bbedeca7f",
+      "location": {
+        "city": "",
+        "lat": 33.86532,
+        "lng": -118.39616,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T03:05:24+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.65,
+      "description": "ice dragged a person out of their apartment at maritime apar",
+      "id": "inc-56b802712658ccd1c47b541b93f86e968c2c1292",
+      "location": {
+        "city": "",
+        "lat": 43.89156,
+        "lng": -69.8306,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T03:23:02+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "multiple out of state vehicles vehicles without tags staying",
+      "id": "inc-df2373e79c5e91ef8b64960564b60c022c97d051",
+      "location": {
+        "city": "The Home2 Suites Anoka at 7895 Sunwood Dr NW Anoka",
+        "lat": 45.28872,
+        "lng": -93.42333,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-16T07:50:42+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.25,
+      "description": "harbor and segerstrom santa ana ca marriott possible ice veh",
+      "id": "inc-9ba0a50c9999ba12effe7e04b5e819be3d6d3eb9",
+      "location": {
+        "city": "",
+        "lat": 33.72038,
+        "lng": -117.90807,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T08:35:11+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "i saw a white van that drove past my house while i was waiti",
+      "id": "inc-53f8568e191175c6e6f6527ee00ed1a94111f3af",
+      "location": {
+        "city": "1333 ROTHLEY AVE ROSLYN",
+        "lat": 40.12624,
+        "lng": -75.12652,
+        "state": "PA"
+      },
+      "reported_at": "2026-01-16T12:18:51+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "multiple police cars surrounding one civilian vehicle  sever",
+      "id": "inc-828d829ca02f8f82a785dc542473c34896fdbf1d",
+      "location": {
+        "city": "I95 BALTIMORE",
+        "lat": 39.29487,
+        "lng": -76.62237,
+        "state": "MD"
+      },
+      "reported_at": "2026-01-16T12:51:55+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "palisades park nj brhoy viernes 16 de enero seguidores repor",
+      "id": "inc-a177627ca766330c827e36d601fde457e6823d1f",
+      "location": {
+        "city": "",
+        "lat": 40.84716,
+        "lng": -73.99664,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T14:25:42+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "Heavy helicopter activity reported in area Seeking info on I",
+      "id": "inc-a9bb23c09fc28d294bce0ccde0958c88e7ea00dc",
+      "location": {
+        "city": "MINNEAPOLIS",
+        "lat": 44.98526,
+        "lng": -93.26984,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-16T14:28:32+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "multiple ice vehicles at residence inn by marriott in eagan",
+      "id": "inc-8b4ce9b4d12f1670f8360f3667ef639bfdabfa3f",
+      "location": {
+        "city": "",
+        "lat": 44.95111,
+        "lng": -93.08739,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T14:39:32+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "black gmc yukon denali license plate wks0879 texas multiple",
+      "id": "inc-9ba72fc056bad2fda88d6f15a5e7da7c6fb3ff4f",
+      "location": {
+        "city": "",
+        "lat": 44.95111,
+        "lng": -93.08739,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T14:43:01+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.9,
+      "description": "black ford expedition bearing license plate 9fgr613 californ",
+      "id": "inc-a678a10c4ae27833e02fb4f8eda38728772c9c6c",
+      "location": {
+        "city": "",
+        "lat": 44.95111,
+        "lng": -93.08739,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T14:46:55+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "dark grey jeep wagoneer bearing license plate 319809 illinoi",
+      "id": "inc-90d01bf221d41218eb2fed2218934e222bfa0bc8",
+      "location": {
+        "city": "",
+        "lat": 44.95111,
+        "lng": -93.08739,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T14:52:31+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "ice in vests have a pickup truck boxed in just before 71 off",
+      "id": "inc-5619e9e9fd98e50443a208f24dcc8affd9cb4f47",
+      "location": {
+        "city": "8599 lyra drive columbus",
+        "lat": 40.14501,
+        "lng": -82.98209,
+        "state": "OH"
+      },
+      "reported_at": "2026-01-16T15:19:38+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "homeland security patrol car in qt on 10th and northside par",
+      "id": "inc-a937df282bff8d4fa3128d327531a93d24fad430",
+      "location": {
+        "city": "",
+        "lat": 33.79235,
+        "lng": -84.44831,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T15:23:12+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "a woman and her children were taken away from the area of ma",
+      "id": "inc-ad73ee5c5bd11a515ad38f0142c9400601361805",
+      "location": {
+        "city": "61127 PREAKNESS AVE PATERSON",
+        "lat": 40.92413,
+        "lng": -74.17928,
+        "state": "NJ"
+      },
+      "reported_at": "2026-01-16T15:27:45+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.44999999999999996,
+      "description": "4 men in what appeared to be tactical gear  one looked like",
+      "id": "inc-950e565eac9bb9a064e048a92c119ced9dfa6a38",
+      "location": {
+        "city": "73103",
+        "lat": 35.47065,
+        "lng": -97.5191,
+        "state": "OK"
+      },
+      "reported_at": "2026-01-16T16:05:53+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "palisades park njbron friday the 16th on columbia avenue tho",
+      "id": "inc-1183e22c9c56d79fb65ba8f06db870c063060392",
+      "location": {
+        "city": "",
+        "lat": 40.84716,
+        "lng": -73.99664,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T16:23:10+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "white van atleast 4 or more male agents headed east on romne",
+      "id": "inc-589d4a2e4cebb1b5b909faad89049c7dbcb843d6",
+      "location": {
+        "city": "ROMNEYAEAST ANAHEIM",
+        "lat": 33.84441,
+        "lng": -117.95175,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T16:53:26+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "ice sightings reported in minnetonkamn agents eating at old",
+      "id": "inc-74ad27b039cd30582d6aa4bcf62ce26bbc3bbd7b",
+      "location": {
+        "city": "MINNETONKA",
+        "lat": 44.91526,
+        "lng": -93.4838,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-16T16:57:00+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "upcoming ice operations announced in cumberland and surround",
+      "id": "inc-e075b47364197f543dce142d297ce1cf33c77c1a",
+      "location": {
+        "city": "1605 clugston road york",
+        "lat": 40.33363,
+        "lng": -79.63867,
+        "state": "PA"
+      },
+      "reported_at": "2026-01-16T17:05:53+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "suspicious vehicles parked near lafayette elementary school",
+      "id": "inc-1d88af6cdd9d278fcb4bb98ed47b4285c49b0908",
+      "location": {
+        "city": "",
+        "lat": 33.80819,
+        "lng": -118.17797,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T17:13:28+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "ice agents around cable dahmer arena",
+      "id": "inc-01539fd24c8beca840411a85a38f565bcf854ce0",
+      "location": {
+        "city": "E VALLEY VIEW PARKWAY INDEPENDENCE",
+        "lat": 39.05061,
+        "lng": -94.39848,
+        "state": "MO"
+      },
+      "reported_at": "2026-01-16T17:26:17+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "ice checking businesses parking lot checkin car truncks of p",
+      "id": "inc-298f3a6f1ea70c5fc34abba903281e3cdcf885c1",
+      "location": {
+        "city": "COLLINS AVE SUNNY ISLES",
+        "lat": 25.93234,
+        "lng": -80.13583,
+        "state": "FL"
+      },
+      "reported_at": "2026-01-16T17:50:57+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.25,
+      "description": "Drones flying above",
+      "id": "inc-8fc593fc2957e8dd5a30f3dfc8d57161a2cf2c29",
+      "location": {
+        "city": "282 NORTH BEAVER STREET YORK",
+        "lat": 39.95893,
+        "lng": -76.73359,
+        "state": "PA"
+      },
+      "reported_at": "2026-01-16T18:22:49+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "1020am 11626bra friend called me said when exiting highway 5",
+      "id": "inc-46edf07e7df050e0af8bbf9a6a1476afaabc2872",
+      "location": {
+        "city": "",
+        "lat": 45.6866,
+        "lng": -122.73152,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T18:29:43+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "ICE  HSI reported at La Habra Home Depot",
+      "id": "inc-75fa35901e0f757498e6c091ebaa3e239ad260ad",
+      "location": {
+        "city": "Home Depot 600 S Harbor Blvd La Habra",
+        "lat": 33.94266,
+        "lng": -117.95126,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T18:33:07+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "ICE has hit Home Depot in San Bernardino Please alert neighb",
+      "id": "inc-d5fd648be5fb7a2ef9f101bc11a32a703447fb47",
+      "location": {
+        "city": "1055 W 21st St San Bernardino",
+        "lat": 34.14578,
+        "lng": -117.30225,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T18:38:21+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "HIGH ALERT ADVISORY for the San Bernardino and surrounding a",
+      "id": "inc-f94e30476bd7f44fb00013b3cdb80c7377d65f56",
+      "location": {
+        "city": "SAN BERNARDINO",
+        "lat": 34.10586,
+        "lng": -117.29188,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T18:45:46+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "ICE reported arresting migrants  5 black suburbans",
+      "id": "inc-97f449234943957f0d4759ec7975433e30d95028",
+      "location": {
+        "city": "6612 189TH LN NW ANOKA",
+        "lat": 45.28872,
+        "lng": -93.42333,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-16T18:49:31+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "ice stopping people at buses and asking for identification",
+      "id": "inc-4521413b561fe9891d82bde9d0a312cc8d516a5e",
+      "location": {
+        "city": "ARDMORE ST LOS ANGELES",
+        "lat": 33.94906,
+        "lng": -118.24679,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T19:06:04+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "4 men dressed as civilians checking peoples trunks in the ba",
+      "id": "inc-252d2dfc436691ced1d083b95f7df06b5a0bad06",
+      "location": {
+        "city": "COLLINS AVE SUNNY ISLES BEACH",
+        "lat": 25.93234,
+        "lng": -80.13583,
+        "state": "FL"
+      },
+      "reported_at": "2026-01-16T19:13:52+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.44999999999999996,
+      "description": "no substance details but please keep on the lookout for our",
+      "id": "inc-82b8392cb5079b5de2964e30554fb687e4524c9e",
+      "location": {
+        "city": "",
+        "lat": 29.46901,
+        "lng": -98.52861,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T19:29:52+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "Kidnapping on 21 st and Lincoln at 1055 am in San Bernardino",
+      "id": "inc-df65064e8f7fe14dae23bd7a72009c8570b1d3f5",
+      "location": {
+        "city": "",
+        "lat": 34.0845,
+        "lng": -117.2653,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T19:38:42+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.25,
+      "description": "Raid at Richmond Childrens Hospital",
+      "id": "inc-46eed7ca8036031c33433789176ed346ad7e51b0",
+      "location": {
+        "city": "1001 E MARSHALL ST RICHMOND",
+        "lat": 37.5416,
+        "lng": -77.42954,
+        "state": "VA"
+      },
+      "reported_at": "2026-01-16T19:41:15+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "ICE is on the streets and working with local Sheriffs office",
+      "id": "inc-7d49e13594788514f36dccb1e57f55720034f85f",
+      "location": {
+        "city": "NACOGDOCHES",
+        "lat": 31.5576,
+        "lng": -94.51098,
+        "state": "TX"
+      },
+      "reported_at": "2026-01-16T19:56:28+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "large convoy of ice vehicles spotted in redmondkirkland",
+      "id": "inc-c1daa59159bb93080cf3303946dfa209de86ec5a",
+      "location": {
+        "city": "REDMOND",
+        "lat": 47.68148,
+        "lng": -122.1203,
+        "state": "WA"
+      },
+      "reported_at": "2026-01-16T20:21:55+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "People being kidnapped from their cars in the parking lot",
+      "id": "inc-2d77b93f9f75d567992f4ed30f8ecda2731b6f2c",
+      "location": {
+        "city": "SOMERSET COLLECTION 2800 W BIG BEAVER RD TROY",
+        "lat": 42.56065,
+        "lng": -83.17559,
+        "state": "MI"
+      },
+      "reported_at": "2026-01-16T21:11:16+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "ice by southcrest park in white explorer",
+      "id": "inc-d1c6366b11bc14a4dea40aff87cf10501e74530c",
+      "location": {
+        "city": "40TH CREST DR SAN DIEGO",
+        "lat": 32.69591,
+        "lng": -117.12012,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T21:42:38+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "ice reported in camarillo next to conejo farm according to a",
+      "id": "inc-8fba5c01422ccbd31b1657eaaaaf0971989a1695",
+      "location": {
+        "city": "",
+        "lat": 34.20518,
+        "lng": -118.99309,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T21:48:50+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "corner of miller ave and bennett ave in fontana ca otg commu",
+      "id": "inc-4b2a614a4672bb88d6992f7e4003bc54a8134f2f",
+      "location": {
+        "city": "miller ave and bennett ave FONTANA",
+        "lat": 34.13686,
+        "lng": -117.46033,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T22:00:44+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.6,
+      "description": "a young white woman blonde maybe late 20s was placed inside",
+      "id": "inc-4f7622ccc7954420f933b03e9d5eb75fe21ee10a",
+      "location": {
+        "city": "",
+        "lat": 32.7162,
+        "lng": -117.18589,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T22:11:06+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.2,
+      "description": "unconfirmed report of ice or dhs at dmv in the corning paint",
+      "id": "inc-d76d7101612fc4d8cc6ea80d800f025c3f2f94f6",
+      "location": {
+        "city": "",
+        "lat": 42.16816,
+        "lng": -77.13234,
+        "state": ""
+      },
+      "reported_at": "2026-01-16T22:21:11+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "reports of ICE by the stater bros and reportedly taking the",
+      "id": "inc-1e853686f2436f2047258fcfd296e64031738308",
+      "location": {
+        "city": "WATERMAN AND BASELINE SAN BERNARDINO",
+        "lat": 34.10586,
+        "lng": -117.29188,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T22:57:04+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "ice preparing for raids use enterprise box trucks",
+      "id": "inc-8db2ccf1a7269346b7290347e897b4be19712776",
+      "location": {
+        "city": "2620 W DUNLAP AVE PHOENIX",
+        "lat": 33.56046,
+        "lng": -112.09442,
+        "state": "AZ"
+      },
+      "reported_at": "2026-01-16T22:59:14+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "sighting white unmarked suv with iowa plates",
+      "id": "inc-f3ec37d3de54fb509806110efc46f302e06264d3",
+      "location": {
+        "city": "WINDSOR DR SHAKOPEE",
+        "lat": 44.75492,
+        "lng": -93.51713,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-16T23:15:38+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "ICE was spotted heading west on 3rd st black gmc lm plate 77",
+      "id": "inc-630425fa008ed743e8fb5c70481c69da522f0d2f",
+      "location": {
+        "city": "212 3RD AVE S MINNEAPOLIS",
+        "lat": 44.98526,
+        "lng": -93.26984,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-16T23:43:37+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    }
+  ]
+}

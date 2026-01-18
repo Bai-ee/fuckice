@@ -1,0 +1,51 @@
+{
+  "count": 3,
+  "date": "2026-01-08",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Posible precenscia de agentes de ice en zona de apartamentos hoy 8 de enero 2026 charlotte nc tengan precaucion lo vieron subiendo a un veh\u00edculo es probavle que est\u00e9n esperando a alguien 9023 E W.T. Harris Blvd, Charlotte, NC 28227 meado brook aparment",
+      "id": "inc-8d32f321de062f8e9c16a6067685e5a7bc48cd83",
+      "location": {
+        "city": "9023 E W.T. Harris Blvd",
+        "lat": 35.1975623,
+        "lng": -80.7260542,
+        "state": "NC"
+      },
+      "reported_at": "2026-01-08T11:46:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Posible precesncia de agentes de ice en 6271 Rosecroft Dr, Charlotte, NC 28215 apartamentos 9:10 am",
+      "id": "inc-a8fc3c57aaaf360763740ff972e6fb4f5a421442",
+      "location": {
+        "city": "6271 Rosecroft Dr",
+        "lat": 35.2359046,
+        "lng": -80.7322855,
+        "state": "NC"
+      },
+      "reported_at": "2026-01-08T14:10:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Charlotte Observer Instagram post: ICE agents told two men in Salisbury, NC, to stop recording them during a traffic stop on Monday, cellphone video posted online by the group Siembra NC shows.\n\nAgents eventually removed the men from the car. They were not charged, Siembra spokesperson Marley Monacello said.",
+      "id": "inc-f21f8e1bcf4bf4bf90de193d05880a64d23d7081",
+      "location": {
+        "city": "Salisbury",
+        "lat": 35.6709727,
+        "lng": -80.4742261,
+        "state": "NC"
+      },
+      "reported_at": "2026-01-08T21:45:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

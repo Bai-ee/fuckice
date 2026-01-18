@@ -1,0 +1,96 @@
+{
+  "count": 6,
+  "date": "2025-11-20",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.4,
+      "description": "",
+      "id": "inc-f04bc8e63b324fd4ce03495aa7b127cc4e98725c",
+      "location": {
+        "city": "",
+        "lat": 0.0,
+        "lng": 0.0,
+        "state": ""
+      },
+      "reported_at": "2025-11-20T01:50:09.051705+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.45000000000000007,
+      "description": "Agents walking around the apartments",
+      "id": "inc-928bac8655c37391ea90baf4cf6d1d453d14425b",
+      "location": {
+        "city": "6301 Woodbend Dr",
+        "lat": 35.2004328679961,
+        "lng": -80.7383859117806,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-20T04:31:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Sister was picking kids up from school when she was pulled over for expired tags. When pulled over, she was told she had a warrant for her arrest, and ICE picked her up from jail. Unsure about what charges she had / what warrant of arrest was for",
+      "id": "inc-b4e5caae3dd2221b4b47c2a0a07b5a70fe8ed3c0",
+      "location": {
+        "city": "Whiteville",
+        "lat": 34.3387802,
+        "lng": -78.7030721,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-20T17:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "His first day with the company as an electrician. He had a visa/asylum process with Matthew Pierce LLC. He arrived at base and was arrested and then turned over to ICE agents on the same day. Attorney already told him he'd go to Stewart by Saturday.",
+      "id": "inc-56b98f1e7ce5d9cc8bf7dc1b4ae1200f4ce4d824",
+      "location": {
+        "city": "1107 6th Ave Cherry Point Wilmington",
+        "lat": 34.2103894,
+        "lng": -77.8868117,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-20T17:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Person showed up for a job that ended up being on a military base where he was stopped and then ICE agents were called.",
+      "id": "inc-7e29880fa8ffe36a82327e5aabaefa13669eafcc",
+      "location": {
+        "city": "MCAS Cherry Point",
+        "lat": 34.2215819,
+        "lng": -77.940045,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-20T17:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "She went to her ICE check-in on Nov. 20th and the officers told her that they would make a revision. After that, they detained her and sent her with ICE.",
+      "id": "inc-58ba3493a54e0f4b2c46228d6d9d3d6ae0d64e0b",
+      "location": {
+        "city": "6130 Tyvola Centre Drive",
+        "lat": 35.1642752,
+        "lng": -80.9095822,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-20T17:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

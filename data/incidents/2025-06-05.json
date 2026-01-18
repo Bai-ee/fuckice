@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-06-05",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "More than five agents in army green bulletproof vests, half with face coverings, the other half with hats detaining someone at the gas station. Several big trucks with dark windows were there.",
+      "id": "inc-e61453f72f5563a3eb16589ea9ebcef796c2320a",
+      "location": {
+        "city": "7200 Old Stage Rd",
+        "lat": 35.6781315,
+        "lng": -78.6580022,
+        "state": "NC"
+      },
+      "reported_at": "2025-06-05T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

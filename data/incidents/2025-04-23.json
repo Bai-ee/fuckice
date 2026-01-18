@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-04-23",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.6000000000000001,
+      "description": "Verified by Comunidad Colectiva. ICE agents in a white van were confirmed at the court house. Detentions/arrests unknown.",
+      "id": "inc-53a2c25e22698559f96f0cf43f707b260ea13796",
+      "location": {
+        "city": "800 E 4th St",
+        "lat": 35.2197527,
+        "lng": -80.8379935,
+        "state": "NC"
+      },
+      "reported_at": "2025-04-23T15:20:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

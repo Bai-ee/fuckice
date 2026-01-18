@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.25,
+      "description": "Raid at Richmond Childrens Hospital",
+      "id": "inc-46eed7ca8036031c33433789176ed346ad7e51b0",
+      "location": {
+        "city": "1001 E MARSHALL ST RICHMOND",
+        "lat": 37.5416,
+        "lng": -77.42954,
+        "state": "VA"
+      },
+      "reported_at": "2026-01-16T19:41:15+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.5,
+      "description": "ICE was spotted at 6am in churchill",
+      "id": "inc-b7ea691eaf633022f050f84624e6b9628df7de21",
+      "location": {
+        "city": "1206 NORTH 32ND STREET EAST END RICHMOND",
+        "lat": 37.55595,
+        "lng": -77.37927,
+        "state": "VA"
+      },
+      "reported_at": "2026-01-17T15:46:41+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    }
+  ],
+  "state": "VA"
+}

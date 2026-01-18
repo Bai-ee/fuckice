@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "date": "2025-05-19",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Person was going through a domestic abuse case in January. When the person showed up to court in May, he was taken into custody by ICE.",
+      "id": "inc-ceb26638edc6111905f2f360da8119511c57c0b9",
+      "location": {
+        "city": "201 S. Eugene Street",
+        "lat": 36.0718338,
+        "lng": -79.7933018,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-19T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.6000000000000001,
+      "description": "In brief video, there are unmarked black vehicles parked outside of a house. Two visible agents in green tactical gear may be attempting to enter a home. Detentions unknown.",
+      "id": "inc-54211146ec8a818f9e68b296e78350d8c4b1d343",
+      "location": {
+        "city": "Ashley Rd",
+        "lat": 35.2334145,
+        "lng": -80.895622,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-19T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

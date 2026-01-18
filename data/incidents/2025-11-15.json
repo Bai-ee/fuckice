@@ -1,0 +1,351 @@
+{
+  "count": 23,
+  "date": "2025-11-15",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Church pastor reports one person was detained in the church driveway (report to hotline) Central UMC",
+      "id": "inc-9b7589fc2ea19e48924c5262b4ce887d1c1b2ddb",
+      "location": {
+        "city": "6030 Albemarle Rd",
+        "lat": 35.2026042,
+        "lng": -80.7420978,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T01:06:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.85,
+      "description": "2 SUVS in parking lot. Dealer plates on one. 4 masked CBP agents in parking lot of fitness connection, using binoculars to look into vehicles. date changed from 11/16 to 11/15",
+      "id": "inc-a5b9e5e64d6ba0627029d4b62777b37c4e694067",
+      "location": {
+        "city": "6320 Albemarle Rd",
+        "lat": 35.2016284,
+        "lng": -80.7376709,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T01:37:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "At least 10 wearing black and grey, some masked, standing near At Home. 1 white SVU, 2 black SVUs, 1 silver SVU.",
+      "id": "inc-4b84e1fc5e54e306f87eaadf1828a3e8e73776ca",
+      "location": {
+        "city": "11415 Carolina Pl Pkwy",
+        "lat": 35.0770052,
+        "lng": -80.8763476,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T03:51:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Two border patrol agents dressed in black arrive at a tire store in a white SUV. One person runs away from tire store. Two agents jump out of white SUV chase him down the sidewalk. The owner of the tire shop told a reporter that her lead mechanic had been arrested. Both FB postings the same.",
+      "id": "inc-9bc4a6a11ea6315a8d898da1966dd5f6304ad5d7",
+      "location": {
+        "city": "4732 Central Ave",
+        "lat": 35.2119097,
+        "lng": -80.7632645,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T09:16:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Video: Security camera footage of two men walking under the awning of a business, green/gray minivan pulls up behind them and two BP agents in green shirts/pants and black vests exit the vehicle and chase the two men off video. A black SUV follows the minivan in the same direction.",
+      "id": "inc-0c0989664a7d35938ea499ff1451b04d43be25a0",
+      "location": {
+        "city": "4808 Central Ave",
+        "lat": 35.2113389,
+        "lng": -80.7626334,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T10:15:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Man in blue shirt + grey pants being detained. Several masked men in camo with 'police' on their tops. White SVU and black SVU.",
+      "id": "inc-f96836453aed836f0f31adb1a90c78c9e8cbaeba",
+      "location": {
+        "city": "6101 South Blvd",
+        "lat": 35.1523811,
+        "lng": -80.875871,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T10:46:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Multiple BP/ICE agents (30 +/-) at Home Depot stopping people. Cannot confirm exact time as it is not listed on the post.",
+      "id": "inc-292259b57d81389cbd6c8b792e768523f54a4295",
+      "location": {
+        "city": "4750 South Blvd",
+        "lat": 35.1740314,
+        "lng": -80.877501,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T11:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Shot from inside fiesta patria restaurant; one unmasked man wearing a black vest stands outside a pickup truck; another man joins and is given a \"police: federal agent\" vest by the first. both walk away",
+      "id": "inc-9144eb509af7695bf00756b5b27a7ecc1408ffae",
+      "location": {
+        "city": "3635 Mt Holly-Huntersville Rd",
+        "lat": 35.3255633,
+        "lng": -80.9473317,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T11:53:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "May be related to incident #14. 1 person, probably a man based on audio from video, likely wearing a pink or red shirt, being detained by at least 3 men wearing green/brown.",
+      "id": "inc-d511ff8bfd1bb3b39d8019d4f2a47227aefdc65e",
+      "location": {
+        "city": "6407 South Blvd",
+        "lat": 35.1474137,
+        "lng": -80.8756992,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T11:56:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "VIDEO: Gray minivan with 3 officers, green vests + masks, picking one person off the sidewalk and putting him in the back of the minivan. No front license plate. Video is taken from pretty far away, no faces visible, no one appears to be closer or interacting with agents. (note: there is a photo of this same incident in FB post related to incident 5,7,8)",
+      "id": "inc-93a5088e74f45cd6b3b898ec3d247991f481c82a",
+      "location": {
+        "city": "4816 S Central Ave",
+        "lat": 33.999342,
+        "lng": -118.25628,
+        "state": "CA"
+      },
+      "reported_at": "2025-11-15T12:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "A white work van was stopped by agents with face coverings and green vests. The agents had a silver Charger and 3 SUVs.",
+      "id": "inc-e5b6c6455ea711b5474141134e1eb2f42b5aafd6",
+      "location": {
+        "city": "Arrowood Road Exit 3 of I-77 Charlotte",
+        "lat": 35.1449363,
+        "lng": -80.9224684,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T12:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Border Patrol is chasing a man wearing green construction shirt",
+      "id": "inc-7abe263d1e53aa3d305eb7d36cc7f645d2c96bcd",
+      "location": {
+        "city": "Tom Hunter Rd",
+        "lat": 35.2787388,
+        "lng": -80.778357,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T13:25:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Hotline caller reported BP made an arrest at apartments at this location. The agents left in a group of 4-5 SUVs.",
+      "id": "inc-833bf66bc5dea183e3612ac36bb66a39a13e7a44",
+      "location": {
+        "city": "9415 Lucy Jane Ln",
+        "lat": 35.1428424,
+        "lng": -80.7424017,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T13:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Video: Three agents detain a man at Supermercadito El Salvador. Two agents diagonally across the intersection at Cuzcatlan restaurant and Salvadoran market arrest another man wearing black. Silver or white SUV at restaurant.",
+      "id": "inc-9112d3fdbe0b5e3e6a68814d3cbb7ee2749b43a6",
+      "location": {
+        "city": "4729 Central Ave",
+        "lat": 35.21254,
+        "lng": -80.7630382,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T13:35:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "He was walking to the store on S Blvd when he got cornered by mulitple cars.",
+      "id": "inc-9251ce28cdd7e89f8764fd1883c1a9e150dc36dc",
+      "location": {
+        "city": "6217 South Blvd",
+        "lat": 35.1511086,
+        "lng": -80.8753132,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T14:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "An officer is outside of Quick Trip, then gets in his vehicle (a black SUV).",
+      "id": "inc-c71fb6a624c688ea848586e7ce9e4e832e8ffdd3",
+      "location": {
+        "city": "5209 Central Ave",
+        "lat": 35.2103582,
+        "lng": -80.7566029,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T14:12:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Photo: Agent in green getting into a white SUV. Detentions unknown.",
+      "id": "inc-aea47d1bacc4c4da4625eb275b3580f1e82c0fb8",
+      "location": {
+        "city": "6701 N Tryon St",
+        "lat": 35.2794017,
+        "lng": -80.7671161,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T14:45:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Two agents are seen with face coverings and green vests. They are talking to a man next to a black sedan. Detentions unknown.",
+      "id": "inc-2da19ba691d095dafd1a2da29883a1c18f38cb95",
+      "location": {
+        "city": "Farm Pond Ln & Albemarle Rd",
+        "lat": 35.2029445,
+        "lng": -80.7388278,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T14:45:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "A border patrol officer is seen holding a man, and other border patrol officers are shown talking to a lady. G. Bovino is shown wearing camo. Agents all have faces covered, some with black vests and some with green vests on.",
+      "id": "inc-fa044ef76e03470b18930cdc050faebf834c3a09",
+      "location": {
+        "city": "10500 Centrum Pkwy",
+        "lat": 35.0901763,
+        "lng": -80.8791142,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T15:14:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "A man was sitting in his red pick up truck in the parking lot of the Dollar General. Two to three agents with face masks and green vests physically pulled him out and restrained him on the ground, while another 2-3 agents guarded the location. It was later confirmed by news that he was a US citizen.",
+      "id": "inc-8aa85b6ccce8763810635ca3fe0e457bcaa07d69",
+      "location": {
+        "city": "6217 South Blvd Charlotte",
+        "lat": 35.1511086,
+        "lng": -80.8753132,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T16:45:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Working near Wells Fargo on Central Ave. and was cornered and arrested on the job site.",
+      "id": "inc-e90a09d9602f070c77f782d4e153fbe39691b431",
+      "location": {
+        "city": "",
+        "lat": 35.2050801,
+        "lng": -80.7504984,
+        "state": ""
+      },
+      "reported_at": "2025-11-15T17:50:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "Three agents detain a man at Supermercadito El Salvador. Two agents diagonally across the intersection at Cuzcatlan restaurant and Salvadoran market arrest another man. Silver or white SUV at restaurant.",
+      "id": "inc-2836716fe2195dae1c140ec24725759e9c5c15a3",
+      "location": {
+        "city": "4729 Central Avenue Charlotte",
+        "lat": 35.21254,
+        "lng": -80.7630382,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T18:35:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "At least one woman detained by at least four agents outside Pep Boys",
+      "id": "inc-085528cfbb31f331fc98574bfc866169c401ef0d",
+      "location": {
+        "city": "4728 South Blvd",
+        "lat": 35.1754173,
+        "lng": -80.8776012,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-15T19:03:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

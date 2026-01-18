@@ -1,0 +1,91 @@
+{
+  "current_as_of": "November 30, 2025",
+  "fetched_at": "2026-01-18T00:29:42.946808+00:00",
+  "source": "trac_context",
+  "tables": [
+    {
+      "headers": [
+        "State",
+        "Detainees"
+      ],
+      "rows": [
+        [
+          "Texas",
+          "17,696"
+        ],
+        [
+          "Louisiana",
+          "7,096"
+        ],
+        [
+          "California",
+          "5,711"
+        ],
+        [
+          "Florida",
+          "4,217"
+        ],
+        [
+          "Georgia",
+          "3,973"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "City",
+        "Detainees"
+      ],
+      "rows": [
+        [
+          "El Paso",
+          "2,774"
+        ],
+        [
+          "Natchez",
+          "2,224"
+        ],
+        [
+          "Lumpkin",
+          "2,044"
+        ],
+        [
+          "Adelanto",
+          "1,786"
+        ],
+        [
+          "Pearsall",
+          "1,732"
+        ]
+      ]
+    },
+    {
+      "headers": [
+        "AOR",
+        "Monitored"
+      ],
+      "rows": [
+        [
+          "San Francisco",
+          "20,853"
+        ],
+        [
+          "Chicago",
+          "19,021"
+        ],
+        [
+          "Los Angeles",
+          "17,895"
+        ],
+        [
+          "Miami",
+          "17,533"
+        ],
+        [
+          "New York",
+          "11,104"
+        ]
+      ]
+    }
+  ]
+}

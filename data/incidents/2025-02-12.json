@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-02-12",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "ICE vehicle spotted on Church Street in Concord heading into downtown.",
+      "id": "inc-0f5eb805efa708df53a24fb3f2d8abb1a8f9f3e6",
+      "location": {
+        "city": "2405 N Church St",
+        "lat": 36.0922349,
+        "lng": -79.3932293,
+        "state": "NC"
+      },
+      "reported_at": "2025-02-12T17:07:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

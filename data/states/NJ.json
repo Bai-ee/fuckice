@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "a woman and her children were taken away from the area of ma",
+      "id": "inc-ad73ee5c5bd11a515ad38f0142c9400601361805",
+      "location": {
+        "city": "61127 PREAKNESS AVE PATERSON",
+        "lat": 40.92413,
+        "lng": -74.17928,
+        "state": "NJ"
+      },
+      "reported_at": "2026-01-16T15:27:45+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "ice sighted on butler street in front of italian peoples bak",
+      "id": "inc-0adc1d128440a1800a4dea9f9050b55011bd4ad6",
+      "location": {
+        "city": "italian peoples bakery TRENTON",
+        "lat": 40.19107,
+        "lng": -74.74299,
+        "state": "NJ"
+      },
+      "reported_at": "2026-01-17T14:47:00+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    }
+  ],
+  "state": "NJ"
+}

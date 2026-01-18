@@ -1,0 +1,276 @@
+{
+  "count": 18,
+  "date": "2025-12-12",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.55,
+      "description": "Confirmed ICE encounter by bystanders and Verifier. 3-5 vehicles with tinted windows and emergency light (Chevys and Fords) targeted a Hispanic male and female driving in their vehicle. ICE vehicle rear ended the victims vehicle while another vehicle drove around them striking them from the front. The male victim got out and was clearly injured. The ICE agents arrested him. They were heavily armed and wearing cowboy hats, ski masks and ballistics vests. A Verifier was on scene at this time. ICE left with the male victim.",
+      "id": "inc-cfbf66039d37992f2ec4aea4111d2737098749ee",
+      "location": {
+        "city": "901 Summit Ave",
+        "lat": 36.084283,
+        "lng": -79.7779698,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-12T03:25:18.414462+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.55,
+      "description": "Video of man and woman pulled over by 2 masked men in vests. Comment included with video on Pueblo unido what\u2019s app and Jhony indicates man was arrested. Comments under video posted on Jhony indicate the man was let go.",
+      "id": "inc-778bec924c298ab63eef352fd1ea26c9f9591240",
+      "location": {
+        "city": "",
+        "lat": 35.2524493,
+        "lng": -80.9015081,
+        "state": ""
+      },
+      "reported_at": "2025-12-12T03:25:18.414462+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Jailed in Cabarrus county and was put on an ICE hold where ICE picked him up.",
+      "id": "inc-2beeb33925df71d3e0955d5dc77335f813f0c4d7",
+      "location": {
+        "city": "30 Corban Ave SE",
+        "lat": 35.4090546,
+        "lng": -80.5782942,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-12T03:25:18.414462+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Mother and son went on base to celebrate holiday with family, was detained entering and then sent to New Hanvoer jailed under ICE custody.",
+      "id": "inc-0b31deb578e2e990d429da2ae20cabfb3456635d",
+      "location": {
+        "city": "187 Curtis Rd",
+        "lat": 34.7242056,
+        "lng": -77.4490397,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-12T03:25:18.414462+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "raid",
+      "confidence": 0.55,
+      "description": "Leaving Home Depot with his bags and was detained in the parking lot.",
+      "id": "inc-85b177f21bbb05ff92002e3f5af6e01c33838d3e",
+      "location": {
+        "city": "2031 Walnut St",
+        "lat": 35.7563539,
+        "lng": -78.7384397,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-12T03:25:18.414462+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Working near wellsfargo on central ave. and was cornered and arrested on the job site.",
+      "id": "inc-eca1ad63dadd9dfdcfecc21a71c5265f7fec0e6e",
+      "location": {
+        "city": "",
+        "lat": 35.2050801,
+        "lng": -80.7504984,
+        "state": ""
+      },
+      "reported_at": "2025-12-12T03:25:18.414462+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "He was detained while taking out the trash in his apartment complex.",
+      "id": "inc-a3843b49c40f60f9bd2065e3f9e7aed84b74aa62",
+      "location": {
+        "city": "",
+        "lat": 35.787743,
+        "lng": -78.644257,
+        "state": ""
+      },
+      "reported_at": "2025-12-12T03:25:18.414462+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.4,
+      "description": "Detained at Mcdonald's parking lot.",
+      "id": "inc-7475c23dc5f9abc81609597c6db9f4c94b7785e9",
+      "location": {
+        "city": "8121 University City Blvd",
+        "lat": 35.2945726,
+        "lng": -80.748008,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-12T03:25:18.414462+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.55,
+      "description": "Driving white work van and was pulled over near Arwood Rd.",
+      "id": "inc-478478c2f85a579b71dd672f2bdbda54e7c8b1fa",
+      "location": {
+        "city": "715 E Arrowood Rd",
+        "lat": 35.1384851,
+        "lng": -80.8820874,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-12T03:25:18.414462+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "One agent in vest, mask, and dark clothes walking in neighborhood. Large white vehicle parked nearby.",
+      "id": "inc-da31eb5f77a577ea475cb7a49e7769f8141e963b",
+      "location": {
+        "city": "N. Logan Street",
+        "lat": 36.112762,
+        "lng": -79.440894,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-12T03:25:18.414462+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "He was walking to the store on S Blvd when he got cornered by mulitple cars.",
+      "id": "inc-ac8e1ecd3fe1491ae2b46097fe7ac11a6faa4d84",
+      "location": {
+        "city": "6217 South Blvd",
+        "lat": 35.1511086,
+        "lng": -80.8753132,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-12T03:25:18.414462+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.4,
+      "description": "CBP detained individual outside store",
+      "id": "inc-67927669cdb92f96247b91d1eef1328f0a13afcd",
+      "location": {
+        "city": "",
+        "lat": 35.1346281,
+        "lng": -80.9407315,
+        "state": ""
+      },
+      "reported_at": "2025-12-12T03:25:18.414462+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.4,
+      "description": "Detained while on job site",
+      "id": "inc-c25351b6971f5bdd2259316b5c92fee6c75f2d63",
+      "location": {
+        "city": "350 Wilkesboro Blvd NE SE",
+        "lat": 35.9156339,
+        "lng": -81.5172648,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-12T03:25:18.414462+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.55,
+      "description": "They were pulled over by traffic police in Concord, NC (where they live). The officer gave a ticket to the detainee, but his wife was the one driving. The wife paid the bond, but the detainee was not released, instead, he was transferred to ICE Detention.",
+      "id": "inc-e78c197d47d84951f3d28ffb4e6c83d885200de0",
+      "location": {
+        "city": "Concord",
+        "lat": 35.4101,
+        "lng": -80.582,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-12T03:25:18.414462+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Person was captured by ICE in Raleigh, NC. He was going out of his apartment when they captured him. The detainee hasn't been able to call his family.",
+      "id": "inc-ba7e35a8d55daa2c469f0e9dfae151547e022fa3",
+      "location": {
+        "city": "801 Vardaman St",
+        "lat": 35.7691468,
+        "lng": -78.6196194,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-12T03:25:18.414462+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "She went to her ICE check-in on Nov. 20th and the officers told her that they would make a revision. After that, they detained her and sent her with ICE.",
+      "id": "inc-4ba4d48f586bdde3e8f5726f2535d7c49888aef1",
+      "location": {
+        "city": "6130 Tyvola Centre Drive",
+        "lat": 35.1642752,
+        "lng": -80.9095822,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-12T03:25:18.414462+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Person showed up for a job that ended up being on a military base, where he was stopped and then ICE agents were called.",
+      "id": "inc-4c58cedff80cab212b44a3d47522b132d48974ac",
+      "location": {
+        "city": "MCAS Cherry Point",
+        "lat": 34.8998381,
+        "lng": -76.9058011,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-12T03:25:18.414462+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Two immigrants went to the New Hanover County Jail on or around December 12, 2025 to post bond for a loved one who was detained when they were approached by an ICE officer in the NHC Jail's parking lot, asked for identification, and then detained by ICE.",
+      "id": "inc-cc858bbe62288fc373ffb83d45fdef6cdd7405ce",
+      "location": {
+        "city": "3950 Juvenile Center Rd",
+        "lat": 34.3269999,
+        "lng": -77.8960325,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-12T17:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

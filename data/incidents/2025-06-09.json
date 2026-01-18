@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "date": "2025-06-09",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "At least 2 agents pulled over black car and arrested at least one person. Agents wearing civilian clothes with army green bulletproof vests and hats.",
+      "id": "inc-64c839b9df9a0feef35dab9895badf751294a947",
+      "location": {
+        "city": "South Blvd",
+        "lat": 35.1604634,
+        "lng": -80.8760936,
+        "state": "NC"
+      },
+      "reported_at": "2025-06-09T00:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "Video shows 4 unmarked vehicles and 5 agents. Two agents chased and pushed down a person who was running in front of a gas station. Three agents appeared shortly after and handcuffed the man on the ground. All agents were in plain clothes and black vests.",
+      "id": "inc-d9155ea5ae1ad8521ae02e8346e80daa79382a48",
+      "location": {
+        "city": "South Blvd near Tyvola",
+        "lat": 35.1604634,
+        "lng": -80.8760936,
+        "state": "NC"
+      },
+      "reported_at": "2025-06-09T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

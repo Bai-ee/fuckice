@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-12-31",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.4,
+      "description": "Three uniformed agents in a sedan appear arriving in the parking lot of Coffee Creek Apartments. A fourth agent arrives in a second sedan and joins them.  Possibly staging.",
+      "id": "inc-af2501bc8af30c5e5126ec127a943b3701b117e4",
+      "location": {
+        "city": "2208 YAGER CREEK DR CHARLOTTE",
+        "lat": 35.1434736,
+        "lng": -80.927448,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-31T15:55:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

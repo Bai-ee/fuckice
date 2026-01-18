@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-10-17",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.55,
+      "description": "The Brookford Police Department arrested one man for driving without a license, and later transferred him to ICE custody.",
+      "id": "inc-df30a5351f8aebb9d716bc3b4fca23ee20db41d1",
+      "location": {
+        "city": "2016 S. Center Street",
+        "lat": 35.7026303,
+        "lng": -81.3445671,
+        "state": "NC"
+      },
+      "reported_at": "2025-10-17T16:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

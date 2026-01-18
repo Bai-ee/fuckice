@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-11-01",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Had DUI, as a part pled guilty and chose to pay jail time on weekends. On his first Saturday in jail -- ICE picked him up. Have 3 kids, including one premie baby with no medical conditions now.",
+      "id": "inc-d3b6ee6d826d6db31864a35ca0b877231413006d",
+      "location": {
+        "city": "Yadkinville",
+        "lat": 36.1345807,
+        "lng": -80.6595079,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-01T16:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

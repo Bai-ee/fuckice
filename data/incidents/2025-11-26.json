@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "date": "2025-11-26",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Mother and son (with family) showed up to marine base for holidays. At the base they stopped them and took them to Wilmington to investigate. They think under ICE Custody",
+      "id": "inc-81ff786c5c8e2de7f55907ee025532179bd7ec32",
+      "location": {
+        "city": "Camp Lejeune and Marine Corps Air Station/ 812 Holcomb Blvd",
+        "lat": 34.7208712,
+        "lng": -77.3440808,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-26T21:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Mother and son went on base to celebrate holiday with family, was detained entering and then sent to New Hanover jailed under ICE custody.",
+      "id": "inc-0d05144cd158f8d4f5b69d230519ca9da21b29c4",
+      "location": {
+        "city": "187 Curtis Road",
+        "lat": 34.7242056,
+        "lng": -77.4490397,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-26T21:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

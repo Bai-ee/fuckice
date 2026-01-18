@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-08-11",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "Car pulled over by agent in civilian clothes with black plain bulletproof vest. The agent is driving a Ford SUV with undercover blue lights.  Detentions unknown.",
+      "id": "inc-a80916a128a8d8ab72440e9067f8658777639a7b",
+      "location": {
+        "city": "7837 Nations Ford Rd",
+        "lat": 35.146331,
+        "lng": -80.895351,
+        "state": "NC"
+      },
+      "reported_at": "2025-08-11T12:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

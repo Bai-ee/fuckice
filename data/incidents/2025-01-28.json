@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-01-28",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.45000000000000007,
+      "description": "Verified by Comunidad Colectiva. Image shows two people without vests in plain clothes, unsure if they are officers or not, plus one person who appears to have a black vest on. There is no further information, so it is unclear what type of action this might be.",
+      "id": "inc-d613e7f4b8853982bd69a5bc5144c8ee39e6d7a3",
+      "location": {
+        "city": "340 Archdale Dr",
+        "lat": 35.1492487,
+        "lng": -80.8923619,
+        "state": "NC"
+      },
+      "reported_at": "2025-01-28T18:15:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-01-06",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Anonymous user posted the attached photo to Retenes. Photo shows small masked agent wearing tactical vest with ERO patch across the front. Caption claims, \"Good morning ICE made its first arrests at Nation Ford, they are heading down 485, batteries people, trucks and small cars using.\"",
+      "id": "inc-c608e3fde3f4a671acf21c09daf8c9e6b3f5c7fc",
+      "location": {
+        "city": "Nations Ford Rd. Charlotte",
+        "lat": 35.140471,
+        "lng": -80.8942236,
+        "state": "NC"
+      },
+      "reported_at": "2025-01-06T13:18:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

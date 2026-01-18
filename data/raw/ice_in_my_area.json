@@ -1,0 +1,8 @@
+{
+  "error": "HTTP Error 401: Unauthorized",
+  "fetched_at": "2026-01-18T00:29:42.946808+00:00",
+  "response": "{\n  \"error\" : \"Missing appcheck token\"\n}\n",
+  "source": "ice_in_my_area",
+  "status": 401,
+  "url": "https://iceinmyarea-default-rtdb.firebaseio.com/verified.json"
+}

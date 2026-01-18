@@ -1,0 +1,141 @@
+{
+  "count": 9,
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "ice vehicle parked outside building on west edge of lot",
+      "id": "inc-11be5f75fdd24c686159b0f7f4d6945f9bc86a33",
+      "location": {
+        "city": "421 VAN BUREN AVENUE NORTH",
+        "lat": 44.95477,
+        "lng": -93.43229,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-15T23:21:20+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "huge raid with kids in the house  nobody on ground filming r",
+      "id": "inc-619a5085a1c905fc9147785aae1ba25f061f5b92",
+      "location": {
+        "city": "1584 harvest ln shakopee",
+        "lat": 44.75492,
+        "lng": -93.51713,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-16T02:45:41+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "multiple out of state vehicles vehicles without tags staying",
+      "id": "inc-df2373e79c5e91ef8b64960564b60c022c97d051",
+      "location": {
+        "city": "The Home2 Suites Anoka at 7895 Sunwood Dr NW Anoka",
+        "lat": 45.28872,
+        "lng": -93.42333,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-16T07:50:42+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "Heavy helicopter activity reported in area Seeking info on I",
+      "id": "inc-a9bb23c09fc28d294bce0ccde0958c88e7ea00dc",
+      "location": {
+        "city": "MINNEAPOLIS",
+        "lat": 44.98526,
+        "lng": -93.26984,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-16T14:28:32+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "ice sightings reported in minnetonkamn agents eating at old",
+      "id": "inc-74ad27b039cd30582d6aa4bcf62ce26bbc3bbd7b",
+      "location": {
+        "city": "MINNETONKA",
+        "lat": 44.91526,
+        "lng": -93.4838,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-16T16:57:00+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "ICE reported arresting migrants  5 black suburbans",
+      "id": "inc-97f449234943957f0d4759ec7975433e30d95028",
+      "location": {
+        "city": "6612 189TH LN NW ANOKA",
+        "lat": 45.28872,
+        "lng": -93.42333,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-16T18:49:31+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "sighting white unmarked suv with iowa plates",
+      "id": "inc-f3ec37d3de54fb509806110efc46f302e06264d3",
+      "location": {
+        "city": "WINDSOR DR SHAKOPEE",
+        "lat": 44.75492,
+        "lng": -93.51713,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-16T23:15:38+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "ICE was spotted heading west on 3rd st black gmc lm plate 77",
+      "id": "inc-630425fa008ed743e8fb5c70481c69da522f0d2f",
+      "location": {
+        "city": "212 3RD AVE S MINNEAPOLIS",
+        "lat": 44.98526,
+        "lng": -93.26984,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-16T23:43:37+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "multiple ice agents parked outside of valley green trailer p",
+      "id": "inc-74d6a40058649fcd1aee2664b153bdb1344f60f9",
+      "location": {
+        "city": "300 VALLEY GREEN PARK JORDAN",
+        "lat": 44.65505,
+        "lng": -93.5862,
+        "state": "MN"
+      },
+      "reported_at": "2026-01-17T15:50:02+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    }
+  ],
+  "state": "MN"
+}

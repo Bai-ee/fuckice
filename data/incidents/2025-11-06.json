@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-11-06",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.55,
+      "description": "A man was pulled over as he was on his way back home from work. He was driving a black Nissan.",
+      "id": "inc-f3362fdb3ff548ebf5ccc7dc6810700be7761bce",
+      "location": {
+        "city": "Route 13 near I-40",
+        "lat": 35.2519008,
+        "lng": -78.3776985,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-06T20:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

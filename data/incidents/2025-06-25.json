@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-06-25",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Worksite Raid at Buckeye Fire Equipment Company with multiple detentions. Other neighboring factories were also canvassed but did not allow entry.",
+      "id": "inc-e099e9cbb8c514f6dc221bd34f4c04aec34b0bdd",
+      "location": {
+        "city": "110 Kings Road Kings Mountain",
+        "lat": 35.2676328,
+        "lng": -81.3256771,
+        "state": "NC"
+      },
+      "reported_at": "2025-06-25T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

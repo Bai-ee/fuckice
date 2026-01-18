@@ -1,0 +1,51 @@
+{
+  "count": 3,
+  "date": "2025-11-13",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.6000000000000001,
+      "description": "Seven or eight agents with green vests seen staging/preparing in a parking area in early morning hours. Five dark colored vehicles nearby.",
+      "id": "inc-7924b3ccdef3b2e787f63e299ecdd6b61d4b7d84",
+      "location": {
+        "city": "",
+        "lat": 35.2651965,
+        "lng": -80.8821765,
+        "state": ""
+      },
+      "reported_at": "2025-11-13T11:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "A white SUV was pulled over by one blue SUV, one black SUV, and one silver sedan. Three agents had green vests and faces covered. One man detained.",
+      "id": "inc-a61e80b1e35f043b63ba6e009273e3752174d2aa",
+      "location": {
+        "city": "Exit 42 N. Tryon onto I-85 Charlotte",
+        "lat": 35.2271873,
+        "lng": -80.8426839,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-13T12:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Charlotte airport, Nov 13 Thursday iba en un vuelo a Los Angeles y el tenia los papeles el abogado dijo que podia viajar, ICE estaba esperando el vuelo, weren't looking for him, they just acercaron porque parecian hispano. Yesterday the wife said they had taken him to Atlanta, was denied water and food in detention, was denied taking his personal effects with him, even his shoes, from Atlanta to Louisiana, was loaded onto a plane but returned for mechanical problems three days ago, no word from him sense. He's from El Salvador.",
+      "id": "inc-9fe35309dada58bfae69ebb0cb76e508a97d88eb",
+      "location": {
+        "city": "Charlotte Douglas Airport",
+        "lat": 35.2162994,
+        "lng": -80.9539428,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-13T17:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "date": "2025-03-03",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "Agents in face coverings and green bulletproof vests have a person pulled over in a neighborhood. Vehicles seem to be one black pick up truck and a Ford SUV. Detention unknown.",
+      "id": "inc-2c6f1fce24a7cf885fc39423a8713c5c36dc146a",
+      "location": {
+        "city": "N Tryon St",
+        "lat": 35.2831924,
+        "lng": -80.7644843,
+        "state": "NC"
+      },
+      "reported_at": "2025-03-03T11:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.6000000000000001,
+      "description": "Verified by Comunidad Colectiva. Police with black HSI vest questioned at least one person, arrests unknown.",
+      "id": "inc-cb4bdd1c84d0067a3367f3b1b6216d9e6139fc25",
+      "location": {
+        "city": "Dove Tree Ln & Elgywood Ln",
+        "lat": 35.2683682,
+        "lng": -80.7720225,
+        "state": "NC"
+      },
+      "reported_at": "2025-03-03T13:20:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

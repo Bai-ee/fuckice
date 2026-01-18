@@ -1,0 +1,154 @@
+:root{
+  color-scheme: dark;
+
+  /* ===== Core ===== */
+  --primary-text:#ffffff;
+  --text-muted:rgba(255,255,255,.65);
+  --text-disabled:rgba(255,255,255,.35);
+
+  /* ===== Glass surfaces ===== */
+  --surface-a10:#000;
+  --surface-a20:#0a0a0a;
+  --surface-a30:#121212;
+  --surface-a40:#1a1a1a;
+  --surface-a50:#242424;
+  --surface-a60:#2e2e2e;
+
+  --tonal-a10:radial-gradient(1200px 600px at top center,#1a1a1a 0%,#0a0a0a 45%,#000 100%);
+  --tonal-a20:rgba(255,255,255,.05);
+  --tonal-a30:rgba(255,255,255,.08);
+  --tonal-a40:rgba(255,255,255,.12);
+  --tonal-a50:rgba(255,255,255,.18);
+  --tonal-a60:rgba(255,255,255,.26);
+
+  /* ===== Monochrome semantics (opacity only) ===== */
+  --success-a10:rgba(255,255,255,.85);
+  --success-a20:rgba(255,255,255,.95);
+  --success-a30:#fff;
+
+  --warning-a10:rgba(255,255,255,.75);
+  --warning-a20:rgba(255,255,255,.85);
+  --warning-a30:#fff;
+
+  --danger-a10:rgba(255,255,255,.65);
+  --danger-a20:rgba(255,255,255,.8);
+  --danger-a30:#fff;
+
+  --info-a10:rgba(255,255,255,.7);
+  --info-a20:rgba(255,255,255,.85);
+  --info-a30:#fff;
+
+  /* ===== Accents ===== */
+  --primary-a10:rgba(255,255,255,.85);
+  --primary-a20:#fff;
+  --primary-a30:#fff;
+  --primary-a40:#fff;
+  --primary-a50:#fff;
+}
+
+/* ===== Base ===== */
+body{
+  background:var(--tonal-a10);
+  color:var(--primary-text);
+  font-family:Segoe UI,Tahoma,Geneva,Verdana,sans-serif;
+  line-height:1.5;
+  margin:0;
+  min-height:100vh;
+}
+
+/* ===== Glass containers ===== */
+.container,
+.card,
+header,
+select option{
+  background:var(--tonal-a20);
+  backdrop-filter:blur(16px) saturate(120%);
+  -webkit-backdrop-filter:blur(16px) saturate(120%);
+  border:1px solid var(--tonal-a40);
+  box-shadow:
+    0 10px 30px rgba(0,0,0,.6),
+    inset 0 1px 0 rgba(255,255,255,.08);
+}
+
+/* ===== Header ===== */
+header h1{
+  border-bottom:1px solid var(--tonal-a40);
+  padding:20px;
+  text-align:center;
+}
+
+/* ===== Cards ===== */
+.card{
+  border-radius:14px;
+  max-width:350px;
+  min-width:350px;
+  padding:12px;
+}
+
+.card .label{
+  color:var(--info-a20);
+  font-weight:600;
+  letter-spacing:.04em;
+  text-transform:uppercase;
+}
+
+.card .notes{
+  background:var(--tonal-a30);
+  border-radius:10px;
+  padding:10px;
+}
+
+/* ===== Select ===== */
+select{
+  appearance:none;
+  background-color:var(--tonal-a20);
+  backdrop-filter:blur(14px);
+  border:1px solid var(--tonal-a40);
+  border-radius:8px;
+  color:var(--primary-text);
+  padding:10px 35px 10px 15px;
+}
+
+select:hover,
+select:focus{
+  border-color:var(--tonal-a50);
+  box-shadow:0 0 0 3px rgba(255,255,255,.12);
+}
+
+/* ===== Map / States ===== */
+.st0{fill:var(--success-a10)}
+.selected,
+.state-hover{
+  fill:var(--success-a20)!important;
+  stroke:#fff!important;
+  stroke-width:2!important;
+}
+
+.disabled{
+  fill:var(--text-disabled)!important;
+  stroke:var(--tonal-a30)!important;
+}
+
+/* ===== Toggle ===== */
+.theme-toggle{
+  background:var(--tonal-a30);
+  border:1px solid var(--tonal-a50);
+}
+
+.theme-toggle:hover{
+  background:var(--tonal-a40);
+}
+
+.theme-toggle-slider{
+  background:#fff;
+}
+
+.theme-toggle.active .theme-toggle-slider{
+  background:#000;
+}
+
+/* ===== Utility ===== */
+a:not([class]){
+  color:currentColor;
+  text-decoration-skip-ink:auto;
+}

@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-10-22",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "Two agents pulled over a worker in a pickup truck. Agents' cars included a dark sedan and a gold Dodge SUV, both with black windows. Detentions unknown..",
+      "id": "inc-a46433eb3e59ad05b6edf7c4bae6e36cf2072826",
+      "location": {
+        "city": "",
+        "lat": 35.1499454703426,
+        "lng": -80.8980118811973,
+        "state": ""
+      },
+      "reported_at": "2025-10-22T12:08:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-09-20",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "Three men traveling in one car on their way to work construction were pulled over in Durham (Cheek Rd and Midland Terrace) by an ICE agent in a black Jeep with tinted windows (NC license TEV-6050). They asked State Troopers for support who then called Durham Police for K9 unit support. All three were transported to Alamance County Detention Center.",
+      "id": "inc-f8d35fe36652327f20ac3fd53c1067a19db3311e",
+      "location": {
+        "city": "",
+        "lat": 36.0084207420768,
+        "lng": -78.8648069059564,
+        "state": ""
+      },
+      "reported_at": "2025-09-20T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "date": "2025-08-14",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "Family pulled over by two officers in civilian clothes with black \"POLICE\" bulletproof vests. Officers driving truck with dark windows. Detentions unknown.",
+      "id": "inc-9c451d185a38a12431c6230632f4b12660aefe40",
+      "location": {
+        "city": "2306 Holloway St",
+        "lat": 35.9904288,
+        "lng": -78.8607514,
+        "state": "NC"
+      },
+      "reported_at": "2025-08-14T18:20:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.6000000000000001,
+      "description": "An agent in plain clothes with a bullet proof black vest was doing a home visit. Detentions unknown.",
+      "id": "inc-4a015ec7434e4bc669d93f21225ef2e11a931030",
+      "location": {
+        "city": "S Benjamine St & Ashe St",
+        "lat": 35.9815933,
+        "lng": -78.8692552,
+        "state": "NC"
+      },
+      "reported_at": "2025-08-14T19:20:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

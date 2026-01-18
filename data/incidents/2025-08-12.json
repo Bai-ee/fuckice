@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-08-12",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.6000000000000001,
+      "description": "Agent in green army vest sighted at an apartment complex. Detentions unknown.",
+      "id": "inc-6808359e29aa32a147f1d1adcbca134d3391ff8a",
+      "location": {
+        "city": "5712 Leake St",
+        "lat": 35.2089734,
+        "lng": -80.9175615,
+        "state": "NC"
+      },
+      "reported_at": "2025-08-12T17:20:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

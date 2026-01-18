@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-09-17",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "Three agents all dressesd in black stopped a white work van. Agents driving 2 black SUV's and one gray SUV. Detention unknown.",
+      "id": "inc-9b406a16e00d560b04e0bed8b8745d789f6b57c3",
+      "location": {
+        "city": "",
+        "lat": 35.2511061503524,
+        "lng": -80.793259610369,
+        "state": ""
+      },
+      "reported_at": "2025-09-17T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

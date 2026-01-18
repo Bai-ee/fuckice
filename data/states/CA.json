@@ -1,0 +1,306 @@
+{
+  "count": 20,
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "VIDEO: Gray minivan with 3 officers, green vests + masks, picking one person off the sidewalk and putting him in the back of the minivan. No front license plate. Video is taken from pretty far away, no faces visible, no one appears to be closer or interacting with agents. (note: there is a photo of this same incident in FB post related to incident 5,7,8)",
+      "id": "inc-93a5088e74f45cd6b3b898ec3d247991f481c82a",
+      "location": {
+        "city": "4816 S Central Ave",
+        "lat": 33.999342,
+        "lng": -118.25628,
+        "state": "CA"
+      },
+      "reported_at": "2025-11-15T12:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.44999999999999996,
+      "description": "ice agent sitting in vehicle outside apartment buildings",
+      "id": "inc-a719d7208134110cc1d8fa9b68822346318e4b3b",
+      "location": {
+        "city": "601 SOUTH GRAMERCY PLACE KOREATOWN LOS ANGELES",
+        "lat": 34.05939,
+        "lng": -118.30909,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T00:56:08+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.29999999999999993,
+      "description": "dhs vehicle sited",
+      "id": "inc-28f7253854290707d95f5957970c98ff7b300c09",
+      "location": {
+        "city": "S INDIAN HILL BOULEVARD",
+        "lat": 34.04192,
+        "lng": -117.75698,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T01:19:33+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "white van atleast 4 or more male agents headed east on romne",
+      "id": "inc-589d4a2e4cebb1b5b909faad89049c7dbcb843d6",
+      "location": {
+        "city": "ROMNEYAEAST ANAHEIM",
+        "lat": 33.84441,
+        "lng": -117.95175,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T16:53:26+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "ICE  HSI reported at La Habra Home Depot",
+      "id": "inc-75fa35901e0f757498e6c091ebaa3e239ad260ad",
+      "location": {
+        "city": "Home Depot 600 S Harbor Blvd La Habra",
+        "lat": 33.94266,
+        "lng": -117.95126,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T18:33:07+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "ICE has hit Home Depot in San Bernardino Please alert neighb",
+      "id": "inc-d5fd648be5fb7a2ef9f101bc11a32a703447fb47",
+      "location": {
+        "city": "1055 W 21st St San Bernardino",
+        "lat": 34.14578,
+        "lng": -117.30225,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T18:38:21+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "HIGH ALERT ADVISORY for the San Bernardino and surrounding a",
+      "id": "inc-f94e30476bd7f44fb00013b3cdb80c7377d65f56",
+      "location": {
+        "city": "SAN BERNARDINO",
+        "lat": 34.10586,
+        "lng": -117.29188,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T18:45:46+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "ice stopping people at buses and asking for identification",
+      "id": "inc-4521413b561fe9891d82bde9d0a312cc8d516a5e",
+      "location": {
+        "city": "ARDMORE ST LOS ANGELES",
+        "lat": 33.94906,
+        "lng": -118.24679,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T19:06:04+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "ice by southcrest park in white explorer",
+      "id": "inc-d1c6366b11bc14a4dea40aff87cf10501e74530c",
+      "location": {
+        "city": "40TH CREST DR SAN DIEGO",
+        "lat": 32.69591,
+        "lng": -117.12012,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T21:42:38+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "corner of miller ave and bennett ave in fontana ca otg commu",
+      "id": "inc-4b2a614a4672bb88d6992f7e4003bc54a8134f2f",
+      "location": {
+        "city": "miller ave and bennett ave FONTANA",
+        "lat": 34.13686,
+        "lng": -117.46033,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T22:00:44+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "reports of ICE by the stater bros and reportedly taking the",
+      "id": "inc-1e853686f2436f2047258fcfd296e64031738308",
+      "location": {
+        "city": "WATERMAN AND BASELINE SAN BERNARDINO",
+        "lat": 34.10586,
+        "lng": -117.29188,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-16T22:57:04+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "CARSON ALERT CONFIRMED ICE ACTIVITY IN THE AREA",
+      "id": "inc-c6f488a1ba2f82b8a4e12648bdc79764c8a264ba",
+      "location": {
+        "city": "CARSON",
+        "lat": 33.82117,
+        "lng": -118.26458,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T18:30:53+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "they were in the plaza on western and carson st in torrance",
+      "id": "inc-5305f7f9421dcb5373dd0fe92c48fbad715aa07d",
+      "location": {
+        "city": "western and carson st TORRANCE",
+        "lat": 33.8336,
+        "lng": -118.31419,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T19:02:18+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "Ice was at Target in Pacoima on Laurel Canyon Blvd",
+      "id": "inc-ee098cb17b05430c4c378fa6d542b640c67f4727",
+      "location": {
+        "city": "PACOIMA",
+        "lat": 34.25602,
+        "lng": -118.41939,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T19:11:46+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "ice heavily around this area in north long beach on long bea",
+      "id": "inc-01ccfb0d4647dd600055b792ff08c45269a8ddb2",
+      "location": {
+        "city": "EAST MARKER STREET LONG BEACH",
+        "lat": 33.86494,
+        "lng": -118.18051,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T19:38:07+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.8,
+      "description": "ICE just took multiple vendors on Vermont",
+      "id": "inc-11c3d215cb309e375b500f6bd1468ee358e02019",
+      "location": {
+        "city": "14987 South Vermont Avenue Los Angeles",
+        "lat": 33.89159,
+        "lng": -118.29735,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T19:41:18+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.6,
+      "description": "FLOWER VENDOR TAKEN BY ICE  CONFIRMED",
+      "id": "inc-b3c240cab0bb194a012e8b94e09a4a02f396c5f6",
+      "location": {
+        "city": "HAWTHORNE BOULEVARD TORRANCE",
+        "lat": 33.91383,
+        "lng": -118.34996,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T19:46:39+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.65,
+      "description": "ICE masked men were grabbing  and taking Latinos from street",
+      "id": "inc-e34b313cae17a3190110c7369887226a8d064505",
+      "location": {
+        "city": "WESTERN AND SEPULVEDA TORRANCE",
+        "lat": 33.8336,
+        "lng": -118.31419,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T20:08:10+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "Masked kidnappers pulled up behind Food 4 Less in Gardena an",
+      "id": "inc-ae3148ec060b86519c8b2e6950c39317735bfef3",
+      "location": {
+        "city": "1299 W ARTESIA BLVD GARDENA",
+        "lat": 33.87689,
+        "lng": -118.28362,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T21:01:53+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.7000000000000001,
+      "description": "ice in rubidoux reported in different post, word has been ci",
+      "id": "inc-b1a69cdd4f8685b93d1bf359ea9d343f53f8502f",
+      "location": {
+        "city": "RIVERSIDE",
+        "lat": 34.00293,
+        "lng": -117.44547,
+        "state": "CA"
+      },
+      "reported_at": "2026-01-17T23:15:54+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    }
+  ],
+  "state": "CA"
+}

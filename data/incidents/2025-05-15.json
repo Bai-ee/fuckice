@@ -1,0 +1,81 @@
+{
+  "count": 5,
+  "date": "2025-05-15",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "Verified by Comunidad Colectiva. At least one person arrested.",
+      "id": "inc-628d1fa53e3f33318f886c1d1beee2a1e5b81ae3",
+      "location": {
+        "city": "Central Ave & Sheridan Dr",
+        "lat": 35.214632,
+        "lng": -80.773864,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-15T12:50:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "Verified by Comunidad Colectiva. At least one person was arrested by agents or officers dressed in black.",
+      "id": "inc-07ee24910857940a85948e856d455858401dd95e",
+      "location": {
+        "city": "Archdale Dr & South Blvd",
+        "lat": 35.1527993,
+        "lng": -80.8763937,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-15T13:50:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "Verified by Comunidad Colectiva. At least one person arrested by ICE. Video shows two agents of some type and one person who appears to be in handcuffs.",
+      "id": "inc-2c798d6632e7d19e209fe9dc8489d8af8ee60683",
+      "location": {
+        "city": "6927 Albemarle Rd",
+        "lat": 35.2033089,
+        "lng": -80.7248513,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-15T15:20:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Several Customs and Border Patrol agents chased a man across the courthouse lawn and into a nearby pond. They surrounded him and handcuffed him then led him to a nearby vehicle for detention.",
+      "id": "inc-840d14483622e83ed6650a31fc6dc16a920b8401",
+      "location": {
+        "city": "832 E 4th St",
+        "lat": 35.219629,
+        "lng": -80.836884,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-15T16:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.6000000000000001,
+      "description": "Verified by Comunidad Colectiva. Image shows two SUV's parked at Holiday Inn Express in Charlotte. No agents visible, no further information.",
+      "id": "inc-94ff00b8073df5066accc17544422a00d4e53614",
+      "location": {
+        "city": "805 W Arrowood Rd",
+        "lat": 35.1348968,
+        "lng": -80.9027149,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-15T18:50:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

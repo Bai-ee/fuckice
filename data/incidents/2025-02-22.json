@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-02-22",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "One man detained while walking out of his apartment around 8am. Held in detention until being deported August 2025.",
+      "id": "inc-a5de9744d2b160143e0260a9ca57f012ce94651f",
+      "location": {
+        "city": "820 N MacMillan Ave",
+        "lat": 34.2189355,
+        "lng": -77.8792448,
+        "state": "NC"
+      },
+      "reported_at": "2025-02-22T13:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

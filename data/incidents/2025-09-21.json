@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-09-21",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "A person was arrested by ICE as of 9:15 the morning of 9/22 in Winston Salem. He was going to his construction work from his house on Waughtown and was stopped on Clemmonsville Rd near Old Lexington Rd.",
+      "id": "inc-230e185a8d034dede1cf82d0efa60e83cc10eb17",
+      "location": {
+        "city": "",
+        "lat": 36.0618849759997,
+        "lng": -80.2315875021603,
+        "state": ""
+      },
+      "reported_at": "2025-09-21T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

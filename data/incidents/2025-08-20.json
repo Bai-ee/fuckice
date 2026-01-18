@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-08-20",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.6000000000000001,
+      "description": "At least 5 agents in dark clothing at the Poderosa (Wingate) Apartments. The image shows 2 vans and 2 cars (silver and black). Detentions unknown.",
+      "id": "inc-5b16519e0fd482d1eb8f61194d80e113cc475d1a",
+      "location": {
+        "city": "3016 Kenhill Dr",
+        "lat": 35.2103485,
+        "lng": -80.9101612,
+        "state": "NC"
+      },
+      "reported_at": "2025-08-20T11:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

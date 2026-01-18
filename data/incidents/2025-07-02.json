@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-07-02",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "At least three SUVs blocked in a white van. Agents were dressed in green/camo with face coverings. Detentions unknown.",
+      "id": "inc-9d5dec3b7e9d63ab0d47277270aff7a6b5c3a0f8",
+      "location": {
+        "city": "The Plaza and Briarwood Dr",
+        "lat": 35.2492478,
+        "lng": -80.7656287,
+        "state": "NC"
+      },
+      "reported_at": "2025-07-02T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-10-24",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.45000000000000007,
+      "description": "",
+      "id": "inc-f7a127a4a5081afde4c3fcbf4662217a11e87b46",
+      "location": {
+        "city": "",
+        "lat": 0.0,
+        "lng": 0.0,
+        "state": ""
+      },
+      "reported_at": "2025-10-24T20:38:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

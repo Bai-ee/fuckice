@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-08-07",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "A person had moved past TSA screening at PTI airport and was arriving at their gate, heading to Atlanta. They were called by name by a worker at the airport and taken into ICE custody.",
+      "id": "inc-c4579b8b6e713087fbf3965428707b197ec7da89",
+      "location": {
+        "city": "Inman Rd",
+        "lat": 36.1037217466601,
+        "lng": -79.9478585661616,
+        "state": "NC"
+      },
+      "reported_at": "2025-08-07T15:50:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

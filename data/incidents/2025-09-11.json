@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-09-11",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "A person received a letter to show up for a second interview for the adjustment of status process with wife, but then was detained after a previous deporation order from 2010 emerged.",
+      "id": "inc-5ab0cdd700b58879c5b6a131515fe41b9bf43374",
+      "location": {
+        "city": "301 Roycroft Dr Durham",
+        "lat": 35.8863778,
+        "lng": -78.8456364,
+        "state": "NC"
+      },
+      "reported_at": "2025-09-11T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-12-24",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "4 agents, plain-clothed wearing tactical vests in the parking of WoW Supermarket looking at a parked vehicle.",
+      "id": "inc-1fcf9a740b35fba0b2cf30547bdc52e677018ac1",
+      "location": {
+        "city": "6407 South Blvd Charlotte",
+        "lat": 35.1474137,
+        "lng": -80.8756992,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-24T12:50:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

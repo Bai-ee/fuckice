@@ -1,0 +1,51 @@
+{
+  "count": 3,
+  "date": "2025-11-28",
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Hyundai Kona and Ford Explorer. Tan vests inside vehicles. Sitting at corner of intersection staking out area. No known detainments.",
+      "id": "inc-e593450b4b20acbb76fe5b4b100688545bfcb825",
+      "location": {
+        "city": "4419 N Sharon Amity Rd",
+        "lat": 35.2204512,
+        "lng": -80.7524453,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-28T14:35:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.6000000000000001,
+      "description": "Comunidad Colectiva confirmed ICE presence at this intersection",
+      "id": "inc-7b45c8731d1272519497fe23cced5054abaa8013",
+      "location": {
+        "city": "N. Sharon Amity Rd & Abbeydale Dr",
+        "lat": 35.2204393,
+        "lng": -80.7520245,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-28T15:01:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Presence of ICE in the neighborhood, verified by Comunidad Colectiva",
+      "id": "inc-803e024faec4458ff88d3748e75de714ee8313ba",
+      "location": {
+        "city": "",
+        "lat": 35.2253935,
+        "lng": -80.7156618,
+        "state": ""
+      },
+      "reported_at": "2025-11-28T16:43:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

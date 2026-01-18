@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-03-19",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Individual was unaware that their court date was changed and went to the initial date. When they got to the court, ICE was there and took them into custody..",
+      "id": "inc-94fc54f019b01c619bba12e8b86153607483cae0",
+      "location": {
+        "city": "40 E. Chatham Street",
+        "lat": 35.7185009,
+        "lng": -79.1772837,
+        "state": "NC"
+      },
+      "reported_at": "2025-03-19T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

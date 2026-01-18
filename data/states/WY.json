@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "Multiple carsagents on Hwy 99 at just before 1000am One vehi",
+      "id": "inc-39c1352cde13a88b9b6a97a6e481a5fb154f7058",
+      "location": {
+        "city": "9011 EVERGREEN",
+        "lat": 47.90105,
+        "lng": -122.2586,
+        "state": "WY"
+      },
+      "reported_at": "2026-01-17T19:37:14+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    }
+  ],
+  "state": "WY"
+}

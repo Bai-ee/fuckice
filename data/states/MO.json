@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "ice agents around cable dahmer arena",
+      "id": "inc-01539fd24c8beca840411a85a38f565bcf854ce0",
+      "location": {
+        "city": "E VALLEY VIEW PARKWAY INDEPENDENCE",
+        "lat": 39.05061,
+        "lng": -94.39848,
+        "state": "MO"
+      },
+      "reported_at": "2026-01-16T17:26:17+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.75,
+      "description": "Road is blocked off Several ICE vehicles sighted",
+      "id": "inc-ed4fb43496aa831ddc4300c58779f0612ee7aac8",
+      "location": {
+        "city": "HARVESTER ROAD",
+        "lat": 38.86159,
+        "lng": -90.47207,
+        "state": "MO"
+      },
+      "reported_at": "2026-01-17T19:16:52+00:00",
+      "source": "stop_ice",
+      "verification": "community"
+    }
+  ],
+  "state": "MO"
+}

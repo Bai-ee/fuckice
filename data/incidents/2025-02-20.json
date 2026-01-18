@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-02-20",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Individual was detained duing their annual immigration appointment, due to an existing order of deportation.",
+      "id": "inc-dcf3973be508518bcd9cd2890aa401eb0c302f6c",
+      "location": {
+        "city": "401 E. Independence Blvd Charlotte",
+        "lat": 35.218826,
+        "lng": -80.8216802,
+        "state": "NC"
+      },
+      "reported_at": "2025-02-20T05:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

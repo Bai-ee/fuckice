@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-07-22",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.6000000000000001,
+      "description": "Two agents were outside of an apartment complex, both with face coverings. Detentions unknown.",
+      "id": "inc-f09c5e266f8ecb36307fa560faa52eeaf1273aa4",
+      "location": {
+        "city": "Orchard Trace Ln",
+        "lat": 35.2820381,
+        "lng": -80.7682523,
+        "state": "NC"
+      },
+      "reported_at": "2025-07-22T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-05-12",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.6000000000000001,
+      "description": "Verified by Comunidad Colectiva. Image shows at least two people in a car being questioned by ICE. Detention unknown.",
+      "id": "inc-2c454ee66a75056020bbbe8b2fb9ac133f7ad2dd",
+      "location": {
+        "city": "Albemarle Rd & Executive Center Dr",
+        "lat": 35.2031602,
+        "lng": -80.7441579,
+        "state": "NC"
+      },
+      "reported_at": "2025-05-12T12:20:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

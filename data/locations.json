@@ -1,0 +1,2819 @@
+{
+  "AK": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 1,
+        "state": "Alaska",
+        "state_code": "AK",
+        "name": "",
+        "service_area": "Anchorage",
+        "phone": "1-907-206-3575",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 17:53:43",
+        "updated_at": "2025-10-29 17:53:43",
+        "links": []
+      }
+    ]
+  },
+  "HI": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 37,
+        "state": "Hawaii",
+        "state_code": "HI",
+        "name": "Roots Reborn",
+        "service_area": "Maui",
+        "phone": "1-808-500-5533",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:11:47",
+        "updated_at": "2025-10-29 19:11:47",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/rootsrebornmaui/"
+          }
+        ]
+      }
+    ]
+  },
+  "AL": {
+    "success": true,
+    "count": 2,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 3,
+        "state": "Alabama",
+        "state_code": "AL",
+        "name": "ACIJ",
+        "service_area": "Alabama",
+        "phone": "1-205-945-0777",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 17:55:32",
+        "updated_at": "2025-10-29 17:55:32",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/alimmigrant/"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "state": "Alabama",
+        "state_code": "AL",
+        "name": "BHAM Migrant Watch",
+        "service_area": "Birmingham",
+        "phone": "1-888-664-2325",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 17:54:47",
+        "updated_at": "2025-10-29 17:54:47",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/bhammigrawatch/"
+          }
+        ]
+      }
+    ]
+  },
+  "AR": {
+    "success": true,
+    "count": 3,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 114,
+        "state": "Arkansas",
+        "state_code": "AR",
+        "name": "Arkansas United",
+        "service_area": "Fayetteville",
+        "phone": "1-479-763-2822",
+        "notes": "communications@arkansasunited.org",
+        "approved": true,
+        "created_at": "2026-01-15 23:40:49",
+        "updated_at": "2026-01-16 00:53:56",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://arkansasunited.org/en/immigration-resources"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/arimmigrants/"
+          },
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/ARimmigrants/"
+          }
+        ]
+      },
+      {
+        "id": 98,
+        "state": "Arkansas",
+        "state_code": "AR",
+        "name": "La Voz del Pueblo",
+        "service_area": "Central Arkansas",
+        "phone": "1-501-800-7338",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-10 18:10:40",
+        "updated_at": "2026-01-16 00:54:13",
+        "links": [
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/lavozdelpuebloar"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "state": "Arkansas",
+        "state_code": "AR",
+        "name": "Migra Watch",
+        "service_area": "Little Rock - Central Arkansas",
+        "phone": "1-501-516-0869",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 17:56:33",
+        "updated_at": "2026-01-16 00:54:28",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/migrawatch/"
+          }
+        ]
+      }
+    ]
+  },
+  "AZ": {
+    "success": true,
+    "count": 2,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 6,
+        "state": "Arizona",
+        "state_code": "AZ",
+        "name": "",
+        "service_area": "Tucson",
+        "phone": "1-​520-221-4077",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:31:37",
+        "updated_at": "2025-10-29 18:31:37",
+        "links": []
+      },
+      {
+        "id": 5,
+        "state": "Arizona",
+        "state_code": "AZ",
+        "name": "Puente Human Rights Movement",
+        "service_area": "Phoenix Valley",
+        "phone": "1-480-506-7437",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:31:16",
+        "updated_at": "2025-10-29 18:31:16",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/puente.az"
+          }
+        ]
+      }
+    ]
+  },
+  "CA": {
+    "success": true,
+    "count": 23,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 91,
+        "state": "California",
+        "state_code": "CA",
+        "name": "K-Town Rapid Response",
+        "service_area": "Los Angeles / Koreatown",
+        "phone": "1-213-444-6562",
+        "notes": "Call or DM",
+        "approved": true,
+        "created_at": "2025-11-03 17:05:26",
+        "updated_at": "2026-01-16 00:54:41",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://instagram.com/ktownrrn"
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "state": "California",
+        "state_code": "CA",
+        "name": "Santa Cruz Rapid Response",
+        "service_area": "Santa Cruz County",
+        "phone": "1-831-239-4289",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:58:27",
+        "updated_at": "2025-10-29 18:58:27",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://santacruzrapidresponse.org/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/yarr.scc/"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "state": "California",
+        "state_code": "CA",
+        "name": "Amigos Center",
+        "service_area": "Santa Clara County",
+        "phone": "1-408-290-1144",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:57:54",
+        "updated_at": "2025-10-29 18:57:54",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.amigoscenter.com/rapid-respon"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/amigosdeguadalupe"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "state": "California",
+        "state_code": "CA",
+        "name": "County of San Mateo",
+        "service_area": "San Mateo",
+        "phone": "1-203-666-4472",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:57:19",
+        "updated_at": "2025-10-29 18:57:19",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.smcgov.org/ceo/rapid-response-hotline"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "state": "California",
+        "state_code": "CA",
+        "name": "805 Undocu Fund",
+        "service_area": "San Luis Obispo / Santa Barbara / Ventura counties",
+        "phone": "1-805-870-8855",
+        "notes": "Can also text ALERT to 1-805-870-8855 for real-time updates",
+        "approved": true,
+        "created_at": "2025-10-29 18:56:50",
+        "updated_at": "2025-10-29 18:56:50",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.805undocufund.org/alerts.html"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/the805undocufund/"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "state": "California",
+        "state_code": "CA",
+        "name": "SF Rapid Response",
+        "service_area": "San Francisco",
+        "phone": "1-415-200-1548",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:55:55",
+        "updated_at": "2025-10-29 18:55:55",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://sfilen.org/resources/sf-rapid-response-network/"
+          },
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/sfimmigrantnetwork/"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "state": "California",
+        "state_code": "CA",
+        "name": "Rapid Response San Diego",
+        "service_area": "San Diego",
+        "phone": "1-619-536-0823",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:55:07",
+        "updated_at": "2025-10-29 18:55:07",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://rapidresponsesd.org/"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "state": "California",
+        "state_code": "CA",
+        "name": "Sacramento FUEL",
+        "service_area": "Sacramento",
+        "phone": "1-916-382-0256",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:54:39",
+        "updated_at": "2025-10-29 18:54:39",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/sacfuel/"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "state": "California",
+        "state_code": "CA",
+        "name": "Sacramento Immigration Coalition",
+        "service_area": "Sacramento",
+        "phone": "1-916-245-6773",
+        "notes": "*number may be defunct*",
+        "approved": true,
+        "created_at": "2025-10-29 18:54:03",
+        "updated_at": "2025-10-29 18:54:03",
+        "links": [
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/SacImmigrantCoalition2015"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "state": "California",
+        "state_code": "CA",
+        "name": "Viet Rise",
+        "service_area": "Orange County",
+        "phone": "1-714-589-5496",
+        "notes": "Vietnamese hotline\ngeneral@vietrise.org",
+        "approved": true,
+        "created_at": "2025-10-29 18:53:14",
+        "updated_at": "2025-10-29 18:53:14",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://vietrise.org/"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "state": "California",
+        "state_code": "CA",
+        "name": "OC Rapid Response Network",
+        "service_area": "Orange County",
+        "phone": "1-714-881-1558",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:52:16",
+        "updated_at": "2025-10-29 18:52:16",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/ocrrn"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "state": "California",
+        "state_code": "CA",
+        "name": "Monterey County Solidarity Network",
+        "service_area": "Monterey County",
+        "phone": "1-831-204-8082",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:51:34",
+        "updated_at": "2025-10-29 18:51:34",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/mcsolidarity"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "state": "California",
+        "state_code": "CA",
+        "name": "",
+        "service_area": "Monterey County",
+        "phone": "1-831-643-5225",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:50:39",
+        "updated_at": "2025-10-29 18:50:39",
+        "links": []
+      },
+      {
+        "id": 17,
+        "state": "California",
+        "state_code": "CA",
+        "name": "North Bay Organizing Project",
+        "service_area": "Sonoma, Solano and Napa countries",
+        "phone": "1-707-800-4544",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:43:48",
+        "updated_at": "2026-01-15 05:18:54",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/northbayorganizingproject/"
+          },
+          {
+            "type": "website",
+            "url": "https://www.northbayop.org/nbrrn"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "state": "California",
+        "state_code": "CA",
+        "name": "Multicultural Center of Marin",
+        "service_area": "Marin County",
+        "phone": "1-415-991-4545",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:43:10",
+        "updated_at": "2025-10-29 18:43:10",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/MulticulturalMarin/"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "state": "California",
+        "state_code": "CA",
+        "name": "Orale",
+        "service_area": "Long Beach",
+        "phone": "1-562-245-9575",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:42:17",
+        "updated_at": "2025-10-29 18:42:17",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.orale.org/immigrant-justice"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/oralelb/"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "state": "California",
+        "state_code": "CA",
+        "name": "CHIRLA",
+        "service_area": "LA County",
+        "phone": "1-888-624-4752",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:41:42",
+        "updated_at": "2025-10-29 18:41:42",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/chirla_org/"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "state": "California",
+        "state_code": "CA",
+        "name": "Rapid Response Kern",
+        "service_area": "Kern County",
+        "phone": "1-661-432-2230",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:37:03",
+        "updated_at": "2025-10-29 18:37:03",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/rrn_kern/"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "state": "California",
+        "state_code": "CA",
+        "name": "IC4IJ",
+        "service_area": "Inland Empire (Pomona, San Bernardio, Riverside)",
+        "phone": "1-909-361-4588",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:36:29",
+        "updated_at": "2025-10-29 18:36:29",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://ic4ij.org/hotline"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "state": "California",
+        "state_code": "CA",
+        "name": "True North Organizing Network",
+        "service_area": "Humboldt County",
+        "phone": "1-707-282-5226",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:35:27",
+        "updated_at": "2025-10-29 18:35:27",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/truenorthon/"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "state": "California",
+        "state_code": "CA",
+        "name": "Stand Together Contra Costa",
+        "service_area": "Contra Costa County",
+        "phone": "1-925-900-5151",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:33:32",
+        "updated_at": "2025-10-29 18:33:32",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/standtogethercontracosta"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "state": "California",
+        "state_code": "CA",
+        "name": "Faith in the Valley",
+        "service_area": "Central Valley, Fresno",
+        "phone": "1-559-206-0151",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:32:44",
+        "updated_at": "2025-10-29 18:49:49",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/faithinvalley"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "state": "California",
+        "state_code": "CA",
+        "name": "ACILEP",
+        "service_area": "Alameda County",
+        "phone": "1-510-241-4011",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 18:32:14",
+        "updated_at": "2025-10-29 18:32:14",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/acilep_rapidresponse/"
+          }
+        ]
+      }
+    ]
+  },
+  "CO": {
+    "success": true,
+    "count": 2,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 121,
+        "state": "Colorado",
+        "state_code": "CO",
+        "name": "Colorado Rapid Response Network (CORRN)",
+        "service_area": "Colorado",
+        "phone": "1-844-864-8341",
+        "notes": "24 hour ICE Activity Hotline\n\ninfo@coloradoresponsenetwork.com\n\nThis number is also associated with Wyoming Rapid Response Network",
+        "approved": true,
+        "created_at": "2026-01-16 00:34:17",
+        "updated_at": "2026-01-16 00:55:20",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.coloradorapidresponsenetwork.com/"
+          },
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/CORapidResponseNetwork/"
+          }
+        ]
+      },
+      {
+        "id": 94,
+        "state": "Colorado",
+        "state_code": "CO",
+        "name": "",
+        "service_area": "Aurora",
+        "phone": "1-855-435-7693",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-11-03 17:06:29",
+        "updated_at": "2025-11-03 17:06:29",
+        "links": []
+      }
+    ]
+  },
+  "CT": {
+    "success": true,
+    "count": 3,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 132,
+        "state": "Connecticut",
+        "state_code": "CT",
+        "name": "ULA - Unidad Latina en Acción",
+        "service_area": "New Haven",
+        "phone": "475-323-9413",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-16 18:28:17",
+        "updated_at": "2026-01-16 18:28:17",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://ulanewhaven.org/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/ulanewhavenct/"
+          }
+        ]
+      },
+      {
+        "id": 131,
+        "state": "Connecticut",
+        "state_code": "CT",
+        "name": "DUFI - Danbury Unites for Immigrants",
+        "service_area": "Danbury",
+        "phone": "475-237-7351",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-16 18:27:42",
+        "updated_at": "2026-01-16 18:27:42",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://danburyunitesforimmigrants.org/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/danburyunites4immigrants/"
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "state": "Connecticut",
+        "state_code": "CT",
+        "name": "New Haven Immigrants Coalition",
+        "service_area": "New Haven",
+        "phone": "1-854-666-4472",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:01:03",
+        "updated_at": "2025-10-29 19:01:03",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/nhvimmigrants/"
+          }
+        ]
+      }
+    ]
+  },
+  "DE": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 33,
+        "state": "Delaware",
+        "state_code": "DE",
+        "name": "DC4IJ",
+        "service_area": "Delaware",
+        "phone": "1-267-382-5423",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:04:00",
+        "updated_at": "2025-10-29 19:04:00",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/dc4ij/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/nobordersde/"
+          }
+        ]
+      }
+    ]
+  },
+  "FL": {
+    "success": true,
+    "count": 2,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 35,
+        "state": "Florida",
+        "state_code": "FL",
+        "name": "I.C.E. Watch Miami",
+        "service_area": "Miami",
+        "phone": "N/A",
+        "notes": "DM to submit reports",
+        "approved": true,
+        "created_at": "2025-10-29 19:09:30",
+        "updated_at": "2025-10-29 19:09:30",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/icewatchmia/"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "state": "Florida",
+        "state_code": "FL",
+        "name": "",
+        "service_area": "Florida",
+        "phone": "1-888-600-5762",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:04:23",
+        "updated_at": "2025-10-29 19:04:23",
+        "links": []
+      }
+    ]
+  },
+  "GA": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 36,
+        "state": "Georgia",
+        "state_code": "GA",
+        "name": "GLAHR",
+        "service_area": "Georgia",
+        "phone": "1-770-457-5232",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:10:52",
+        "updated_at": "2025-10-29 19:10:52",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://glahr.org/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/glahr.ga/"
+          }
+        ]
+      }
+    ]
+  },
+  "IA": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 120,
+        "state": "Iowa",
+        "state_code": "IA",
+        "name": "Iowa Migrant Movement for Justice",
+        "service_area": "Iowa",
+        "phone": "1-515-505-8805",
+        "notes": "ICE Reporting Hotline, may not send out people in real time.\n\nebalcarcel@iowammj.org",
+        "approved": true,
+        "created_at": "2026-01-16 00:20:10",
+        "updated_at": "2026-01-16 00:57:02",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.iowammj.org/"
+          },
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/IowaMigrantMovementForJustice"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/iowammj/"
+          }
+        ]
+      }
+    ]
+  },
+  "ID": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 135,
+        "state": "Idaho",
+        "state_code": "ID",
+        "name": "ICE Rapid Response - Canyon and Ada County",
+        "service_area": "Canyon County and Ada County",
+        "phone": "208-537-3511",
+        "notes": "Send your reports through text",
+        "approved": true,
+        "created_at": "2026-01-16 18:30:51",
+        "updated_at": "2026-01-16 18:30:51",
+        "links": []
+      }
+    ]
+  },
+  "IL": {
+    "success": true,
+    "count": 2,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 123,
+        "state": "Illinois",
+        "state_code": "IL",
+        "name": "Aurora Rapid Response Team",
+        "service_area": "Aurora, Montgomery, Naperville North, North Aurora, Oswego, and Sugar Grove",
+        "phone": "1-855-435-7693",
+        "notes": "aurorailrrt@proton.me",
+        "approved": true,
+        "created_at": "2026-01-16 00:53:12",
+        "updated_at": "2026-01-16 00:56:10",
+        "links": [
+          {
+            "type": "linktree",
+            "url": "https://linktr.ee/aurorailrrt"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/aurorailrrt"
+          },
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/AuroraILRRT/"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "state": "Illinois",
+        "state_code": "IL",
+        "name": "ICIRR",
+        "service_area": "Illinois",
+        "phone": "1-855-435-7693",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:12:45",
+        "updated_at": "2025-10-29 19:12:45",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/ocadchicago/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/icirr_il/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/aurorailrrt/?hl=en"
+          }
+        ]
+      }
+    ]
+  },
+  "IN": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 81,
+        "state": "Indiana",
+        "state_code": "IN",
+        "name": "Indy Rapid Response",
+        "service_area": "Indianapolis area",
+        "phone": "1-855-589-4639",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:41:34",
+        "updated_at": "2026-01-16 00:56:42",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://instagram.com/indyrapidresponse"
+          }
+        ]
+      }
+    ]
+  },
+  "KS": {
+    "success": true,
+    "count": 8,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 128,
+        "state": "Kansas",
+        "state_code": "KS",
+        "name": "Migrant Crisis Response Team",
+        "service_area": "Emporia",
+        "phone": "N/A",
+        "notes": "email mcrtemporiaks@gmail.com to report",
+        "approved": true,
+        "created_at": "2026-01-16 01:12:19",
+        "updated_at": "2026-01-16 01:12:19",
+        "links": [
+          {
+            "type": "website",
+            "url": "mailto:mcrtemporiaks@gmail.com"
+          }
+        ]
+      },
+      {
+        "id": 127,
+        "state": "Kansas",
+        "state_code": "KS",
+        "name": "Hutch in Harmony",
+        "service_area": "Reno County",
+        "phone": "620-263-2412",
+        "notes": "Text number to report",
+        "approved": true,
+        "created_at": "2026-01-16 01:11:38",
+        "updated_at": "2026-01-16 01:11:38",
+        "links": []
+      },
+      {
+        "id": 126,
+        "state": "Kansas",
+        "state_code": "KS",
+        "name": "New Frontiers",
+        "service_area": "Southwest Kansas",
+        "phone": "901-231-9819",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-16 01:10:53",
+        "updated_at": "2026-01-16 01:10:53",
+        "links": []
+      },
+      {
+        "id": 124,
+        "state": "Kansas",
+        "state_code": "KS",
+        "name": "Defend Democracy ICT",
+        "service_area": "Wichita",
+        "phone": "913-999-2398",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-16 01:10:22",
+        "updated_at": "2026-01-16 01:10:22",
+        "links": []
+      },
+      {
+        "id": 43,
+        "state": "Kansas",
+        "state_code": "KS",
+        "name": "ICT Alerta",
+        "service_area": "Wichita",
+        "phone": "833-322-9050",
+        "notes": "Training available for the broader metropolitan area\ncontact@ICTalerta.org\nreport@ICTalerta.org",
+        "approved": true,
+        "created_at": "2025-10-29 19:17:39",
+        "updated_at": "2026-01-16 01:08:20",
+        "links": [
+          {
+            "type": "linktree",
+            "url": "https://linktr.ee/ictalerta"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/ictalerta/"
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "state": "Kansas",
+        "state_code": "KS",
+        "name": "KC ICE Watch Rapid Response",
+        "service_area": "Kansas City MO/KS",
+        "phone": "1-913-999-2398",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:16:08",
+        "updated_at": "2026-01-16 01:08:50",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://airrkc.org/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/airr_kc/"
+          },
+          {
+            "type": "linktree",
+            "url": "https://linktr.ee/airrkc"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "state": "Kansas",
+        "state_code": "KS",
+        "name": "Sanctuary Alliance",
+        "service_area": "Lawrence",
+        "phone": "N/A",
+        "notes": "sanctuaryalliancelawrence@gmail.com",
+        "approved": true,
+        "created_at": "2025-10-29 19:14:40",
+        "updated_at": "2025-10-29 19:14:40",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/sanctuaryalliancelfk/"
+          },
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/SanctuaryAllianceLawrenceKS"
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "state": "Kansas",
+        "state_code": "KS",
+        "name": "Loud Light's New Frontiers",
+        "service_area": "Southwest",
+        "phone": "N/A",
+        "notes": "info@LoudLight.org",
+        "approved": true,
+        "created_at": "2025-10-29 19:13:51",
+        "updated_at": "2025-10-29 19:13:51",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.loudlight.org/newfrontiers"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/ournewfrontiers/"
+          },
+          {
+            "type": "linktree",
+            "url": "https://linktr.ee/ournewfrontiers"
+          }
+        ]
+      }
+    ]
+  },
+  "KY": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 118,
+        "state": "Kentucky",
+        "state_code": "KY",
+        "name": "Ignite Peace, Immigrant Dignity Coalition",
+        "service_area": "Northern Kentucky",
+        "phone": "Contact Them",
+        "notes": "Also provides coverage in Southwest Ohio",
+        "approved": true,
+        "created_at": "2026-01-16 00:04:42",
+        "updated_at": "2026-01-16 00:04:42",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://ignitepeace.org/immigrant-dignity-coalition/"
+          }
+        ]
+      }
+    ]
+  },
+  "LA": {
+    "success": true,
+    "count": 3,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 109,
+        "state": "Louisiana",
+        "state_code": "LA",
+        "name": "Southeast Dignity Not Detention",
+        "service_area": "NOLA",
+        "phone": "1-504-221-1499",
+        "notes": "Created in association with Free The Swamp",
+        "approved": true,
+        "created_at": "2026-01-15 04:11:47",
+        "updated_at": "2026-01-16 00:58:33",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.freetheswamp.org/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/SEDIGNITYNOTDETENTIONCOALITION"
+          }
+        ]
+      },
+      {
+        "id": 108,
+        "state": "Louisiana",
+        "state_code": "LA",
+        "name": "Union Migrante",
+        "service_area": "Serves the greater NOLA area",
+        "phone": "N/A",
+        "notes": "They also provide ICE Watch training which is required before joining their Rapid Response team.",
+        "approved": true,
+        "created_at": "2026-01-15 04:10:12",
+        "updated_at": "2026-01-15 04:10:12",
+        "links": [
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/UnionMigrante"
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "state": "Louisiana",
+        "state_code": "LA",
+        "name": "Baton Rouge Unido",
+        "service_area": "Baton Rouge",
+        "phone": "1-225-223-5615",
+        "notes": "BatonRougeUnido@gmail.com",
+        "approved": true,
+        "created_at": "2025-11-04 17:20:38",
+        "updated_at": "2025-11-04 17:20:38",
+        "links": [
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/people/Baton-Rouge-Unido/61581212447544/"
+          }
+        ]
+      }
+    ]
+  },
+  "MA": {
+    "success": true,
+    "count": 2,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 45,
+        "state": "Massachusetts",
+        "state_code": "MA",
+        "name": "LUCE",
+        "service_area": "Massachusetts",
+        "phone": "1-617-370-5023",
+        "notes": "5am-9pm every day",
+        "approved": true,
+        "created_at": "2025-10-29 19:19:08",
+        "updated_at": "2025-10-29 19:19:08",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.lucemass.org/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/luce_hotline/"
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "state": "Massachusetts",
+        "state_code": "MA",
+        "name": "MCAN",
+        "service_area": "Dorchester / Boston",
+        "phone": "1-857-293-9876",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:18:24",
+        "updated_at": "2025-10-29 19:19:28",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.mcan.us/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/mcan_fia/"
+          }
+        ]
+      }
+    ]
+  },
+  "MD": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 65,
+        "state": "Maryland",
+        "state_code": "MD",
+        "name": "We Are CASA",
+        "service_area": "Maryland",
+        "phone": "1-301-431-4185",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:31:56",
+        "updated_at": "2025-10-29 19:31:56",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://wearecasa.org/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/casa4all/"
+          }
+        ]
+      }
+    ]
+  },
+  "ME": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 82,
+        "state": "Maine",
+        "state_code": "ME",
+        "name": "Maine Immigrant Rights Coalition",
+        "service_area": "Maine",
+        "phone": "1-207-544-9989",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:42:05",
+        "updated_at": "2025-10-29 19:42:05",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/maineimmigrantrights/"
+          },
+          {
+            "type": "website",
+            "url": "https://maineimmigrantrights.org/mirc-resource-hub/"
+          }
+        ]
+      }
+    ]
+  },
+  "MI": {
+    "success": true,
+    "count": 3,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 99,
+        "state": "Michigan",
+        "state_code": "MI",
+        "name": "Asamblea Detroit",
+        "service_area": "Detroit",
+        "phone": "1-313-635-3633",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-12 02:59:06",
+        "updated_at": "2026-01-16 00:58:57",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/asamblea_popular_detroit/"
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "state": "Michigan",
+        "state_code": "MI",
+        "name": "",
+        "service_area": "Detroit",
+        "phone": "1-313-744-2109",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:21:50",
+        "updated_at": "2025-10-29 19:21:50",
+        "links": []
+      },
+      {
+        "id": 46,
+        "state": "Michigan",
+        "state_code": "MI",
+        "name": "GR Rapid Response to ICE",
+        "service_area": "Michigan",
+        "phone": "1-616-238-0081",
+        "notes": "6am - 6pm M-F dial 211\r\nEvenings and weekends dial 616-238-0081\r\ninfo@grrapidresponsetoice.org",
+        "approved": true,
+        "created_at": "2025-10-29 19:21:29",
+        "updated_at": "2025-10-29 19:23:49",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/grrapidresponse/"
+          }
+        ]
+      }
+    ]
+  },
+  "MN": {
+    "success": true,
+    "count": 2,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 49,
+        "state": "Minnesota",
+        "state_code": "MN",
+        "name": "COPAL MN",
+        "service_area": "Minnesota",
+        "phone": "1-612-249-8736",
+        "notes": "info@copalmn.org",
+        "approved": true,
+        "created_at": "2025-10-29 19:23:10",
+        "updated_at": "2025-10-29 19:23:10",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://copalmn.org/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/mncopal/"
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "state": "Minnesota",
+        "state_code": "MN",
+        "name": "Unidos MN",
+        "service_area": "Minnesota",
+        "phone": "1-612-441-2881",
+        "notes": "info@unidos-mn.org",
+        "approved": true,
+        "created_at": "2025-10-29 19:22:30",
+        "updated_at": "2025-10-29 19:22:30",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://unidos-mn.org/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/unidosmn/"
+          }
+        ]
+      }
+    ]
+  },
+  "MO": {
+    "success": true,
+    "count": 3,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 100,
+        "state": "Missouri",
+        "state_code": "MO",
+        "name": "Southern Missouri Immigration Alliance",
+        "service_area": "Southern Missouri",
+        "phone": "1-417-635-8423",
+        "notes": "Español 1 (417) 526-4472",
+        "approved": true,
+        "created_at": "2026-01-13 02:42:23",
+        "updated_at": "2026-01-16 00:59:19",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/smialliance/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/417.melt.ice/"
+          },
+          {
+            "type": "website",
+            "url": "https://417ice.com/"
+          }
+        ]
+      },
+      {
+        "id": 92,
+        "state": "Missouri",
+        "state_code": "MO",
+        "name": "",
+        "service_area": "St Louis",
+        "phone": "1-314-370-7080",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-11-03 17:05:53",
+        "updated_at": "2025-11-03 17:05:53",
+        "links": []
+      },
+      {
+        "id": 42,
+        "state": "Missouri",
+        "state_code": "MO",
+        "name": "KC ICE Watch Rapid Response",
+        "service_area": "Kansas City",
+        "phone": "1-913-999-2398",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:16:53",
+        "updated_at": "2025-11-20 16:24:24",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://airrkc.org/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/airr_kc/"
+          },
+          {
+            "type": "linktree",
+            "url": "https://linktr.ee/airrkc"
+          }
+        ]
+      }
+    ]
+  },
+  "MS": {
+    "success": true,
+    "count": 0,
+    "grouped_by_state": false,
+    "locations": []
+  },
+  "MT": {
+    "success": true,
+    "count": 0,
+    "grouped_by_state": false,
+    "locations": []
+  },
+  "NC": {
+    "success": true,
+    "count": 3,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 63,
+        "state": "North Carolina",
+        "state_code": "NC",
+        "name": "",
+        "service_area": "Raleigh",
+        "phone": "1-800-559-8714",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:30:57",
+        "updated_at": "2025-10-29 19:30:57",
+        "links": []
+      },
+      {
+        "id": 62,
+        "state": "North Carolina",
+        "state_code": "NC",
+        "name": "Siembra NC",
+        "service_area": "North Carolina",
+        "phone": "1-336-543-0353",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:30:39",
+        "updated_at": "2025-10-29 19:30:39",
+        "links": [
+          {
+            "type": "website",
+            "url": "http://siembranc.org/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/siembranc/"
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "state": "North Carolina",
+        "state_code": "NC",
+        "name": "SEIRN",
+        "service_area": "North Carolina",
+        "phone": "1-984-377-2622",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:29:57",
+        "updated_at": "2025-10-29 19:29:57",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.seirn.org/know-your-rights"
+          }
+        ]
+      }
+    ]
+  },
+  "ND": {
+    "success": true,
+    "count": 0,
+    "grouped_by_state": false,
+    "locations": []
+  },
+  "NE": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 110,
+        "state": "Nebraska",
+        "state_code": "NE",
+        "name": "SALT Lincoln",
+        "service_area": "Lincoln Nebraska",
+        "phone": "1-402-310-6553",
+        "notes": "Reach out at lnkresist@proton.me ",
+        "approved": true,
+        "created_at": "2026-01-15 05:22:21",
+        "updated_at": "2026-01-16 00:59:38",
+        "links": []
+      }
+    ]
+  },
+  "NH": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 115,
+        "state": "New Hampshire",
+        "state_code": "NH",
+        "name": "Monadnock Immigrant Solidarity Collaborative",
+        "service_area": "Southwest corner of New Hampshire",
+        "phone": "1-978-219-7586",
+        "notes": "info@monadnockimmigration.org",
+        "approved": true,
+        "created_at": "2026-01-15 23:53:50",
+        "updated_at": "2026-01-16 00:59:53",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.monadnockimmigration.org/"
+          }
+        ]
+      }
+    ]
+  },
+  "NJ": {
+    "success": true,
+    "count": 3,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 60,
+        "state": "New Jersey",
+        "state_code": "NJ",
+        "name": "",
+        "service_area": "New Jersey",
+        "phone": "1-888-347-3767",
+        "notes": "Call or DM to report ICE",
+        "approved": true,
+        "created_at": "2025-10-29 19:29:35",
+        "updated_at": "2025-10-29 19:29:35",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/radio_cosecha/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/cosechanj/"
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "state": "New Jersey",
+        "state_code": "NJ",
+        "name": "CCCSNY",
+        "service_area": "Newark",
+        "phone": "1-​212-419-3737",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:28:55",
+        "updated_at": "2025-10-29 19:28:55",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://cccsny.org/contact-us"
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "state": "New Jersey",
+        "state_code": "NJ",
+        "name": "NJ May 1 Coalition",
+        "service_area": "New Jersey",
+        "phone": "1-800-308-0878",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:27:15",
+        "updated_at": "2025-10-29 19:27:15",
+        "links": [
+          {
+            "type": "website",
+            "url": "http://www.njmay1.org/rrn.htm"
+          }
+        ]
+      }
+    ]
+  },
+  "NM": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 50,
+        "state": "New Mexico",
+        "state_code": "NM",
+        "name": "",
+        "service_area": "New Mexico",
+        "phone": "1-844-363-1423",
+        "notes": "dial ext. 102\n6am - 9pm M-F",
+        "approved": true,
+        "created_at": "2025-10-29 19:24:23",
+        "updated_at": "2026-01-16 01:01:09",
+        "links": []
+      }
+    ]
+  },
+  "NV": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 64,
+        "state": "Nevada",
+        "state_code": "NV",
+        "name": "Faith In Action Nevada",
+        "service_area": "Reno",
+        "phone": "1-775-453-6137",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:31:15",
+        "updated_at": "2025-10-29 19:31:15",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://faithinaction.org/federation/faithinactionnevada/"
+          }
+        ]
+      }
+    ]
+  },
+  "NY": {
+    "success": true,
+    "count": 12,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 134,
+        "state": "New York",
+        "state_code": "NY",
+        "name": "Newburgh Rapid Response",
+        "service_area": "Newburgh",
+        "phone": "845-440-1655",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-16 18:29:14",
+        "updated_at": "2026-01-16 18:29:14",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/nbrapidresponse/"
+          }
+        ]
+      },
+      {
+        "id": 133,
+        "state": "New York",
+        "state_code": "NY",
+        "name": "Westchester Pol(ICE) Watch",
+        "service_area": "Westchester County",
+        "phone": "N/A",
+        "notes": "DM on Instagram to report",
+        "approved": true,
+        "created_at": "2026-01-16 18:28:53",
+        "updated_at": "2026-01-16 18:28:53",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/policewatch914/"
+          }
+        ]
+      },
+      {
+        "id": 130,
+        "state": "New York",
+        "state_code": "NY",
+        "name": "Syracuse Immigrant and Refugee Defense Network",
+        "service_area": "Syracuse Area",
+        "phone": "315-400-0920",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-16 18:26:39",
+        "updated_at": "2026-01-16 18:26:39",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/sirdn315"
+          }
+        ]
+      },
+      {
+        "id": 125,
+        "state": "New York",
+        "state_code": "NY",
+        "name": "Newburgh Rapid Response",
+        "service_area": "Hudson Valley, New York (Ulster, Sullivan, and Orange counties)",
+        "phone": "1-845-440-1655",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-16 01:10:23",
+        "updated_at": "2026-01-16 01:10:23",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/nbrapidresponse/"
+          },
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/profile.php?id=61577903944889"
+          }
+        ]
+      },
+      {
+        "id": 107,
+        "state": "New York",
+        "state_code": "NY",
+        "name": "Buffalo Rapid Response Network",
+        "service_area": "Buffalo/Erie County",
+        "phone": "N/A",
+        "notes": "You can use forms on the website to report ice.",
+        "approved": true,
+        "created_at": "2026-01-14 12:29:53",
+        "updated_at": "2026-01-14 12:29:53",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://brrn.info/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/buffalorapidresponse/"
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "state": "New York",
+        "state_code": "NY",
+        "name": "UIDN",
+        "service_area": "Ulster County",
+        "phone": "1-845-293-3423",
+        "notes": "Ulster4immigrantshotline@gmail.com",
+        "approved": true,
+        "created_at": "2025-10-29 19:28:33",
+        "updated_at": "2025-10-29 19:28:33",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://ulsterimmigrantdefensenetwork.org/allies/"
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "state": "New York",
+        "state_code": "NY",
+        "name": "Roc Rapid Response Network",
+        "service_area": "Rochester",
+        "phone": "1-585-420-6471",
+        "notes": "Call or DM to report ICE",
+        "approved": true,
+        "created_at": "2025-10-29 19:27:57",
+        "updated_at": "2025-10-29 19:27:57",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/rocrapidresponse/"
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "state": "New York",
+        "state_code": "NY",
+        "name": "NJ May 1 Coalition",
+        "service_area": "New York",
+        "phone": "1-800-308-0878",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:26:51",
+        "updated_at": "2025-10-29 19:26:51",
+        "links": [
+          {
+            "type": "website",
+            "url": "http://www.njmay1.org/rrn.htm"
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "state": "New York",
+        "state_code": "NY",
+        "name": "",
+        "service_area": "Ithica / Tompkins County",
+        "phone": "1-​607-358-5119",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:26:23",
+        "updated_at": "2025-10-29 19:26:23",
+        "links": []
+      },
+      {
+        "id": 53,
+        "state": "New York",
+        "state_code": "NY",
+        "name": "",
+        "service_area": "Long Island",
+        "phone": "1-516-387-2043",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:26:07",
+        "updated_at": "2025-10-29 19:26:07",
+        "links": []
+      },
+      {
+        "id": 52,
+        "state": "New York",
+        "state_code": "NY",
+        "name": "NYC ICE Watch",
+        "service_area": "NYC",
+        "phone": "N/A",
+        "notes": "DM to report ICE",
+        "approved": true,
+        "created_at": "2025-10-29 19:25:44",
+        "updated_at": "2025-10-29 19:25:44",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/nycicewatch/"
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "state": "New York",
+        "state_code": "NY",
+        "name": "Immigrant Defense Project",
+        "service_area": "NYC",
+        "phone": "1-212-725-6422",
+        "notes": "Helpline is not live. Must leave a voicemail with name and number",
+        "approved": true,
+        "created_at": "2025-10-29 19:25:00",
+        "updated_at": "2025-10-29 19:25:00",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.immigrantdefenseproject.org/criminal-immigration-helpline/"
+          }
+        ]
+      }
+    ]
+  },
+  "OH": {
+    "success": true,
+    "count": 2,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 117,
+        "state": "Ohio",
+        "state_code": "OH",
+        "name": "Ignite Peace, Immigrant Dignity Coalition",
+        "service_area": "Southwest Ohio",
+        "phone": "Contact Them",
+        "notes": "Also provides coverage in Northern Kentucky",
+        "approved": true,
+        "created_at": "2026-01-16 00:03:39",
+        "updated_at": "2026-01-16 00:05:14",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://ignitepeace.org/immigrant-dignity-coalition/"
+          }
+        ]
+      },
+      {
+        "id": 116,
+        "state": "Ohio",
+        "state_code": "OH",
+        "name": "Ohio Immigrant Alliance",
+        "service_area": "Ohio",
+        "phone": "1-419-777-4357",
+        "notes": "Collecting information about ICE sightings, but we not immediately deploying people to verify activity in real time.",
+        "approved": true,
+        "created_at": "2026-01-15 23:58:41",
+        "updated_at": "2026-01-16 01:01:53",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://ohioimmigrant.org/blog/2025/02/04/ohio-immigrant-hotlines-ohioishome"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/ohioimmigrantalliance/"
+          },
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/OhioImmigrantAlliance"
+          },
+          {
+            "type": "tiktok",
+            "url": "https://www.tiktok.com/@ohioimmigrant"
+          }
+        ]
+      }
+    ]
+  },
+  "OK": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 88,
+        "state": "Oklahoma",
+        "state_code": "OK",
+        "name": "CRNOK",
+        "service_area": "OKC",
+        "phone": "N/A",
+        "notes": "info@ok-cr.org",
+        "approved": true,
+        "created_at": "2025-10-29 21:52:10",
+        "updated_at": "2025-10-29 21:52:10",
+        "links": [
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/people/CRNOK/61575764223001/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://instagram.com/crn_okc"
+          }
+        ]
+      }
+    ]
+  },
+  "OR": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 66,
+        "state": "Oregon",
+        "state_code": "OR",
+        "name": "PIRC Oregon",
+        "service_area": "Portland Area / Salem",
+        "phone": "1-888-622-1510",
+        "notes": "24 hour hotline",
+        "approved": true,
+        "created_at": "2025-10-29 19:32:28",
+        "updated_at": "2025-10-29 19:32:28",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://pircoregon.org/"
+          }
+        ]
+      }
+    ]
+  },
+  "PA": {
+    "success": true,
+    "count": 10,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 119,
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "name": "Erie County United",
+        "service_area": "Erie County",
+        "phone": "1-814-580-7090",
+        "notes": "Call only. No text. English and Spanish speaking",
+        "approved": true,
+        "created_at": "2026-01-16 00:08:54",
+        "updated_at": "2026-01-16 01:03:06",
+        "links": []
+      },
+      {
+        "id": 87,
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "name": "Movement of Immigrant Leaders in Pennsylvania",
+        "service_area": "Upper Darby / Delco",
+        "phone": "1-717-536-8367",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 21:42:29",
+        "updated_at": "2025-10-29 21:42:29",
+        "links": []
+      },
+      {
+        "id": 86,
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "name": "MontCo Community Watch",
+        "service_area": "Montgomery County",
+        "phone": "1-267-279-9205",
+        "notes": "Languages spoken: English, Spanish",
+        "approved": true,
+        "created_at": "2025-10-29 21:41:51",
+        "updated_at": "2025-10-29 21:41:51",
+        "links": []
+      },
+      {
+        "id": 85,
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "name": "Juntos",
+        "service_area": "South Philadelphia",
+        "phone": "1-814-205-3293",
+        "notes": "Call OR Text\nLanguages spoken: English & Spanish",
+        "approved": true,
+        "created_at": "2025-10-29 21:41:24",
+        "updated_at": "2025-10-29 21:41:24",
+        "links": []
+      },
+      {
+        "id": 84,
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "name": "New Sanctuary Movement",
+        "service_area": "North / Northeast / Southwest Philadelphia",
+        "phone": "1-267-217-2292",
+        "notes": "Languages spoken: English, Spanish, Indonesian, French, Creole",
+        "approved": true,
+        "created_at": "2025-10-29 21:40:51",
+        "updated_at": "2025-10-29 21:40:51",
+        "links": []
+      },
+      {
+        "id": 83,
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "name": "Asian Americans United",
+        "service_area": "Center City / Chinatown / North Philly",
+        "phone": "1-445-310-4081",
+        "notes": "English / Mandarin hotline",
+        "approved": true,
+        "created_at": "2025-10-29 21:40:11",
+        "updated_at": "2025-10-29 21:40:11",
+        "links": []
+      },
+      {
+        "id": 70,
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "name": "Casa San Jose’s Rapid Response",
+        "service_area": "Pittsburg & surrounding counties",
+        "phone": "1-412-736-7167",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:35:04",
+        "updated_at": "2025-10-29 19:35:04",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://casasanjose.org/en/community-organizing/#emergency"
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "name": "Centre County Rapid Response Network",
+        "service_area": "Centre County",
+        "phone": "1-814-264-4626",
+        "notes": "Call or DM to report ICE",
+        "approved": true,
+        "created_at": "2025-10-29 19:34:35",
+        "updated_at": "2025-10-29 19:34:35",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/centrecountyrapidresponse/"
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "name": "Sanctuary Philadelphia",
+        "service_area": "Philadelphia",
+        "phone": "1-267-345-5248",
+        "notes": "English / Indonesian hotline",
+        "approved": true,
+        "created_at": "2025-10-29 19:33:45",
+        "updated_at": "2025-10-29 19:33:45",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.sanctuaryphiladelphia.org/sanctuary-streets-raid-response/"
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "state": "Pennsylvania",
+        "state_code": "PA",
+        "name": "Sanctuary Philadelphia",
+        "service_area": "Philadelphia",
+        "phone": "1-267-333-9530",
+        "notes": "English / Spanish speaking hotline",
+        "approved": true,
+        "created_at": "2025-10-29 19:33:14",
+        "updated_at": "2025-10-29 19:33:14",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.sanctuaryphiladelphia.org/sanctuary-streets-raid-response/"
+          }
+        ]
+      }
+    ]
+  },
+  "RI": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 71,
+        "state": "Rhode Island",
+        "state_code": "RI",
+        "name": "",
+        "service_area": "Rhode Island",
+        "phone": "1-401-675-1414",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:35:19",
+        "updated_at": "2025-10-29 19:35:19",
+        "links": []
+      }
+    ]
+  },
+  "SC": {
+    "success": true,
+    "count": 0,
+    "grouped_by_state": false,
+    "locations": []
+  },
+  "SD": {
+    "success": true,
+    "count": 0,
+    "grouped_by_state": false,
+    "locations": []
+  },
+  "TN": {
+    "success": true,
+    "count": 3,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 103,
+        "state": "Tennessee",
+        "state_code": "TN",
+        "name": "Music City Migra Watch",
+        "service_area": "Nashville, TN and surrounding areas",
+        "phone": "1-615-933-8409",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-13 18:52:57",
+        "updated_at": "2026-01-16 01:03:29",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/musiccitymigrawatch/"
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "state": "Tennessee",
+        "state_code": "TN",
+        "name": "Vecindarios901",
+        "service_area": "Memphis and Shelby County",
+        "phone": "1-901-329-7979",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-13 05:37:38",
+        "updated_at": "2026-01-16 01:03:43",
+        "links": [
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/Vecindarios901"
+          }
+        ]
+      },
+      {
+        "id": 101,
+        "state": "Tennessee",
+        "state_code": "TN",
+        "name": "ICE out of East Tennessee",
+        "service_area": "East Tennessee",
+        "phone": "1-865-226-9052",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-13 05:26:01",
+        "updated_at": "2026-01-16 01:03:55",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/iceoutofetn/"
+          }
+        ]
+      }
+    ]
+  },
+  "TX": {
+    "success": true,
+    "count": 4,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 129,
+        "state": "Texas",
+        "state_code": "TX",
+        "name": "El Movimiento",
+        "service_area": "Dallas",
+        "phone": "1-469-306-2078",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-16 02:41:59",
+        "updated_at": "2026-01-16 02:41:59",
+        "links": [
+          {
+            "type": "linktree",
+            "url": "https://linktr.ee/elmovimientodfw"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/elmovimientodfw/"
+          },
+          {
+            "type": "website",
+            "url": "https://el-movimiento-dfw-klcndx5.gamma.site/whistle-kit"
+          }
+        ]
+      },
+      {
+        "id": 90,
+        "state": "Texas",
+        "state_code": "TX",
+        "name": "Houston Leads",
+        "service_area": "Houston",
+        "phone": "1-713-701-7271",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-30 15:32:44",
+        "updated_at": "2026-01-16 01:04:09",
+        "links": [
+          {
+            "type": "website",
+            "url": "http://houston-leads.org/rapid-response-training/ "
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/houston_leads"
+          },
+          {
+            "type": "linktree",
+            "url": "https://linktr.ee/HoustonLeads"
+          }
+        ]
+      },
+      {
+        "id": 75,
+        "state": "Texas",
+        "state_code": "TX",
+        "name": "Houston Workers",
+        "service_area": "Houston",
+        "phone": "1-713-862-8222",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:37:42",
+        "updated_at": "2025-10-29 19:37:42",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.houstonworkers.org/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/feyjusticiaworkercenter/"
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "state": "Texas",
+        "state_code": "TX",
+        "name": "American Gateways",
+        "service_area": "Austin & Travis County",
+        "phone": "1-512-270-1515",
+        "notes": "You can also text WATCHICE to 877877",
+        "approved": true,
+        "created_at": "2025-10-29 19:37:05",
+        "updated_at": "2025-10-29 19:37:05",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.americangateways.org/get-help"
+          }
+        ]
+      }
+    ]
+  },
+  "UT": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 76,
+        "state": "Utah",
+        "state_code": "UT",
+        "name": "Cuutah",
+        "service_area": "Salt Lake City",
+        "phone": "1-801-487-4143",
+        "notes": "8am - 6pm M-Th",
+        "approved": true,
+        "created_at": "2025-10-29 19:38:20",
+        "updated_at": "2025-10-29 19:38:20",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.cuutah.org/contact"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/comunidadesunidas/"
+          }
+        ]
+      }
+    ]
+  },
+  "VA": {
+    "success": true,
+    "count": 4,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 136,
+        "state": "Virginia",
+        "state_code": "VA",
+        "name": "New Virginia Majority",
+        "service_area": "Virginia",
+        "phone": "N/A",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-17 18:14:13",
+        "updated_at": "2026-01-17 18:14:13",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.newvirginiamajority.org/immigration_2025"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/newvamajority"
+          },
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/newvirginiamajority/"
+          }
+        ]
+      },
+      {
+        "id": 112,
+        "state": "Virginia",
+        "state_code": "VA",
+        "name": "Migrant Solidarity Mutual Aid",
+        "service_area": "DC Metro",
+        "phone": "1-202-335-1183",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-15 05:32:22",
+        "updated_at": "2026-01-16 01:04:27",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/dcmigrantmutualaid"
+          },
+          {
+            "type": "linktree",
+            "url": "https://linktr.ee/dcmigrantmutualaid"
+          }
+        ]
+      },
+      {
+        "id": 111,
+        "state": "Virginia",
+        "state_code": "VA",
+        "name": "PODER VA",
+        "service_area": "Richmond Virginia",
+        "phone": "1-844-253-7882",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-15 05:28:29",
+        "updated_at": "2026-01-16 01:04:40",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/poder.va/"
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "state": "Virginia",
+        "state_code": "VA",
+        "name": "We Are CASA",
+        "service_area": "Virginia",
+        "phone": "1-301-431-4185",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:38:58",
+        "updated_at": "2025-10-29 19:38:58",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://wearecasa.org/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/casa4all/"
+          }
+        ]
+      }
+    ]
+  },
+  "VT": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 89,
+        "state": "Vermont",
+        "state_code": "VT",
+        "name": "Migrant Justice",
+        "service_area": "Vermont",
+        "phone": "1-802-881-7229",
+        "notes": "For ice activity currently in progress/emergency. If ICE is suspected in area please fill out a report here bit.ly/report-migra-vt",
+        "approved": true,
+        "created_at": "2025-10-30 03:42:23",
+        "updated_at": "2025-10-30 03:42:23",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://instagram.com/migrantjusticevt"
+          }
+        ]
+      }
+    ]
+  },
+  "WA": {
+    "success": true,
+    "count": 5,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 113,
+        "state": "Washington",
+        "state_code": "WA",
+        "name": "SWWA LULAC",
+        "service_area": "Clark County",
+        "phone": "1-503-388-5356",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-15 05:37:15",
+        "updated_at": "2026-01-16 01:04:57",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/rrt_swwa"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/swwalulac/"
+          },
+          {
+            "type": "website",
+            "url": "https://lulacvancouver.org/"
+          }
+        ]
+      },
+      {
+        "id": 97,
+        "state": "Washington",
+        "state_code": "WA",
+        "name": "WA Immigrant Solidarity Network (WAISN)",
+        "service_area": "Washington State, physically located in Seattle ",
+        "phone": "1-844-724-3737",
+        "notes": "@waisn.bsky.social on bluesky",
+        "approved": true,
+        "created_at": "2026-01-09 03:41:39",
+        "updated_at": "2026-01-16 01:05:09",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://waisn.org/what-we-do/deportation-defense/rapid-response/"
+          },
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/WAISNorg"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/waisn_org/"
+          }
+        ]
+      },
+      {
+        "id": 96,
+        "state": "Washington",
+        "state_code": "WA",
+        "name": "Yakima Immigration Response Network (YIRN)",
+        "service_area": " Yakima County, throughout the Yakima Valley",
+        "phone": "N/A",
+        "notes": "",
+        "approved": true,
+        "created_at": "2026-01-09 03:37:39",
+        "updated_at": "2026-01-09 03:37:39",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://yakimaresponsenetwork.org/"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/YakimaImmigrantResponseNetwork/"
+          },
+          {
+            "type": "facebook",
+            "url": "https://www.facebook.com/YakimaImmigrantResponseNetwork"
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "state": "Washington",
+        "state_code": "WA",
+        "name": "",
+        "service_area": "San Juan County",
+        "phone": "1-206-365-2225",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:39:39",
+        "updated_at": "2025-10-29 19:39:39",
+        "links": []
+      },
+      {
+        "id": 78,
+        "state": "Washington",
+        "state_code": "WA",
+        "name": "",
+        "service_area": "San Juan County",
+        "phone": "1-360-376-7101",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:39:25",
+        "updated_at": "2025-10-29 19:39:25",
+        "links": []
+      }
+    ]
+  },
+  "WI": {
+    "success": true,
+    "count": 2,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 93,
+        "state": "Wisconsin",
+        "state_code": "WI",
+        "name": "",
+        "service_area": "Grand Rapids",
+        "phone": "1-616-238-0081",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-11-03 17:06:13",
+        "updated_at": "2025-11-03 17:06:13",
+        "links": []
+      },
+      {
+        "id": 80,
+        "state": "Wisconsin",
+        "state_code": "WI",
+        "name": "Committee w/o Borders",
+        "service_area": "Wisconsin",
+        "phone": "1-800-427-0213",
+        "notes": "Call or DM to report ICE",
+        "approved": true,
+        "created_at": "2025-10-29 19:40:26",
+        "updated_at": "2025-10-29 19:40:26",
+        "links": [
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/comitesinfronteras/"
+          }
+        ]
+      }
+    ]
+  },
+  "WV": {
+    "success": true,
+    "count": 0,
+    "grouped_by_state": false,
+    "locations": []
+  },
+  "WY": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 122,
+        "state": "Wyoming",
+        "state_code": "WY",
+        "name": "Wyoming Rapid Response Network",
+        "service_area": "Wyoming",
+        "phone": "1-844-864-8341",
+        "notes": "This number is also associated with Colorado Rapid Response Network (CORRN)",
+        "approved": true,
+        "created_at": "2026-01-16 00:39:00",
+        "updated_at": "2026-01-16 01:05:27",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://wyrapidresponsenetwork.wordpress.com/"
+          }
+        ]
+      }
+    ]
+  },
+  "DC": {
+    "success": true,
+    "count": 1,
+    "grouped_by_state": false,
+    "locations": [
+      {
+        "id": 32,
+        "state": "District of Columbia",
+        "state_code": "DC",
+        "name": "DC Migrant Mutual Aid",
+        "service_area": "District of Columbia",
+        "phone": "1-202-335-1183",
+        "notes": "",
+        "approved": true,
+        "created_at": "2025-10-29 19:02:44",
+        "updated_at": "2025-10-29 19:02:44",
+        "links": [
+          {
+            "type": "website",
+            "url": "https://www.dcmigrantmutualaid.org/updates/msma-launches-ice-emergency-hotline"
+          },
+          {
+            "type": "instagram",
+            "url": "https://www.instagram.com/dcmigrantmutualaid/"
+          }
+        ]
+      }
+    ]
+  },
+  "PR": {
+    "success": true,
+    "count": 0,
+    "grouped_by_state": false,
+    "locations": []
+  },
+  "VI": {
+    "success": true,
+    "count": 0,
+    "grouped_by_state": false,
+    "locations": []
+  },
+  "MP": {
+    "success": true,
+    "count": 0,
+    "grouped_by_state": false,
+    "locations": []
+  },
+  "GU": {
+    "success": true,
+    "count": 0,
+    "grouped_by_state": false,
+    "locations": []
+  },
+  "AS": {
+    "success": true,
+    "count": 0,
+    "grouped_by_state": false,
+    "locations": []
+  }
+}

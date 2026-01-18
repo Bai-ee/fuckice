@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "date": "2025-09-06",
+  "incidents": [
+    {
+      "activity_type": "checkpoint",
+      "confidence": 0.55,
+      "description": "A person was pulled over on N. Tryon Street. ICE officer pretended it was a traffic stop, then said they were looking for his old roomate. Agent said they couldn't verify the person's identity even though he had his Honduran passport on him. They took him to the ERO office and detained him.",
+      "id": "inc-fc346ecd29ab7d6d69b1a46b4ad489deecbaf0c0",
+      "location": {
+        "city": "N. Tryon Street Charlotte",
+        "lat": 35.2831924,
+        "lng": -80.7644843,
+        "state": "NC"
+      },
+      "reported_at": "2025-09-06T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

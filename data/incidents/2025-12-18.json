@@ -1,0 +1,66 @@
+{
+  "count": 4,
+  "date": "2025-12-18",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Idlewild and Margaret Wallace at Harris Teeter\n5 unmasked men in tactical vests standing in harris teeter parking lot next to a black unmarked SVU talking",
+      "id": "inc-05b9380445358c81b5b6ca030f43d9230a460cc4",
+      "location": {
+        "city": "Idelwild Road Charlotte",
+        "lat": 35.1844262,
+        "lng": -80.72854,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-18T09:21:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.55,
+      "description": "Independence  in Charlotte NC near large billboard advertisingMorris Jenkins air conditioning\nVideo of Unmarked White SUV and silver car both wirh with flashing lights stopped with red pick up truck. 2 men wearing camo/tan clothing detaining 2 people.",
+      "id": "inc-d930a8a80b74b1b3fc8d5bbcb830619c68ddea5f",
+      "location": {
+        "city": "Independence Blvd",
+        "lat": 35.1874562,
+        "lng": -80.759933,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-18T12:30:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.55,
+      "description": "Two unmarked vehicles. Person in the comments (Chata Sanchez) of this linked video claims that someone was taken and his car is still there with the keys in it, however I am not able to see her story.",
+      "id": "inc-87b5d906cb65bcab0bf0f161271b98d565c725b5",
+      "location": {
+        "city": "",
+        "lat": 35.1500942,
+        "lng": -80.8684628,
+        "state": ""
+      },
+      "reported_at": "2025-12-18T12:58:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.6000000000000001,
+      "description": "Video on Pueblo UNIDO of unmarked black van , black SUV, and white van all with flashing lights stopping silver SUV. Four men wearing face coverings and dark colored clothing detaining a man.",
+      "id": "inc-fdee6205975d5d1898c31ccedf58a1b99ac9edbf",
+      "location": {
+        "city": "Idlewild Road",
+        "lat": 35.1844262,
+        "lng": -80.72854,
+        "state": "NC"
+      },
+      "reported_at": "2025-12-18T13:03:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

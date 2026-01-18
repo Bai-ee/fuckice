@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "date": "2025-06-24",
+  "incidents": [
+    {
+      "activity_type": "presence",
+      "confidence": 0.6000000000000001,
+      "description": "A gray SUV was doing a stakeout at a house in a neighbhorhood in Kannapolis. The SUV eventually left, no detentions reported.",
+      "id": "inc-4cf520b4c90b73524673c49ea9d3d07551bc230c",
+      "location": {
+        "city": "Kannapolis",
+        "lat": 35.4873613,
+        "lng": -80.6217341,
+        "state": "NC"
+      },
+      "reported_at": "2025-06-24T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "Video shows 3 unmarked vehicles pulling over a small black sedan. Two agents in plain clothes and black vests, and 1 agent in green vest with a mask. The driver of the car is being arrested in the video.",
+      "id": "inc-cfd41ea8cb7387f09918faa66447a08c89b9605a",
+      "location": {
+        "city": "Tyvola Rd",
+        "lat": 35.1631451,
+        "lng": -80.870575,
+        "state": "NC"
+      },
+      "reported_at": "2025-06-24T04:00:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

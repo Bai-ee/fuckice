@@ -1,0 +1,36 @@
+{
+  "count": 2,
+  "date": "2025-11-27",
+  "incidents": [
+    {
+      "activity_type": "arrest",
+      "confidence": 0.6000000000000001,
+      "description": "\"3 blue SUVs and 1 white truck parked at Trinity Community Apartments. 6 border patrol agents wearing plain clothes, tactical vests and face coverings detained 2 men, one was not wearing a shirt. Colectiva Comunidad also posted ICE presence verified at Trinity Community Apartments.\n1 person being detained in jeans and brown shirt. 3 Charlotte fire (or ems) on scene.\"",
+      "id": "inc-58fc85d26760883afd430bd59a84b5cf329ce4b0",
+      "location": {
+        "city": "3015 Peach Bottom Ln",
+        "lat": 35.2163278,
+        "lng": -80.7913479,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-27T13:48:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    },
+    {
+      "activity_type": "presence",
+      "confidence": 0.55,
+      "description": "Comunidad Colectiva posted they verified ICE presence at Atrium Health Main Campus.",
+      "id": "inc-80f17c07881c15d03d9880f6e9410e40494332c7",
+      "location": {
+        "city": "1000 Blythe Blvd",
+        "lat": 35.2036323,
+        "lng": -80.8391196,
+        "state": "NC"
+      },
+      "reported_at": "2025-11-27T16:39:00+00:00",
+      "source": "ojonc",
+      "verification": "moderator"
+    }
+  ]
+}

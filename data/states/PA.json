@@ -1,0 +1,66 @@
+{
+  "count": 4,
+  "incidents": [
+    {
+      "activity_type": "unknown",
+      "confidence": 0.25,
+      "description": "ICE vehicles seen in alleyways downtown",
+      "id": "inc-dc94ef207468f0af6b0efc1409895d201afddcd3",
+      "location": {
+        "city": "HARRISBURG",
+        "lat": 40.2595,
+        "lng": -76.88705,
+        "state": "PA"
+      },
+      "reported_at": "2026-01-16T00:21:24+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "i saw a white van that drove past my house while i was waiti",
+      "id": "inc-53f8568e191175c6e6f6527ee00ed1a94111f3af",
+      "location": {
+        "city": "1333 ROTHLEY AVE ROSLYN",
+        "lat": 40.12624,
+        "lng": -75.12652,
+        "state": "PA"
+      },
+      "reported_at": "2026-01-16T12:18:51+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.4,
+      "description": "upcoming ice operations announced in cumberland and surround",
+      "id": "inc-e075b47364197f543dce142d297ce1cf33c77c1a",
+      "location": {
+        "city": "1605 clugston road york",
+        "lat": 40.33363,
+        "lng": -79.63867,
+        "state": "PA"
+      },
+      "reported_at": "2026-01-16T17:05:53+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    },
+    {
+      "activity_type": "unknown",
+      "confidence": 0.25,
+      "description": "Drones flying above",
+      "id": "inc-8fc593fc2957e8dd5a30f3dfc8d57161a2cf2c29",
+      "location": {
+        "city": "282 NORTH BEAVER STREET YORK",
+        "lat": 39.95893,
+        "lng": -76.73359,
+        "state": "PA"
+      },
+      "reported_at": "2026-01-16T18:22:49+00:00",
+      "source": "stop_ice",
+      "verification": "unverified"
+    }
+  ],
+  "state": "PA"
+}
