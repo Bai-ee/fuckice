@@ -98,6 +98,8 @@
   let sources = [];
   let selectedStateEl = null;
   let activeStateCode = "";
+  let userSelectedState = false;
+  const savedStateKey = "icerr:selectedState";
   let latestReportedAt = "";
   let generatedAt = "";
 
@@ -131,6 +133,83 @@
     }
     el.classList.add("selected");
     selectedStateEl = el;
+  }
+
+  function getSavedState() {
+    const stored = localStorage.getItem(savedStateKey);
+    if (stored && stateCodes[stored]) return stored;
+    return "";
+  }
+
+  function saveSelectedState(code) {
+    if (!code || !stateCodes[code]) return;
+    localStorage.setItem(savedStateKey, code);
+  }
+
+  // Timezone/locale heuristics are conservative (single-state mappings only).
+  function resolveStateFromTimezone(timezone) {
+    const timezoneMap = {
+      "America/Anchorage": "AK",
+      "America/Juneau": "AK",
+      "America/Sitka": "AK",
+      "America/Yakutat": "AK",
+      "America/Adak": "AK",
+      "America/Honolulu": "HI",
+      "America/Phoenix": "AZ",
+      "America/Detroit": "MI",
+      "America/Indiana/Indianapolis": "IN",
+      "America/Indiana/Marengo": "IN",
+      "America/Indiana/Vincennes": "IN",
+      "America/Indiana/Winamac": "IN",
+      "America/Indiana/Vevay": "IN",
+      "America/Indiana/Tell_City": "IN",
+      "America/Indiana/Knox": "IN",
+      "America/Kentucky/Louisville": "KY",
+      "America/Kentucky/Monticello": "KY"
+    };
+    return timezoneMap[timezone] || "";
+  }
+
+  function resolveStateFromLocale(locale) {
+    const match = locale?.match(/-([A-Z]{2})\b/);
+    const code = match?.[1] || "";
+    return stateCodes[code] ? code : "";
+  }
+
+  function getTimezone() {
+    return Intl.DateTimeFormat().resolvedOptions().timeZone || "";
+  }
+
+  // IP fallback is optional, async, and aborts quickly to avoid blocking render.
+  async function getStateFromIpLookup() {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 1000);
+    try {
+      const response = await fetch("https://ipapi.co/json/", {
+        signal: controller.signal
+      });
+      if (!response.ok) return "";
+      const data = await response.json();
+      if (data?.country_code !== "US") return "";
+      return stateCodes[data?.region_code] ? data.region_code : "";
+    } catch (error) {
+      return "";
+    } finally {
+      clearTimeout(timeout);
+    }
+  }
+
+  // Detection order: timezone -> locale -> IP. Empty string means "no confidence."
+  async function detectStateCode() {
+    const timezone = getTimezone();
+    const timezoneMatch = resolveStateFromTimezone(timezone);
+    if (timezoneMatch) return timezoneMatch;
+
+    const locale = navigator.language || "";
+    const localeMatch = resolveStateFromLocale(locale);
+    if (localeMatch) return localeMatch;
+
+    return await getStateFromIpLookup();
   }
 
   function formatDate(value) {
@@ -175,7 +254,7 @@
       elements.forEach((el) => {
         el.addEventListener("mouseover", () => !el.classList.contains("selected") && el.classList.add("state-hover"));
         el.addEventListener("mouseout", () => !el.classList.contains("selected") && el.classList.remove("state-hover"));
-        el.addEventListener("click", () => setActiveState(code));
+        el.addEventListener("click", () => setActiveState(code, { source: "manual" }));
       });
     });
   }
@@ -494,8 +573,13 @@
     });
   }
 
-  function setActiveState(code) {
+  function setActiveState(code, options = {}) {
     if (!code || !stateCodes[code]) return;
+    const { source = "system" } = options;
+    if (source === "manual") {
+      userSelectedState = true;
+      saveSelectedState(code);
+    }
     activeStateCode = code;
     if (stateSelect) stateSelect.value = code;
     stateSearchInputs.forEach((input) => {
@@ -514,7 +598,7 @@
 
   function handleSelectChange(event) {
     const code = event.target.value;
-    if (code) setActiveState(code);
+    if (code) setActiveState(code, { source: "manual" });
   }
 
   function handleSearch(event) {
@@ -523,7 +607,7 @@
     const matchEntry = Object.entries(stateCodes).find(
       ([code, name]) => code.toLowerCase() === query || name.toLowerCase().includes(query)
     );
-    if (matchEntry) setActiveState(matchEntry[0]);
+    if (matchEntry) setActiveState(matchEntry[0], { source: "manual" });
   }
 
   function setupTabs() {
@@ -592,8 +676,22 @@
       el?.addEventListener("change", () => setActiveState(activeStateCode))
     );
 
-    const defaultState = getDefaultStateCode();
-    if (defaultState) setActiveState(defaultState);
+    const savedState = getSavedState();
+    if (savedState) {
+      userSelectedState = true;
+      setActiveState(savedState, { source: "manual" });
+      return;
+    }
+
+    detectStateCode().then((code) => {
+      if (userSelectedState) return;
+      if (code) {
+        setActiveState(code, { source: "auto" });
+        return;
+      }
+      const defaultState = getDefaultStateCode();
+      if (defaultState) setActiveState(defaultState, { source: "auto" });
+    });
   }
 
   document.addEventListener("DOMContentLoaded", init);
