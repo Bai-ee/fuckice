@@ -14,47 +14,41 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chivo:wght@400;700;900&family=Noto+Sans:wght@400;500;600;700;800&display=swap">
 </head>
-<body class="w-screen relative overflow-x-hidden min-h-screen bg-black scrollbar-hide dark:bg-[#000]">
+<body style="width: 100%; max-width: 100vw; overflow-x: hidden; margin: 0; padding: 0; background: #000; min-height: 100vh;">
   <img src="logos/color_bar.png" class="color-bar" alt="">
 
   <!-- App Header - editTRAX Design System -->
-  <div class="app-header">
-    <div class="app-header-inner">
-      <!-- Status Row -->
-      <div class="header-status-row">
-        <div class="header-status-left">
-          <div class="status-indicator">
-            <span class="status-dot online"></span>
-            <span class="status-label">LIVE DATA</span>
-          </div>
-        </div>
-        <div class="header-status-right">
-          <div class="status-indicator">
-            <span class="status-dot online"></span>
-            <span class="status-label">COMMUNITY VERIFIED</span>
-          </div>
-        </div>
+  <div style="width: 100%; padding: 16px; box-sizing: border-box; position: relative;">
+    <div style="position: relative; width: 100%; padding-top: 40px;">
+      <!-- Status Indicators - Left and Right -->
+      <div class="status-indicator" style="position: absolute; top: 0; left: 0; display: flex; align-items: center; gap: 8px;">
+        <span class="status-dot online"></span>
+        <span style="font-family: var(--font-ui); font-size: 12px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #fff;">LIVE DATA</span>
+      </div>
+      <div class="status-indicator" style="position: absolute; top: 0; right: 0; display: flex; align-items: center; gap: 8px;">
+        <span class="status-dot online"></span>
+        <span style="font-family: var(--font-ui); font-size: 12px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #fff;">COMMUNITY VERIFIED</span>
       </div>
 
       <!-- Logo & Title -->
-      <div class="logo-container">
-        <img src="logos/load.gif" alt="ICERR Logo" class="logo-gif">
+      <div style="display: flex; flex-direction: column; align-items: center; gap: 8px; width: 100%; padding-top: 24px;">
+        <img src="logos/load.gif" alt="ICERR Logo" style="width: 120px; height: auto;">
         <h1 class="main-title">ICERR</h1>
         <p class="eyebrow">RAPID RESPONSE NETWORK</p>
       </div>
     </div>
   </div>
 
-  <div class="wrapper w-full text-gray-900 font-normal flex flex-col gap-6 md:gap-8" id="layout">
-    <section class="card bg-black p-4 sm:p-6 mx-4 sm:mx-6 md:mx-8 lg:mx-10">
-      <div class="border bg-black border-neutral dark:bg-black dark:border-dark-neutral-border text-center rounded-2xl px-2 pt-[20px] pb-[70px]">
+  <div id="layout" style="width: 100%; max-width: 100%; padding: 0 16px; box-sizing: border-box;">
+    <section style="width: 100%; max-width: 100%; padding: 16px; box-sizing: border-box;">
+      <div class="border bg-black border-neutral dark:border-dark-neutral-border text-center rounded-2xl" style="width: 100%; max-width: 100%; padding: 20px 12px 70px 12px; box-sizing: border-box;">
         <h2 class="main-title" style="font-size: var(--text-2xl); margin-bottom: var(--spacing-3);">NEED TO REPORT OR VERIFY ICE ACTIVITY?</h2>
         <p class="body-copy-small" style="color: var(--accent-neutral); margin-bottom: var(--spacing-4);">Select a state to see who to call. Find state-specific incident reports, verified rapid-response contacts, and source transparency—organized for quick action.</p>
         <p class="body-copy-small" style="color: var(--accent-neutral); font-size: var(--text-xs); margin-bottom: var(--spacing-8);">This site provides informational resources only. It is not affiliated with ICE or any government agency.</p>
-              <div id="map-section" class="flex flex-col md:flex-row gap-4 w-full max-w-[1100px] mx-auto text-left mb-8">
-        <div class="flex flex-col gap-3 w-full md:flex-1">
-          <div class="overflow-x-auto rounded-xl border border-neutral dark:border-dark-neutral-border p-2 sm:p-4">
-        <svg class="w-full h-auto max-w-[700px] mx-auto md:mx-0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 959 593" style="enable-background:new 0 0 959 593; margin-top:0;" xml:space="preserve" sodipodi:docname="United States of America.svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+              <div id="map-section" style="display: flex; flex-direction: column; gap: 16px; width: 100%; max-width: 100%; text-align: left; margin-bottom: 32px; box-sizing: border-box;">
+        <div style="display: flex; flex-direction: column; gap: 12px; width: 100%; min-width: 0;">
+          <div class="rounded-xl border border-neutral dark:border-dark-neutral-border" style="width: 100%; max-width: 100%; padding: 8px; box-sizing: border-box; overflow: hidden;">
+        <svg style="width: 100%; height: auto; display: block;" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 959 593" xml:space="preserve" sodipodi:docname="United States of America.svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata id="metadata154">
     <rdf:RDF>
       <cc:Work rdf:about="">
