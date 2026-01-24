@@ -14,46 +14,43 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chivo:wght@400;700;900&family=Noto+Sans:wght@400;500;600;700;800&display=swap">
 </head>
-<body class="w-screen relative overflow-x-hidden min-h-screen bg-black scrollbar-hide authentication-sign-in-page dark:bg-[#000]">
+<body class="w-screen relative overflow-x-hidden min-h-screen bg-black scrollbar-hide dark:bg-[#000]">
   <img src="logos/color_bar.png" class="color-bar" alt="">
-  <div class="wrapper mx-auto text-gray-900 font-normal flex flex-col gap-6 md:gap-8 px-4 sm:px-6 md:px-8 lg:px-10 py-6" id="layout" style="padding-top: calc(var(--spacing-6) + 5px);">
-    <!-- <header class="bg-black p-5 gap-5 md:py-6 md:pl-[25px] md:pr-[38px] dark:bg-black rounded-2xl border border-neutral shadow-sm dark:border-dark-neutral-border">
-      <div class="w-full flex items-center gap-4">
-        <a class="flex items-center gap-3 shrink-0" href="index.html">
-          <img class="h-7 w-auto" src="img/ice_logo.png" alt="ICERR logo">
-        </a>
-        <div class="flex-1 flex justify-center min-w-0">
-          <div class="bg-black flex rounded-xl w-full max-w-[420px] min-w-0 m-0 py-[14px] px-[18px] dark:bg-black">
-            <img src="assets/images/icons/icon-search-normal.svg" alt="search icon">
-          <input id="state-search-header" data-state-search class="input w-full bg-transparent outline-none pl-2 h-5 text-gray-300 focus:!outline-none placeholder:text-gray-300 dark:placeholder:text-gray-dark-300 placeholder:font-semibold" type="text" placeholder="Search">
+
+  <!-- App Header - editTRAX Design System -->
+  <div class="app-header">
+    <div class="app-header-inner">
+      <!-- Status Row -->
+      <div class="header-status-row">
+        <div class="header-status-left">
+          <div class="status-indicator">
+            <span class="status-dot online"></span>
+            <span class="status-label">LIVE DATA</span>
           </div>
         </div>
-        <div class="hidden sm:flex items-center shrink-0">
-          <div class="dropdown">
-            <label class="cursor-pointer dropdown-label flex items-center justify-between w-[142px]" tabindex="0">
-              <div class="items-center justify-center rounded-lg border border-neutral dark:border-dark-neutral-border gap-x-[10px] px-[18px] py-[11px] sm:flex">
-                <div class="flex items-center gap-[11px]"><img src="assets/images/icons/icon-export.svg" alt="export icon"><span class="text-normal font-semibold text-gray-500 dark:text-gray-dark-500">Browse</span></div><img src="assets/images/icons/icon-arrow-down.svg" alt="down icon">
-              </div>
-            </label>
-            <ul class="dropdown-content" tabindex="0">
-              <div class="relative menu rounded-box dropdown-shadow min-w-[200px] mt-[18px] p-[18px] bg-color-brands">
-                <div class="border-solid border-b-8 border-x-transparent border-x-8 border-t-0 absolute w-[14px] top-[-7px] border-b-color-brands right-[18px]"></div>
-                <li class="text-normal p-[10px]"><a class="flex items-center bg-transparent p-0 gap-[7px]" href="#map-section"><span class="text-white hover:text-[#C6CBD9]">Map</span></a></li>
-                <li class="text-normal p-[10px]"><a class="flex items-center bg-transparent p-0 gap-[7px]" href="#overview-section"><span class="text-white hover:text-[#C6CBD9]">Overview</span></a></li>
-                              </div>
-            </ul>
+        <div class="header-status-right">
+          <div class="status-indicator">
+            <span class="status-dot online"></span>
+            <span class="status-label">COMMUNITY VERIFIED</span>
           </div>
         </div>
       </div>
-    </header> -->
 
-    
+      <!-- Logo & Title -->
+      <div class="logo-container">
+        <img src="logos/load.gif" alt="ICERR Logo" class="logo-gif">
+        <h1 class="main-title">ICERR</h1>
+        <p class="eyebrow">RAPID RESPONSE NETWORK</p>
+      </div>
+    </div>
+  </div>
 
-    <section class="card bg-black p-4 sm:p-6">
+  <div class="wrapper w-full text-gray-900 font-normal flex flex-col gap-6 md:gap-8" id="layout">
+    <section class="card bg-black p-4 sm:p-6 mx-4 sm:mx-6 md:mx-8 lg:mx-10">
       <div class="border bg-black border-neutral dark:bg-black dark:border-dark-neutral-border text-center rounded-2xl px-2 pt-[20px] pb-[70px]">
-        <h1 class="main-title font-semibold text-[28px] leading-[34px] mb-[10px]">Need to report or verify ICE activity?</h1>
-        <p class="leading-4 text-gray-500 mb-4 text-[14px] dark:text-gray-dark-500">Select a state to see who to call. Find state-specific incident reports, verified rapid-response contacts, and source transparency—organized for quick action.</p>
-        <p class="text-xs text-gray-400 dark:text-gray-dark-400 mb-8">This site provides informational resources only. It is not affiliated with ICE or any government agency.</p>
+        <h2 class="main-title" style="font-size: var(--text-2xl); margin-bottom: var(--spacing-3);">NEED TO REPORT OR VERIFY ICE ACTIVITY?</h2>
+        <p class="body-copy-small" style="color: var(--accent-neutral); margin-bottom: var(--spacing-4);">Select a state to see who to call. Find state-specific incident reports, verified rapid-response contacts, and source transparency—organized for quick action.</p>
+        <p class="body-copy-small" style="color: var(--accent-neutral); font-size: var(--text-xs); margin-bottom: var(--spacing-8);">This site provides informational resources only. It is not affiliated with ICE or any government agency.</p>
               <div id="map-section" class="flex flex-col md:flex-row gap-4 w-full max-w-[1100px] mx-auto text-left mb-8">
         <div class="flex flex-col gap-3 w-full md:flex-1">
           <div class="overflow-x-auto rounded-xl border border-neutral dark:border-dark-neutral-border p-2 sm:p-4">
