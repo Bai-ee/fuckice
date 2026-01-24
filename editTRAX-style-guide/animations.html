@@ -1,0 +1,779 @@
+<!DOCTYPE html>
+<html lang="en" class="smooth-scroll">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animation Style Guide</title>
+  <link rel="stylesheet" href="css/design-tokens.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <style>
+    /* Page-specific styles */
+    .animation-guide-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: var(--spacing-8);
+      position: relative;
+      z-index: 1;
+    }
+
+    .section {
+      margin-bottom: var(--spacing-12);
+      padding-bottom: var(--spacing-8);
+      border-bottom: var(--border-1) solid var(--color-gray-760);
+    }
+
+    .section-title {
+      font-family: var(--font-heading);
+      font-size: var(--text-2xl);
+      color: var(--color-yellow-75);
+      margin-bottom: var(--spacing-6);
+      padding-bottom: var(--spacing-2);
+      border-bottom: var(--border-2) solid var(--color-yellow-75);
+      display: inline-block;
+    }
+
+    .component-label {
+      font-family: var(--font-ui);
+      font-size: var(--text-xs);
+      letter-spacing: var(--tracking-wide);
+      text-transform: uppercase;
+      color: var(--accent-neutral);
+      margin-bottom: var(--spacing-2);
+      margin-top: var(--spacing-6);
+    }
+
+    .demo-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: var(--spacing-4);
+      margin-bottom: var(--spacing-6);
+    }
+
+    .demo-box {
+      width: 150px;
+      height: 100px;
+      background: var(--gradient-dark-button);
+      border: var(--border-2) solid var(--color-gray-660);
+      border-radius: var(--radius-lg);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-ui);
+      font-size: var(--text-xs);
+      color: var(--color-yellow-75);
+      text-transform: uppercase;
+      letter-spacing: var(--tracking-wide);
+    }
+
+    .demo-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      gap: var(--spacing-4);
+    }
+
+    .demo-grid-item {
+      aspect-ratio: 1;
+      background: var(--gradient-dark-button);
+      border: var(--border-2) solid var(--color-gray-660);
+      border-radius: var(--radius-lg);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-heading);
+      font-size: var(--text-xl);
+      color: var(--color-yellow-75);
+    }
+
+    .code-block {
+      background: #0a0a0a;
+      border: var(--border-1) solid var(--color-gray-760);
+      border-radius: var(--radius-lg);
+      padding: var(--spacing-4);
+      margin: var(--spacing-4) 0;
+      overflow-x: auto;
+    }
+
+    .code-block code {
+      font-family: 'Monaco', 'Menlo', monospace;
+      font-size: var(--text-sm);
+      color: var(--color-yellow-75);
+      line-height: 1.6;
+      white-space: pre;
+    }
+
+    .code-block .comment { color: var(--accent-neutral); }
+    .code-block .string { color: var(--accent-long); }
+    .code-block .keyword { color: #c792ea; }
+    .code-block .number { color: #f78c6c; }
+
+    /* Page Header */
+    .page-header {
+      text-align: center;
+      padding: var(--spacing-12) 0;
+      margin-bottom: var(--spacing-8);
+      border-bottom: var(--border-2) solid var(--color-yellow-75);
+      position: relative;
+      z-index: 1;
+    }
+
+    .page-header h1 {
+      font-size: var(--text-4xl);
+      margin-bottom: var(--spacing-4);
+    }
+
+    /* Config table */
+    .config-table {
+      width: 100%;
+      margin: var(--spacing-4) 0;
+    }
+
+    .config-table th,
+    .config-table td {
+      text-align: left;
+      padding: var(--spacing-2) var(--spacing-3);
+      border-bottom: var(--border-1) solid var(--color-gray-760);
+    }
+
+    .config-table th {
+      color: var(--color-yellow-75);
+      font-family: var(--font-ui);
+      font-size: var(--text-xs);
+      text-transform: uppercase;
+      letter-spacing: var(--tracking-wide);
+    }
+
+    .config-table td {
+      font-family: 'Monaco', monospace;
+      font-size: var(--text-sm);
+    }
+
+    .config-table .editable {
+      color: var(--accent-long);
+    }
+
+    /* Trigger buttons */
+    .trigger-btn {
+      margin-right: var(--spacing-2);
+      margin-bottom: var(--spacing-2);
+    }
+
+    /* Spacer for scroll demos */
+    .scroll-spacer {
+      height: 30vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--accent-neutral);
+      font-family: var(--font-ui);
+      font-size: var(--text-sm);
+      text-transform: uppercase;
+      letter-spacing: var(--tracking-wide);
+    }
+
+    /* Card grid for examples */
+    .example-cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: var(--spacing-4);
+    }
+
+    /* Timeline demo */
+    .timeline {
+      position: relative;
+      padding-left: var(--spacing-8);
+    }
+
+    .timeline::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      background: var(--color-gray-760);
+    }
+
+    .timeline-item {
+      position: relative;
+      padding-bottom: var(--spacing-6);
+    }
+
+    .timeline-item::before {
+      content: '';
+      position: absolute;
+      left: calc(var(--spacing-8) * -1);
+      top: 6px;
+      width: 12px;
+      height: 12px;
+      background: var(--color-yellow-75);
+      border-radius: 50%;
+      transform: translateX(-5px);
+    }
+
+    .timeline-item h4 {
+      margin-bottom: var(--spacing-2);
+    }
+
+    /* Feature list */
+    .feature-list {
+      list-style: none;
+      padding: 0;
+    }
+
+    .feature-list li {
+      padding: var(--spacing-3) 0;
+      border-bottom: var(--border-1) solid var(--color-gray-760);
+      display: flex;
+      align-items: center;
+      gap: var(--spacing-3);
+    }
+
+    .feature-list li::before {
+      content: '+';
+      color: var(--color-yellow-75);
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Color Bar -->
+  <img src="logos/color_bar.png" alt="" class="color-bar">
+
+  <!-- Scroll Progress -->
+  <div class="scroll-progress"></div>
+
+  <!-- Particles Background -->
+  <div id="particles-js" class="particles-bg"></div>
+
+  <!-- Page Header (No scroll animation - always visible) -->
+  <header class="page-header">
+    <img src="logos/load.gif" alt="Logo" style="width: 80px; height: auto; margin-bottom: var(--spacing-4);">
+    <h1>Animation Style Guide</h1>
+    <p class="body-copy">
+      GSAP ScrollTrigger + anime.js for scroll-based and sequence animations.
+    </p>
+    <a href="index.html" class="btn btn-secondary" style="margin-top: var(--spacing-4);">Back to Components</a>
+  </header>
+
+  <div class="animation-guide-container">
+
+    <!-- ============================================
+         QUICK START
+         ============================================ -->
+    <section class="section" id="quick-start">
+      <h2 class="section-title">Quick Start</h2>
+
+      <p class="body-copy">
+        Add scroll animations to any element. Content fades in when scrolling down, fades out when scrolling back up.
+        Outro animations only trigger when content scrolls well past the top of the viewport.
+      </p>
+
+      <div class="code-block">
+        <code><span class="comment">&lt;!-- 1. Include libraries --&gt;</span>
+&lt;link rel="stylesheet" href="css/animations.css"&gt;
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"&gt;&lt;/script&gt;
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"&gt;&lt;/script&gt;
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/animations.js"&gt;&lt;/script&gt;
+
+<span class="comment">&lt;!-- 2. Add data attributes --&gt;</span>
+&lt;div <span class="string">data-anim="fade-up"</span>&gt;Animates on scroll&lt;/div&gt;
+&lt;div class="grid" <span class="string">data-anim-grid</span>&gt;Grid with stagger&lt;/div&gt;</code>
+      </div>
+    </section>
+
+
+    <!-- ============================================
+         SCROLL ANIMATIONS (GSAP)
+         ============================================ -->
+    <section class="section" id="scroll-animations">
+      <h2 class="section-title">Scroll Animations</h2>
+
+      <p class="body-copy">
+        Elements animate in when entering the viewport and reverse when scrolling back.
+        Scroll down and back up to see the effect.
+      </p>
+
+      <div class="component-label">Fade Up (Default)</div>
+      <div class="demo-row">
+        <div class="demo-box" data-anim="fade-up">Fade Up</div>
+        <div class="demo-box" data-anim="fade-up">Fade Up</div>
+        <div class="demo-box" data-anim="fade-up">Fade Up</div>
+      </div>
+
+      <div class="component-label">Fade Down</div>
+      <div class="demo-row">
+        <div class="demo-box" data-anim="fade-down">Fade Down</div>
+        <div class="demo-box" data-anim="fade-down">Fade Down</div>
+        <div class="demo-box" data-anim="fade-down">Fade Down</div>
+      </div>
+
+      <div class="component-label">Fade Left / Right</div>
+      <div class="demo-row">
+        <div class="demo-box" data-anim="fade-right">From Left</div>
+        <div class="demo-box" data-anim="fade-up">Center</div>
+        <div class="demo-box" data-anim="fade-left">From Right</div>
+      </div>
+
+      <div class="component-label">Scale Up</div>
+      <div class="demo-row">
+        <div class="demo-box" data-anim="scale-up">Scale Up</div>
+        <div class="demo-box" data-anim="scale-up">Scale Up</div>
+        <div class="demo-box" data-anim="scale-up">Scale Up</div>
+      </div>
+
+      <div class="code-block">
+        <code><span class="comment">// Available animation types</span>
+data-anim="<span class="string">fade-up</span>"     <span class="comment">// Fade + slide from below</span>
+data-anim="<span class="string">fade-down</span>"   <span class="comment">// Fade + slide from above</span>
+data-anim="<span class="string">fade-left</span>"   <span class="comment">// Fade + slide from right</span>
+data-anim="<span class="string">fade-right</span>"  <span class="comment">// Fade + slide from left</span>
+data-anim="<span class="string">scale-up</span>"    <span class="comment">// Fade + scale from smaller</span></code>
+      </div>
+    </section>
+
+
+    <div class="scroll-spacer">Scroll to see grid animations</div>
+
+
+    <!-- ============================================
+         GRID ANIMATIONS (anime.js)
+         ============================================ -->
+    <section class="section" id="grid-animations">
+      <h2 class="section-title">Grid Animations</h2>
+
+      <p class="body-copy">
+        Grids animate with elegant staggered timing using anime.js. Items enter in sequence and exit in reverse order.
+      </p>
+
+      <div class="component-label">Staggered Grid (12 items)</div>
+      <div class="demo-grid" data-anim-grid>
+        <div class="demo-grid-item">1</div>
+        <div class="demo-grid-item">2</div>
+        <div class="demo-grid-item">3</div>
+        <div class="demo-grid-item">4</div>
+        <div class="demo-grid-item">5</div>
+        <div class="demo-grid-item">6</div>
+        <div class="demo-grid-item">7</div>
+        <div class="demo-grid-item">8</div>
+        <div class="demo-grid-item">9</div>
+        <div class="demo-grid-item">10</div>
+        <div class="demo-grid-item">11</div>
+        <div class="demo-grid-item">12</div>
+      </div>
+
+      <div class="code-block">
+        <code><span class="comment">&lt;!-- Add data-anim-grid to any grid container --&gt;</span>
+&lt;div class="grid" <span class="string">data-anim-grid</span>&gt;
+  &lt;div&gt;Item 1&lt;/div&gt;
+  &lt;div&gt;Item 2&lt;/div&gt;
+  &lt;div&gt;Item 3&lt;/div&gt;
+  <span class="comment">&lt;!-- Children animate with stagger --&gt;</span>
+&lt;/div&gt;</code>
+      </div>
+    </section>
+
+
+    <div class="scroll-spacer">Scroll to see card examples</div>
+
+
+    <!-- ============================================
+         CARD EXAMPLES
+         ============================================ -->
+    <section class="section" id="card-examples">
+      <h2 class="section-title">Card Examples</h2>
+
+      <p class="body-copy">
+        Real-world card layouts with scroll animations and hover effects combined.
+      </p>
+
+      <div class="component-label">Animated Card Grid</div>
+      <div class="example-cards" data-anim-grid>
+        <div class="card hover-lift">
+          <h4>Feature One</h4>
+          <p class="body-copy-small">Scroll animations trigger when entering viewport. Hover for lift effect.</p>
+        </div>
+        <div class="card hover-lift">
+          <h4>Feature Two</h4>
+          <p class="body-copy-small">Grid items animate in sequence with staggered timing for elegant entry.</p>
+        </div>
+        <div class="card hover-lift">
+          <h4>Feature Three</h4>
+          <p class="body-copy-small">Reverse animations play when scrolling back up the page.</p>
+        </div>
+        <div class="card hover-lift">
+          <h4>Feature Four</h4>
+          <p class="body-copy-small">Combine with hover utilities for interactive depth.</p>
+        </div>
+      </div>
+
+      <div class="component-label">Stat Cards</div>
+      <div class="stat-cards-row" data-anim-grid style="grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));">
+        <div class="stat-card hover-scale">
+          <div class="stat-label">Users</div>
+          <div class="stat-value" id="stat-users">0</div>
+        </div>
+        <div class="stat-card hover-scale">
+          <div class="stat-label">Revenue</div>
+          <div class="stat-value" id="stat-revenue">$0</div>
+        </div>
+        <div class="stat-card hover-scale">
+          <div class="stat-label">Growth</div>
+          <div class="stat-value" id="stat-growth">0%</div>
+        </div>
+        <div class="stat-card hover-scale">
+          <div class="stat-label">Active</div>
+          <div class="stat-value" id="stat-active">0</div>
+        </div>
+      </div>
+
+      <div class="demo-row" style="margin-top: var(--spacing-4);">
+        <button class="btn btn-secondary trigger-btn" onclick="animateStats()">Animate Stats</button>
+      </div>
+    </section>
+
+
+    <div class="scroll-spacer">Scroll to see timeline example</div>
+
+
+    <!-- ============================================
+         TIMELINE EXAMPLE
+         ============================================ -->
+    <section class="section" id="timeline-example">
+      <h2 class="section-title">Timeline Animation</h2>
+
+      <p class="body-copy">
+        Vertical timeline with staggered item animations.
+      </p>
+
+      <div class="timeline" data-anim-grid>
+        <div class="timeline-item">
+          <h4>Phase 1: Discovery</h4>
+          <p class="body-copy-small">Research and gather requirements from stakeholders.</p>
+        </div>
+        <div class="timeline-item">
+          <h4>Phase 2: Design</h4>
+          <p class="body-copy-small">Create wireframes, mockups, and design system.</p>
+        </div>
+        <div class="timeline-item">
+          <h4>Phase 3: Development</h4>
+          <p class="body-copy-small">Build features iteratively with continuous feedback.</p>
+        </div>
+        <div class="timeline-item">
+          <h4>Phase 4: Launch</h4>
+          <p class="body-copy-small">Deploy to production and monitor performance.</p>
+        </div>
+      </div>
+    </section>
+
+
+    <div class="scroll-spacer">Scroll to see list animation</div>
+
+
+    <!-- ============================================
+         LIST ANIMATION
+         ============================================ -->
+    <section class="section" id="list-animation">
+      <h2 class="section-title">List Animation</h2>
+
+      <p class="body-copy">
+        Feature lists with staggered entry animations.
+      </p>
+
+      <ul class="feature-list" data-anim-grid style="max-width: 500px;">
+        <li>Scroll-triggered animations with GSAP</li>
+        <li>Staggered grid animations with anime.js</li>
+        <li>Smooth parallax scrolling effects</li>
+        <li>Configurable timing and easing</li>
+        <li>Automatic reverse on scroll back</li>
+        <li>Reduced motion support</li>
+      </ul>
+    </section>
+
+
+    <div class="scroll-spacer">Scroll to see sequence animations</div>
+
+
+    <!-- ============================================
+         SEQUENCE ANIMATIONS
+         ============================================ -->
+    <section class="section" id="sequence-animations">
+      <h2 class="section-title">Sequence Animations</h2>
+
+      <p class="body-copy">
+        Programmatic animations for user interactions and feedback.
+      </p>
+
+      <div class="component-label">Interactive Demos</div>
+      <div class="demo-row">
+        <button class="btn btn-secondary trigger-btn" onclick="SequenceAnimations.pulse('.pulse-target')">Pulse</button>
+        <button class="btn btn-secondary trigger-btn" onclick="SequenceAnimations.shake('.shake-target')">Shake</button>
+        <button class="btn btn-secondary trigger-btn" onclick="SequenceAnimations.countUp('.counter-target', 9999)">Count Up</button>
+        <button class="btn btn-secondary trigger-btn" onclick="SequenceAnimations.staggerList('.stagger-demo > *')">Stagger List</button>
+      </div>
+
+      <div class="demo-row">
+        <div class="demo-box pulse-target hover-lift">Pulse</div>
+        <div class="demo-box shake-target hover-lift">Shake</div>
+        <div class="stat-card" style="min-width: 150px;">
+          <div class="stat-label">Counter</div>
+          <div class="stat-value counter-target">0</div>
+        </div>
+      </div>
+
+      <div class="component-label">Stagger Demo</div>
+      <div class="demo-row stagger-demo">
+        <div class="demo-box" style="opacity: 0;">Item 1</div>
+        <div class="demo-box" style="opacity: 0;">Item 2</div>
+        <div class="demo-box" style="opacity: 0;">Item 3</div>
+        <div class="demo-box" style="opacity: 0;">Item 4</div>
+      </div>
+
+      <div class="code-block">
+        <code><span class="comment">// Programmatic animations</span>
+SequenceAnimations.<span class="keyword">pulse</span>(<span class="string">'.element'</span>);       <span class="comment">// Attention pulse</span>
+SequenceAnimations.<span class="keyword">shake</span>(<span class="string">'.element'</span>);       <span class="comment">// Error feedback</span>
+SequenceAnimations.<span class="keyword">countUp</span>(<span class="string">'.num'</span>, <span class="number">1234</span>);   <span class="comment">// Animated counter</span>
+SequenceAnimations.<span class="keyword">staggerList</span>(<span class="string">'.items'</span>);  <span class="comment">// Staggered reveal</span></code>
+      </div>
+    </section>
+
+
+    <div class="scroll-spacer">Scroll to see hover utilities</div>
+
+
+    <!-- ============================================
+         HOVER UTILITIES
+         ============================================ -->
+    <section class="section" id="hover-utilities">
+      <h2 class="section-title">Hover Utilities</h2>
+
+      <p class="body-copy">
+        CSS utility classes for interactive hover effects. No JavaScript required.
+      </p>
+
+      <div class="component-label">Hover Effects</div>
+      <div class="demo-row">
+        <div class="demo-box hover-lift">hover-lift</div>
+        <div class="demo-box hover-scale">hover-scale</div>
+        <div class="demo-box hover-glow">hover-glow</div>
+      </div>
+
+      <div class="code-block">
+        <code><span class="comment">&lt;!-- CSS-only hover effects --&gt;</span>
+&lt;div class="<span class="string">hover-lift</span>"&gt;Lifts with shadow on hover&lt;/div&gt;
+&lt;div class="<span class="string">hover-scale</span>"&gt;Scales up on hover&lt;/div&gt;
+&lt;div class="<span class="string">hover-glow</span>"&gt;Glows on hover&lt;/div&gt;
+
+<span class="comment">&lt;!-- Combine with cards --&gt;</span>
+&lt;div class="card <span class="string">hover-lift</span>"&gt;Interactive card&lt;/div&gt;</code>
+      </div>
+    </section>
+
+
+    <div class="scroll-spacer">Scroll to see configuration</div>
+
+
+    <!-- ============================================
+         CONFIGURATION
+         ============================================ -->
+    <section class="section" id="configuration">
+      <h2 class="section-title">Configuration</h2>
+
+      <p class="body-copy">
+        All animation values are configurable in <code>js/animations.js</code>. Adjust these to change the feel.
+      </p>
+
+      <div class="component-label">Timing Configuration</div>
+      <table class="config-table">
+        <thead>
+          <tr>
+            <th>Property</th>
+            <th>Default</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>scroll.start</td>
+            <td class="editable">'top 85%'</td>
+            <td>When intro animation triggers</td>
+          </tr>
+          <tr>
+            <td>scroll.end</td>
+            <td class="editable">'top -10%'</td>
+            <td>When outro animation triggers (past top)</td>
+          </tr>
+          <tr>
+            <td>fadeUp.y</td>
+            <td class="editable">60</td>
+            <td>Starting Y offset in pixels</td>
+          </tr>
+          <tr>
+            <td>fadeUp.duration</td>
+            <td class="editable">0.8</td>
+            <td>Animation duration in seconds</td>
+          </tr>
+          <tr>
+            <td>fadeUp.ease</td>
+            <td class="editable">'power3.out'</td>
+            <td>GSAP easing function</td>
+          </tr>
+          <tr>
+            <td>grid.delay</td>
+            <td class="editable">i * 100</td>
+            <td>Stagger delay between items (ms)</td>
+          </tr>
+          <tr>
+            <td>grid.duration</td>
+            <td class="editable">600</td>
+            <td>Grid item animation duration (ms)</td>
+          </tr>
+          <tr>
+            <td>parallax.speed</td>
+            <td class="editable">0.5</td>
+            <td>Parallax intensity (0-1)</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="code-block">
+        <code><span class="comment">// Override in your code</span>
+AnimConfig.fadeUp.duration = <span class="number">1.0</span>;
+AnimConfig.fadeUp.y = <span class="number">80</span>;
+AnimConfig.grid.delay = (el, i) => i * <span class="number">150</span>;
+
+<span class="comment">// Reinitialize after changes</span>
+ScrollAnimations.<span class="keyword">init</span>();
+GridAnimations.<span class="keyword">initScrollGrid</span>(<span class="string">'[data-anim-grid]'</span>);</code>
+      </div>
+    </section>
+
+
+    <!-- ============================================
+         EASING REFERENCE
+         ============================================ -->
+    <section class="section" id="easing">
+      <h2 class="section-title">Easing Reference</h2>
+
+      <p class="body-copy">
+        GSAP and anime.js easing options for different animation feels.
+      </p>
+
+      <div class="component-label">GSAP Easing (Scroll Animations)</div>
+      <table class="config-table">
+        <thead>
+          <tr>
+            <th>Easing</th>
+            <th>Feel</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="editable">power1.out</td><td>Subtle, gentle</td></tr>
+          <tr><td class="editable">power2.out</td><td>Natural, smooth</td></tr>
+          <tr><td class="editable">power3.out</td><td>Confident, polished (default)</td></tr>
+          <tr><td class="editable">power4.out</td><td>Dramatic, impactful</td></tr>
+          <tr><td class="editable">back.out(1.4)</td><td>Slight overshoot, bouncy</td></tr>
+          <tr><td class="editable">elastic.out(1, 0.3)</td><td>Springy, playful</td></tr>
+        </tbody>
+      </table>
+
+      <div class="component-label">anime.js Easing (Grid Animations)</div>
+      <table class="config-table">
+        <thead>
+          <tr>
+            <th>Easing</th>
+            <th>Feel</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="editable">easeOutQuad</td><td>Standard deceleration</td></tr>
+          <tr><td class="editable">easeOutCubic</td><td>Smooth deceleration (default)</td></tr>
+          <tr><td class="editable">easeOutExpo</td><td>Fast start, slow end</td></tr>
+          <tr><td class="editable">easeOutBack</td><td>Overshoot and settle</td></tr>
+          <tr><td class="editable">easeOutElastic(1, 0.5)</td><td>Bouncy spring</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+  </div>
+
+
+  <!-- Scripts -->
+  <!-- Particles.js -->
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+  <!-- GSAP + ScrollTrigger -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+
+  <!-- anime.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+
+  <!-- Initialize Particles -->
+  <script>
+    particlesJS('particles-js', {
+      particles: {
+        number: { value: 50, density: { enable: true, value_area: 800 } },
+        color: { value: '#E6E9E0' },
+        shape: { type: 'circle' },
+        opacity: { value: 0.5, random: true },
+        size: { value: 2, random: true },
+        line_linked: { enable: false },
+        move: { enable: true, speed: 1, direction: 'none', random: false, straight: false, out_mode: 'out', bounce: false }
+      },
+      interactivity: { detect_on: 'canvas', events: { onhover: { enable: false }, onclick: { enable: false }, resize: true } },
+      retina_detect: true
+    });
+  </script>
+
+  <!-- Animation System -->
+  <script src="js/animations.js"></script>
+
+  <!-- Demo Helpers -->
+  <script>
+    // Animate stats demo
+    function animateStats() {
+      SequenceAnimations.countUp('#stat-users', 12345, 1500);
+      setTimeout(() => {
+        const el = document.getElementById('stat-revenue');
+        const obj = { value: 0 };
+        anime({
+          targets: obj,
+          value: 45678,
+          duration: 1500,
+          easing: 'easeOutExpo',
+          round: 1,
+          update: () => { el.textContent = '$' + obj.value.toLocaleString(); }
+        });
+      }, 200);
+      setTimeout(() => {
+        const el = document.getElementById('stat-growth');
+        const obj = { value: 0 };
+        anime({
+          targets: obj,
+          value: 23,
+          duration: 1500,
+          easing: 'easeOutExpo',
+          round: 1,
+          update: () => { el.textContent = '+' + obj.value + '%'; }
+        });
+      }, 400);
+      setTimeout(() => SequenceAnimations.countUp('#stat-active', 8901, 1500), 600);
+    }
+
+    // Reset stagger demo when it animates out
+    document.addEventListener('DOMContentLoaded', () => {
+      const staggerItems = document.querySelectorAll('.stagger-demo > *');
+      // Reset opacity after page load
+      setTimeout(() => {
+        staggerItems.forEach(item => item.style.opacity = '0');
+      }, 100);
+    });
+  </script>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,261 @@
+/**
+ * DESIGN TOKENS - Core Design System Variables
+ *
+ * This file contains all the foundational design tokens extracted from the main application.
+ * Import this file FIRST in any project to establish the design language.
+ *
+ * Usage: @import url('design-tokens.css');
+ */
+
+/* ============================================
+   CUSTOM FONTS
+   ============================================ */
+
+@font-face {
+  font-family: "Mathias";
+  src: url('../fonts/mathias-bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Inter:wght@400;500&display=swap');
+
+
+/* ============================================
+   CSS CUSTOM PROPERTIES (Design Tokens)
+   ============================================ */
+
+:root {
+  /* ----------------------------------------
+     BRAND COLORS
+     ---------------------------------------- */
+  --color-black: #000000;
+  --color-white: #FFFFFF;
+
+  /* Primary Accent - Off-White/Cream Yellow */
+  --color-yellow-75: #E6E9E0;
+  --color-yellow-125: #A6752B;
+
+  /* ----------------------------------------
+     DARK BLUE PALETTE (UI Backgrounds)
+     ---------------------------------------- */
+  --color-blue-810: #1C1C33;
+  --color-blue-820: #353554;
+  --color-blue-830: #14142B;
+
+  /* ----------------------------------------
+     GRAY TONES
+     ---------------------------------------- */
+  --color-gray-660: #373737;
+  --color-gray-760: #282828;
+  --color-gray-dark: #222227;
+  --color-gray-darker: #16151a;
+
+  /* ----------------------------------------
+     SEMANTIC / STATUS COLORS
+     ---------------------------------------- */
+  --color-red-75: #FC0023;
+  --color-edit-button-bg: #7f1d1d;
+  --color-hover-red: #470F0F;
+
+  /* Trading / Action Status */
+  --accent-long: #10b981;      /* Green - Success, Long positions */
+  --accent-short: #ef4444;     /* Red - Error, Short positions */
+  --accent-neutral: #6b7280;   /* Gray - Neutral, Disabled */
+  --accent-info: #2f80ed;      /* Blue - Info, Notes */
+
+  /* ----------------------------------------
+     FONT FAMILIES
+     ---------------------------------------- */
+  --font-mathias: "Mathias", sans-serif;
+  --font-heading: "Mathias", sans-serif;
+  --font-body: 'Open Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  --font-ui: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+             Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  --font-system: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+                 Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+
+  /* ----------------------------------------
+     TYPOGRAPHY SCALE
+     ---------------------------------------- */
+  --text-xs: 0.75rem;      /* 12px */
+  --text-sm: 0.875rem;     /* 14px */
+  --text-base: 1rem;       /* 16px */
+  --text-lg: 1.125rem;     /* 18px */
+  --text-xl: 1.25rem;      /* 20px */
+  --text-2xl: 1.5rem;      /* 24px */
+  --text-3xl: 2rem;        /* 32px */
+  --text-4xl: 2.5rem;      /* 40px */
+
+  /* Line Heights */
+  --leading-tight: 1.25;
+  --leading-normal: 1.45;
+  --leading-relaxed: 1.5;
+
+  /* Letter Spacing */
+  --tracking-tight: 0.02em;
+  --tracking-normal: 0.05em;
+  --tracking-wide: 0.08em;
+  --tracking-wider: 0.1em;
+
+  /* ----------------------------------------
+     SPACING SCALE
+     ---------------------------------------- */
+  --spacing-1: 0.25rem;    /* 4px */
+  --spacing-2: 0.5rem;     /* 8px */
+  --spacing-3: 0.75rem;    /* 12px */
+  --spacing-4: 1rem;       /* 16px */
+  --spacing-5: 1.25rem;    /* 20px */
+  --spacing-6: 1.5rem;     /* 24px */
+  --spacing-8: 2rem;       /* 32px */
+  --spacing-10: 2.5rem;    /* 40px */
+  --spacing-12: 3rem;      /* 48px */
+
+  /* ----------------------------------------
+     BORDER RADIUS
+     ---------------------------------------- */
+  --radius-none: 0;
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --radius-base: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+  --radius-full: 50%;
+
+  /* ----------------------------------------
+     BORDER WIDTHS
+     ---------------------------------------- */
+  --border-1: 1px;
+  --border-2: 2px;
+  --border-3: 3px;
+
+  /* ----------------------------------------
+     BOX SHADOWS
+     ---------------------------------------- */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.5);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  --shadow-2xl: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  --shadow-5xl: 3px 3px 10px rgba(0, 0, 0, 0.6), -3px -3px 10px rgba(0, 0, 0, 0.6);
+
+  /* Inset Shadows */
+  --shadow-inset: inset 0 1px 3px rgba(0, 0, 0, 0.3), inset 0 0 15px rgba(0, 0, 0, 0.15);
+  --shadow-inset-glow: inset 0 1px 3px rgba(0, 0, 0, 0.2),
+                       inset 0 0 20px rgba(16, 185, 129, 0.1),
+                       0 0 10px rgba(16, 185, 129, 0.15);
+
+  /* ----------------------------------------
+     TRANSITIONS
+     ---------------------------------------- */
+  --transition-fast: 0.15s ease;
+  --transition-base: 0.3s ease;
+  --transition-slow: 0.5s ease;
+  --transition-collapse: 0.4s ease;
+
+  /* ----------------------------------------
+     Z-INDEX SCALE
+     ---------------------------------------- */
+  --z-base: 1;
+  --z-dropdown: 10;
+  --z-sticky: 100;
+  --z-header: 101;
+  --z-overlay: 999;
+  --z-modal: 9999;
+
+  /* ----------------------------------------
+     GRADIENTS (as CSS Custom Properties)
+     ---------------------------------------- */
+
+  /* Dark Button Gradient */
+  --gradient-dark-button:
+    radial-gradient(ellipse at center, rgba(45, 45, 50, 1) 0%, rgba(45, 45, 50, 0.95) 40%,
+                    rgba(35, 35, 40, 0.9) 80%, rgba(26, 26, 30, 0.85) 100%),
+    #1a1a1a;
+
+  /* Green Accent Gradient */
+  --gradient-green:
+    radial-gradient(ellipse at center, rgba(16, 185, 129, 1) 0%, rgba(16, 185, 129, 0.95) 40%,
+                    rgba(12, 140, 97, 0.9) 80%, rgba(8, 100, 70, 0.85) 100%),
+    #10b981;
+
+  /* Green Hover Gradient */
+  --gradient-green-hover:
+    radial-gradient(ellipse at center, rgba(16, 185, 129, 0.2) 0%, rgba(16, 185, 129, 0.15) 40%,
+                    rgba(12, 140, 97, 0.1) 80%, rgba(8, 100, 70, 0.08) 100%),
+    rgba(16, 185, 129, 0.1);
+
+  /* Green Selected State */
+  --gradient-green-selected:
+    radial-gradient(ellipse at center, rgba(16, 185, 129, 0.25) 0%, rgba(16, 185, 129, 0.2) 40%,
+                    rgba(12, 140, 97, 0.15) 80%, rgba(8, 100, 70, 0.1) 100%),
+    rgba(16, 185, 129, 0.15);
+
+  /* Input/Select Gradient */
+  --gradient-input:
+    radial-gradient(ellipse at center, rgba(20, 20, 25, 1) 0%, rgba(20, 20, 25, 0.95) 40%,
+                    rgba(15, 15, 20, 0.9) 80%, rgba(10, 10, 15, 0.85) 100%),
+    #0a0a0a;
+
+  /* Primary Button (Cream) Gradient */
+  --gradient-primary:
+    radial-gradient(ellipse at center, rgba(230, 233, 224, 1) 0%, rgba(230, 233, 224, 0.95) 40%,
+                    rgba(200, 203, 194, 0.9) 80%, rgba(180, 183, 174, 0.85) 100%),
+    var(--color-yellow-75);
+
+  /* Card Background Gradient */
+  --gradient-card:
+    radial-gradient(ellipse at center, rgba(20, 20, 30, 0.7) 0%, rgba(0, 0, 0, 0.6) 100%);
+}
+
+
+/* ============================================
+   BASE RESET & DEFAULTS
+   ============================================ */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  line-height: var(--leading-relaxed);
+  color: var(--color-white);
+  background-color: var(--color-black);
+}
+
+/* Selection */
+::selection {
+  background-color: var(--color-yellow-75);
+  color: var(--color-black);
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-gray-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-gray-660);
+  border-radius: var(--radius-md);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-yellow-75);
+}

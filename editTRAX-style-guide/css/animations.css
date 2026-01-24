@@ -1,0 +1,368 @@
+/**
+ * ANIMATIONS - Motion & Transition Utilities
+ *
+ * This file contains animation utilities and base states for GSAP/anime.js integration.
+ * Works alongside design-tokens.css and components.css
+ *
+ * Libraries Required:
+ * - GSAP (gsap.min.js)
+ * - ScrollTrigger (ScrollTrigger.min.js)
+ * - anime.js (anime.min.js)
+ */
+
+
+/* ============================================
+   ANIMATION TIMING TOKENS
+   ============================================ */
+
+:root {
+  /* Durations */
+  --duration-instant: 0.1s;
+  --duration-fast: 0.2s;
+  --duration-normal: 0.4s;
+  --duration-slow: 0.6s;
+  --duration-slower: 0.8s;
+  --duration-slowest: 1.2s;
+
+  /* GSAP-compatible durations (in seconds) */
+  --gsap-fast: 0.3;
+  --gsap-normal: 0.5;
+  --gsap-slow: 0.8;
+  --gsap-slower: 1.2;
+
+  /* Easing - CSS */
+  --ease-out: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  --ease-out-expo: cubic-bezier(0.19, 1, 0.22, 1);
+  --ease-out-back: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+
+  /* Stagger delays */
+  --stagger-fast: 0.05s;
+  --stagger-normal: 0.1s;
+  --stagger-slow: 0.15s;
+
+  /* Animation distances */
+  --translate-sm: 20px;
+  --translate-md: 40px;
+  --translate-lg: 60px;
+  --translate-xl: 100px;
+}
+
+
+/* ============================================
+   BASE ANIMATION STATES
+   Elements start in these states, then animate to visible
+   ============================================ */
+
+/* Fade Up (most common) */
+.anim-fade-up {
+  opacity: 0;
+  transform: translateY(var(--translate-md));
+}
+
+/* Fade Down */
+.anim-fade-down {
+  opacity: 0;
+  transform: translateY(calc(var(--translate-md) * -1));
+}
+
+/* Fade Left */
+.anim-fade-left {
+  opacity: 0;
+  transform: translateX(var(--translate-md));
+}
+
+/* Fade Right */
+.anim-fade-right {
+  opacity: 0;
+  transform: translateX(calc(var(--translate-md) * -1));
+}
+
+/* Scale Up */
+.anim-scale-up {
+  opacity: 0;
+  transform: scale(0.9);
+}
+
+/* Scale Down */
+.anim-scale-down {
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+/* Fade Only */
+.anim-fade {
+  opacity: 0;
+}
+
+/* Blur In */
+.anim-blur {
+  opacity: 0;
+  filter: blur(10px);
+}
+
+
+/* ============================================
+   VISIBLE STATE (Applied by JS)
+   ============================================ */
+
+.anim-visible {
+  opacity: 1 !important;
+  transform: translateY(0) translateX(0) scale(1) !important;
+  filter: blur(0) !important;
+}
+
+
+/* ============================================
+   CSS TRANSITION UTILITIES (Tailwind-style)
+   For simple hover/state transitions
+   ============================================ */
+
+/* Transition Properties */
+.transition-none { transition: none; }
+.transition-all { transition: all var(--duration-normal) var(--ease-out); }
+.transition-opacity { transition: opacity var(--duration-normal) var(--ease-out); }
+.transition-transform { transition: transform var(--duration-normal) var(--ease-out); }
+.transition-colors { transition: color var(--duration-normal) var(--ease-out), background-color var(--duration-normal) var(--ease-out), border-color var(--duration-normal) var(--ease-out); }
+
+/* Duration Modifiers */
+.duration-fast { transition-duration: var(--duration-fast); }
+.duration-normal { transition-duration: var(--duration-normal); }
+.duration-slow { transition-duration: var(--duration-slow); }
+.duration-slower { transition-duration: var(--duration-slower); }
+
+/* Easing Modifiers */
+.ease-out { transition-timing-function: var(--ease-out); }
+.ease-out-expo { transition-timing-function: var(--ease-out-expo); }
+.ease-out-back { transition-timing-function: var(--ease-out-back); }
+.ease-in-out { transition-timing-function: var(--ease-in-out); }
+
+
+/* ============================================
+   HOVER TRANSFORMS (Tailwind-style)
+   ============================================ */
+
+.hover-lift {
+  transition: transform var(--duration-normal) var(--ease-out), box-shadow var(--duration-normal) var(--ease-out);
+}
+.hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+}
+
+.hover-scale {
+  transition: transform var(--duration-normal) var(--ease-out);
+}
+.hover-scale:hover {
+  transform: scale(1.02);
+}
+
+.hover-glow {
+  transition: box-shadow var(--duration-normal) var(--ease-out);
+}
+.hover-glow:hover {
+  box-shadow: 0 0 20px rgba(230, 233, 224, 0.2);
+}
+
+
+/* ============================================
+   GRID ANIMATION SETUP
+   For staggered grid item animations
+   ============================================ */
+
+.anim-grid {
+  /* Grid items start hidden */
+}
+
+.anim-grid > * {
+  opacity: 0;
+  transform: translateY(var(--translate-sm)) scale(0.95);
+}
+
+.anim-grid.anim-complete > * {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+}
+
+
+/* ============================================
+   STAGGER DELAYS (CSS fallback)
+   ============================================ */
+
+.stagger-1 { transition-delay: calc(var(--stagger-normal) * 1); }
+.stagger-2 { transition-delay: calc(var(--stagger-normal) * 2); }
+.stagger-3 { transition-delay: calc(var(--stagger-normal) * 3); }
+.stagger-4 { transition-delay: calc(var(--stagger-normal) * 4); }
+.stagger-5 { transition-delay: calc(var(--stagger-normal) * 5); }
+.stagger-6 { transition-delay: calc(var(--stagger-normal) * 6); }
+.stagger-7 { transition-delay: calc(var(--stagger-normal) * 7); }
+.stagger-8 { transition-delay: calc(var(--stagger-normal) * 8); }
+
+
+/* ============================================
+   SCROLL PROGRESS INDICATOR
+   ============================================ */
+
+.scroll-progress {
+  position: fixed;
+  top: 5px; /* Below color bar */
+  left: 0;
+  width: 0%;
+  height: 2px;
+  background: var(--color-yellow-75);
+  z-index: 9998;
+  transition: none;
+}
+
+
+/* ============================================
+   SMOOTH SCROLL
+   ============================================ */
+
+html.smooth-scroll {
+  scroll-behavior: smooth;
+}
+
+html {
+  /* Native smooth scroll as fallback */
+  scroll-behavior: smooth;
+}
+
+/* Ensure page header is always visible */
+.page-header {
+  opacity: 1 !important;
+  transform: none !important;
+}
+
+/* Disable smooth scroll for reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  html.smooth-scroll {
+    scroll-behavior: auto;
+  }
+
+  .anim-fade-up,
+  .anim-fade-down,
+  .anim-fade-left,
+  .anim-fade-right,
+  .anim-scale-up,
+  .anim-scale-down,
+  .anim-fade,
+  .anim-blur {
+    opacity: 1;
+    transform: none;
+    filter: none;
+  }
+}
+
+
+/* ============================================
+   LOADING STATES
+   ============================================ */
+
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    var(--color-gray-760) 25%,
+    var(--color-gray-660) 50%,
+    var(--color-gray-760) 75%
+  );
+  background-size: 200% 100%;
+  animation: skeleton-pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes skeleton-pulse {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+
+/* ============================================
+   ENTRANCE ANIMATIONS (CSS Keyframes)
+   For elements that animate on load
+   ============================================ */
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(var(--translate-md));
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(calc(var(--translate-md) * -1));
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(calc(var(--translate-lg) * -1));
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(var(--translate-lg));
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Animation Classes (one-time on load) */
+.animate-fade-in-up {
+  animation: fadeInUp var(--duration-slow) var(--ease-out-expo) forwards;
+}
+
+.animate-fade-in-down {
+  animation: fadeInDown var(--duration-slow) var(--ease-out-expo) forwards;
+}
+
+.animate-scale-in {
+  animation: scaleIn var(--duration-slow) var(--ease-out-expo) forwards;
+}
+
+.animate-slide-in-left {
+  animation: slideInLeft var(--duration-slow) var(--ease-out-expo) forwards;
+}
+
+.animate-slide-in-right {
+  animation: slideInRight var(--duration-slow) var(--ease-out-expo) forwards;
+}
+
+/* Animation Delays */
+.animate-delay-100 { animation-delay: 0.1s; }
+.animate-delay-200 { animation-delay: 0.2s; }
+.animate-delay-300 { animation-delay: 0.3s; }
+.animate-delay-400 { animation-delay: 0.4s; }
+.animate-delay-500 { animation-delay: 0.5s; }
+.animate-delay-600 { animation-delay: 0.6s; }
+.animate-delay-700 { animation-delay: 0.7s; }
+.animate-delay-800 { animation-delay: 0.8s; }

@@ -4,6 +4,9 @@
   <meta charset="utf-8">
   <title>ICERR | Rapid Response</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+  <link rel="stylesheet" href="css/design-tokens.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/animations.css">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/frox-tailwind.min.css">
   <link rel="stylesheet" href="css/frox-style.min.css">
@@ -12,7 +15,8 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chivo:wght@400;700;900&family=Noto+Sans:wght@400;500;600;700;800&display=swap">
 </head>
 <body class="w-screen relative overflow-x-hidden min-h-screen bg-black scrollbar-hide authentication-sign-in-page dark:bg-[#000]">
-  <div class="wrapper mx-auto text-gray-900 font-normal flex flex-col gap-6 md:gap-8 px-4 sm:px-6 md:px-8 lg:px-10 py-6" id="layout">
+  <img src="logos/color_bar.png" class="color-bar" alt="">
+  <div class="wrapper mx-auto text-gray-900 font-normal flex flex-col gap-6 md:gap-8 px-4 sm:px-6 md:px-8 lg:px-10 py-6" id="layout" style="padding-top: calc(var(--spacing-6) + 5px);">
     <!-- <header class="bg-black p-5 gap-5 md:py-6 md:pl-[25px] md:pr-[38px] dark:bg-black rounded-2xl border border-neutral shadow-sm dark:border-dark-neutral-border">
       <div class="w-full flex items-center gap-4">
         <a class="flex items-center gap-3 shrink-0" href="index.html">
@@ -45,9 +49,9 @@
 
     
 
-    <section class="bg-black border border-neutral rounded-2xl shadow-sm p-4 sm:p-6 dark:bg-black dark:border-dark-neutral-border">
+    <section class="card bg-black p-4 sm:p-6">
       <div class="border bg-black border-neutral dark:bg-black dark:border-dark-neutral-border text-center rounded-2xl px-2 pt-[20px] pb-[70px]">
-        <h1 class="font-semibold text-gray-1100 text-[28px] leading-[34px] dark:text-gray-dark-1100 mb-[10px]">Need to report or verify ICE activity?</h1>
+        <h1 class="main-title font-semibold text-[28px] leading-[34px] mb-[10px]">Need to report or verify ICE activity?</h1>
         <p class="leading-4 text-gray-500 mb-4 text-[14px] dark:text-gray-dark-500">Select a state to see who to call. Find state-specific incident reports, verified rapid-response contacts, and source transparency—organized for quick action.</p>
         <p class="text-xs text-gray-400 dark:text-gray-dark-400 mb-8">This site provides informational resources only. It is not affiliated with ICE or any government agency.</p>
               <div id="map-section" class="flex flex-col md:flex-row gap-4 w-full max-w-[1100px] mx-auto text-left mb-8">
@@ -256,16 +260,16 @@
             <input id="state-search-hero" data-state-search class="input w-full bg-transparent outline-none h-5 text-gray-400 text-sm leading-4 focus:!outline-none placeholder:text-gray-400 dark:placeholder:text-gray-dark-400 pl-[11px]" type="text" placeholder="Search for your state">
           </div>
           <div class="flex items-center gap-x-[14px]">
-            <button type="button" class="btn text-sm h-fit min-h-fit capitalize leading-4 border-0 px-6 bg-[#1a1b20] text-white rounded-lg py-[11.5px] hover:bg-[#1a1b20] w-full sm:w-auto text-center whitespace-normal">Select your state to continue</button>
+            <button type="button" class="btn btn-primary text-sm h-fit min-h-fit leading-4 px-6 py-[11.5px] w-full sm:w-auto text-center whitespace-normal">Select your state to continue</button>
           </div>
         </div>
         <div class="flex mx-auto flex-wrap justify-center gap-[5px] mb-[58px]">
-          <div class="bg-black border border-neutral rounded-lg text-xs text-gray-500 px-[15px] py-[10px] dark:text-gray-dark-500 dark:bg-black dark:border-dark-neutral-border">Know Your Rights</div>
-          <div class="bg-black border border-neutral rounded-lg text-xs text-gray-500 px-[15px] py-[10px] dark:text-gray-dark-500 dark:bg-black dark:border-dark-neutral-border">Rapid Response</div>
-          <div class="bg-black border border-neutral rounded-lg text-xs text-gray-500 px-[15px] py-[10px] dark:text-gray-dark-500 dark:bg-black dark:border-dark-neutral-border">Verification</div>
-          <div class="bg-black border border-neutral rounded-lg text-xs text-gray-500 px-[15px] py-[10px] dark:text-gray-dark-500 dark:bg-black dark:border-dark-neutral-border">Community Alerts</div>
-          <div class="bg-black border border-neutral rounded-lg text-xs text-gray-500 px-[15px] py-[10px] dark:text-gray-dark-500 dark:bg-black dark:border-dark-neutral-border">Data Sources</div>
-          <div class="bg-black border border-neutral rounded-lg text-xs text-gray-500 px-[15px] py-[10px] dark:text-gray-dark-500 dark:bg-black dark:border-dark-neutral-border">Safety &amp; Privacy</div>
+          <div class="badge badge-primary bg-black">Know Your Rights</div>
+          <div class="badge badge-primary bg-black">Rapid Response</div>
+          <div class="badge badge-primary bg-black">Verification</div>
+          <div class="badge badge-primary bg-black">Community Alerts</div>
+          <div class="badge badge-primary bg-black">Data Sources</div>
+          <div class="badge badge-primary bg-black">Safety &amp; Privacy</div>
         </div>
               </div>
     </section>
