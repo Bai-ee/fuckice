@@ -641,20 +641,34 @@
   }
 
   async function init() {
-    const [statesResponse, locationsResponse, incidentsResponse, sourcesResponse] = await Promise.all([
+    // Fetch static config data and live incident data in parallel
+    const [statesResponse, locationsResponse, sourcesResponse, liveData] = await Promise.all([
       fetch("data/states.json"),
       fetch("data/locations.json"),
-      fetch("data/index.json"),
-      fetch("data/sources.json")
+      fetch("data/sources.json"),
+      typeof LiveData !== 'undefined' ? LiveData.fetchAllData() : fetch("data/index.json").then(r => r.json())
     ]);
 
     const statesPayload = await statesResponse.json();
     statesWithLocations = Array.isArray(statesPayload.states) ? statesPayload.states : [];
     locationsByState = await locationsResponse.json();
-    const incidentsPayload = await incidentsResponse.json();
-    incidents = Array.isArray(incidentsPayload.incidents) ? incidentsPayload.incidents : [];
-    latestReportedAt = incidentsPayload.latest_reported_at || "";
-    generatedAt = incidentsPayload.generated_at || "";
+
+    // Use live data if available, fallback to static
+    if (liveData && liveData.incidents) {
+      incidents = liveData.incidents;
+      latestReportedAt = incidents.length > 0 ? incidents[0].reported_at : "";
+      generatedAt = new Date().toISOString();
+      console.log(`Loaded ${liveData.liveCount || 0} live incidents, ${incidents.length} total`);
+    } else if (liveData && liveData.incidents === undefined) {
+      // Fallback: liveData is actually static index.json
+      incidents = Array.isArray(liveData.incidents) ? liveData.incidents : [];
+      latestReportedAt = liveData.latest_reported_at || "";
+      generatedAt = liveData.generated_at || "";
+    } else {
+      incidents = [];
+      latestReportedAt = "";
+      generatedAt = "";
+    }
     const sourcesPayload = await sourcesResponse.json();
     sources = Array.isArray(sourcesPayload.sources) ? sourcesPayload.sources : [];
 
